@@ -23,7 +23,7 @@
 | `traffic/city.py`, `traffic/ui_city.py` | 범어네거리의 집단별 집계와 화면 |
 | `frontend/replay.js`, `frontend/city.js` | 실제 기록 기반 궤적 재생과 지도 |
 | `tests/` | 계산·실행·화면·집계 확인 방법 |
-| `docs/contributions.md` | 개발 도구·외부 지원·검토 범위 |
+| `docs/contributions.md` | 개발 도구·AI 활용·검토 범위 |
 
 <img src="docs/integration/city_workspace.png" alt="통합 시뮬레이터의 대구 범어네거리 실제 화면" width="600">
 
@@ -103,7 +103,7 @@ python -m traffic.research.network_study --output experiments/new_network_study
 - `experiments`: 입력·처리된 결과·검사·실패 기록. Git에서 생략한 대용량 원시 출력은 전체 Release ZIP에 보존합니다.
 - `docs/research_report.md`, `advanced_research.md`, `network_research.md`, `profile_mix_research.md`: 결과·가정·한계.
 - `docs/requirements.json`: 원래 계획의 항목별 상태와 근거. 파일 존재만으로 완료를 판정하지 않습니다.
-- `docs/contributions.md`: 개발 도구, 외부 지원과 검증 범위.
+- `docs/contributions.md`: 개발 도구, AI 활용과 검증 범위.
 - `data/public/ngsim/ATTRIBUTION.md`: US DOT/FHWA NGSIM 표본의 출처·추출·변환·CC BY-SA3.0 조건. 파생 자료를 공유할 때 함께 제공합니다.
 - `docs/demo/traffic_comparison.mp4`: 실제 궤적 180초를 6배속으로 재생한 30초 시연.
 

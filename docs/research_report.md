@@ -170,4 +170,4 @@ python -m scripts.summarize_v2
 ~~~
 
 기존 완료 폴더의 입력·코드 버전이 달라지면 새 출력 폴더를 사용해야 합니다. 과거 결과에 새 코드 결과를 덮어쓰지 않습니다.
-개발 도구·외부 지원·실무 검토 범위는 docs/contributions.md에 정리했습니다.
+개발 도구·AI 활용·실무 검토 범위는 docs/contributions.md에 정리했습니다.

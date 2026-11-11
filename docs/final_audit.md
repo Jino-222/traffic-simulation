@@ -26,12 +26,12 @@
 | 9a 실행 가능한 최종 앱 | complete | 빈 Python 환경에 설치하고 의존성 충돌없음 확인.배포사본6900파일 해시일치와83테스트통과.현재실행파일35개가 검증사본과 동일하며 사본 웹앱 기본결과·궤적자산 재생까지 확인했다. | [docs/tests_release_candidate.xml](../docs/tests_release_candidate.xml) · [docs/clean_environment_tests.xml](../docs/clean_environment_tests.xml) · [docs/environment_audit.json](../docs/environment_audit.json) · [docs/release_extraction.json](../docs/release_extraction.json) · [docs/release_execution.json](../docs/release_execution.json) · [docs/release_web_audit.json](../docs/release_web_audit.json) · [docs/release-web-ui.png](../docs/release-web-ui.png) · [README.md](../README.md) |
 | 9b 연구 보고서 | complete | 전체·공개자료·회전/인접·시간수요/차종 보고서에 가설·조건·결과·악화·실패·한계·출처를 포함했다.설치/사용/재현 안내와 이 완료감사를 연결한다. | [docs/research_report.md](../docs/research_report.md) · [docs/advanced_research.md](../docs/advanced_research.md) · [docs/network_research.md](../docs/network_research.md) · [docs/profile_mix_research.md](../docs/profile_mix_research.md) · [docs/final_audit.md](../docs/final_audit.md) · [README.md](../README.md) |
 | 9c 시연 영상 | complete | 실제 검증시드701의180초 기록을30초 MP4로 생성.600프레임 디코딩 대조,브라우저 실제재생·정지·오류없음 확인.준비기간 포함 집계를 영상/설명에 명시. | [docs/demo/video_audit.json](../docs/demo/video_audit.json) · [docs/demo/traffic_comparison.mp4](../docs/demo/traffic_comparison.mp4) · [docs/browser_validation.json](../docs/browser_validation.json) · [docs/video-playback-ui.png](../docs/video-playback-ui.png) |
-| 9d 개발 도구·검토 범위 | complete | 문제 설정의 배경, 외부 기획·개발 지원, AI 도구와 외부 라이브러리의 역할을 구분하고 실무 검토 항목을 정리했다. | [docs/contributions.md](../docs/contributions.md) |
+| 9d 개발 도구·검토 범위 | complete | 문제 설정의 배경, AI 코딩 도구와 라이브러리의 역할을 구분하고 실무 검토 항목을 정리했다. | [docs/contributions.md](../docs/contributions.md) |
 
 ## 남아 있는 모델 한계
 
 합성 아파트 수요·도로를 실제 현장에 보정하지 않았다. 공식 제어지체/LOS·안전인증을 제공하지 않는다.회전 모델은 보호현시의 별도 사례이며 인접교차로는 직진 모델이다.공개추종 자료의 검증은 신호/교통발생량 검증이 아니다.대기행렬 경계표시 자체로 상류전파를 확정하지 않는다.
-기획·개발에 외부 지원과 AI 도구를 활용했다. 현장 실무 타당성 검토는 별도 검증 대상이다.
+구현·수정·검증에 AI 코딩 도구를 활용했다. 현장 실무 타당성 검토는 별도 검증 대상이다.
 
 ## 확인 방식
 

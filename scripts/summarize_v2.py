@@ -80,7 +80,7 @@ def main():
       "python -m traffic.research.network_study --output experiments/new_network_study","python -m scripts.audit_network_study",
       "python -m scripts.summarize_advanced","python -m scripts.summarize_networks","python -m scripts.summarize_v2","~~~","",
       "기존 완료 폴더의 입력·코드 버전이 달라지면 새 출력 폴더를 사용해야 합니다. 과거 결과에 새 코드 결과를 덮어쓰지 않습니다.",
-      "개발 도구·외부 지원·실무 검토 범위는 docs/contributions.md에 정리했습니다."]
+      "개발 도구·AI 활용·실무 검토 범위는 docs/contributions.md에 정리했습니다."]
     (ROOT/"docs/research_report.md").write_text("\n".join(lines),encoding="utf-8")
     print(f"Report regenerated: 31 candidates, frozen holdout, {count}/16 scenarios")
 if __name__=="__main__":main()
