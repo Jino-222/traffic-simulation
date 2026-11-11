@@ -1,0 +1,20 @@
+{"stage": "discovery", "state": "running"}
+{"stage": "discovery", "state": "completed", "reused": true}
+{"stage": "holdout", "state": "running"}
+{"stage": "scenarios", "scenario": "baseline", "completed": 1, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "extra_0", "completed": 2, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "extra_0p5", "completed": 3, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "extra_1p5", "completed": 4, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "extra_2", "completed": 5, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "ns_focus", "completed": 6, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "ew_focus", "completed": 7, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "high_1p25", "completed": 8, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "high_1p5", "completed": 9, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "slow_pedestrian", "completed": 10, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "fast_pedestrian", "completed": 11, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "north_two_lanes", "completed": 12, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "irregular", "completed": 13, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "peak_profile", "completed": 14, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "mixed_fleet", "completed": 15, "total": 16, "reused": true}
+{"stage": "scenarios", "scenario": "zero_demand", "completed": 16, "total": 16, "reused": true}
+{"stage": "finished", "state": "completed", "scenarios": 16, "source_hash": "d11395bdff99c48cee3995ba2910d22d234984bcc3aff55ab6b26355e97ced6b"}

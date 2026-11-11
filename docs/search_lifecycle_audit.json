@@ -1,0 +1,220 @@
+{
+  "passed": true,
+  "path": "experiments\\search_lifecycle\\20261110T173317Z_7870a2",
+  "cancelled_after_valid_runs": 2,
+  "resumed_total": 31,
+  "preserved_tripinfo_hashes": {
+    "26": "970774cd8275d277ad63537c3651bbdd5e6c568733c0e43c93e729bbe7d13578",
+    "25": "2444c7c94dc3761fc1300bbb125b9e528b19b924de8ee250247ec6ee2656b070"
+  },
+  "actual_running_progress": [
+    {
+      "state": "running",
+      "completed": 0,
+      "total": 31,
+      "message": "paired SUMO candidate evaluation"
+    },
+    {
+      "state": "running",
+      "completed": 1,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "running",
+      "completed": 2,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 3,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 4,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 6,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 9,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 11,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 12,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 14,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 17,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 20,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 22,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 24,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 29,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelling",
+      "completed": 31,
+      "total": 31,
+      "failed": 0
+    },
+    {
+      "state": "cancelled",
+      "completed": 2,
+      "total": 31,
+      "failed": 0,
+      "eligible": 0
+    }
+  ],
+  "no_eligible_case": "experiments\\search_lifecycle\\20261110T173317Z_7870a2\\no_eligible",
+  "no_eligible_pending": [
+    869,
+    870
+  ],
+  "no_eligible_unfinished": [
+    140,
+    140
+  ]
+}

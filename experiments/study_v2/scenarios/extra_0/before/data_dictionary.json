@@ -1,0 +1,9 @@
+{
+  "metric_cohort": "scheduled departures in observation window; time averages only completed vehicles",
+  "telemetry_scope": "all demand including warmup; cumulative event counts sampled at end of interval",
+  "telemetry_time": "SUMO interval start; interval_end is returned TraCI time",
+  "observations_time": "returned TraCI step-end times; used by v1 throughput accounting",
+  "trajectory_time": "FCD simulation timestamp; independent probes record interval start and end",
+  "queue_metres": "maximum lane E2 jam length in an approach; parallel lane lengths never added",
+  "queue_limit": "potential detector-boundary truncation; does not measure vehicles outside the network"
+}

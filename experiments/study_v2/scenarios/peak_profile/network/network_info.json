@@ -1,0 +1,39 @@
+{
+  "vehicle_links": {
+    "1": "E",
+    "0": "N",
+    "2": "S",
+    "3": "W"
+  },
+  "ped_links": {
+    "7": "W",
+    "4": "N",
+    "5": "E",
+    "6": "S"
+  },
+  "crossing_lengths": {
+    "ns": 6.4,
+    "ew": 6.4
+  },
+  "crossing_sides": {
+    ":C_c0": "N",
+    ":C_c1": "E",
+    ":C_c2": "S",
+    ":C_c3": "W"
+  },
+  "lane_ids": {
+    "N": [
+      "N_in_1"
+    ],
+    "S": [
+      "S_in_1"
+    ],
+    "E": [
+      "E_in_1"
+    ],
+    "W": [
+      "W_in_1"
+    ]
+  },
+  "signal_count": 8
+}

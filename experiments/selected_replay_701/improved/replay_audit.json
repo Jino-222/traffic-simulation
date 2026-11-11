@@ -1,0 +1,10 @@
+{
+  "checks": 744,
+  "matched": 744,
+  "errors": [],
+  "source_hash": "8e3495624563e18f00e98ccf156846ff150d965b6ed8a8bdedfd601023eb3fba",
+  "frames": 10800,
+  "positions": 441918,
+  "tolerance_metres": 0.011,
+  "tolerance_speed": 0.011
+}

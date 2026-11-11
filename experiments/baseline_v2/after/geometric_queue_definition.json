@@ -1,0 +1,13 @@
+{
+  "source_hash": "b216e4fdc8cd2060d85fc15535560d5ee1dbf22aafe91ef41c1efec634b6b432",
+  "samples": 21600,
+  "definition": "Longest contiguous stopped group per lane, then maximum across parallel lanes; front-to-tail length, clipped to detector bounds.",
+  "stopped_speed_lt_mps": 0.1,
+  "stopped_duration_gt_s": 1.0,
+  "maximum_bumper_gap_m": 10.0,
+  "recording_step": 0.5,
+  "inclusion": "Vehicle front is on an incoming motor lane in FCD. This differs from E2 partial-body membership.",
+  "precision": "FCD positions/speeds are rounded; sample-period stop duration, not sub-sample inference.",
+  "e2_status": "Raw E2 values preserved. Controlled separated-group audit did not agree; do not label E2 queue as validated.",
+  "upstream_limit": "A qualified stopped vehicle rear is within the gap threshold of the upstream observation boundary; potential truncation, not proof of spillback."
+}

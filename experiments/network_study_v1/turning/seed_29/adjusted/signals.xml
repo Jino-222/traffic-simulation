@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <tlLogic id="C" type="static" programID="research" offset="0">
+    <phase duration="24" state="GGGrrrrrrrrrrrrr" name="N_protected" />
+    <phase duration="3" state="yyyrrrrrrrrrrrrr" name="N_yellow" />
+    <phase duration="5" state="rrrrrrrrrrrrrrrr" name="N_allred" />
+    <phase duration="14" state="rrrGGGrrrrrrrrrr" name="E_protected" />
+    <phase duration="3" state="rrryyyrrrrrrrrrr" name="E_yellow" />
+    <phase duration="5" state="rrrrrrrrrrrrrrrr" name="E_allred" />
+    <phase duration="20" state="rrrrrrGGGrrrrrrr" name="S_protected" />
+    <phase duration="3" state="rrrrrryyyrrrrrrr" name="S_yellow" />
+    <phase duration="5" state="rrrrrrrrrrrrrrrr" name="S_allred" />
+    <phase duration="14" state="rrrrrrrrrGGGrrrr" name="W_protected" />
+    <phase duration="3" state="rrrrrrrrryyyrrrr" name="W_yellow" />
+    <phase duration="5" state="rrrrrrrrrrrrrrrr" name="W_allred" />
+    <phase duration="3" state="rrrrrrrrrrrrGGGG" name="ped_walk" />
+    <phase duration="21.5" state="rrrrrrrrrrrrrrrr" name="ped_clearance" />
+  </tlLogic>
+</additional>

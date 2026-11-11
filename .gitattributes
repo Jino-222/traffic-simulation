@@ -1,0 +1,3 @@
+# Preserve exact bytes for frozen evidence, source hashes, CSV and XML records.
+# Git still displays normal text diffs; this only disables newline conversion.
+* -text

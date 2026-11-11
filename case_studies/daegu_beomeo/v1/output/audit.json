@@ -1,0 +1,98 @@
+{
+  "passed": 23,
+  "checks": [
+    {
+      "check": "Existing demand vehicles exactly preserved after occupancy",
+      "passed": true
+    },
+    {
+      "check": "Exactly 250 added departure requests over 25 minutes",
+      "passed": true
+    },
+    {
+      "check": "After and adjusted reference identical demand file",
+      "passed": true
+    },
+    {
+      "check": "Signal phase states and order preserved",
+      "passed": true
+    },
+    {
+      "check": "Both signal cycles equal 90 seconds",
+      "passed": true
+    },
+    {
+      "check": "Yellow durations unchanged",
+      "passed": true
+    },
+    {
+      "check": "Candidate green durations at least 10 seconds",
+      "passed": true
+    },
+    {
+      "check": "before requested = completed + running + waiting",
+      "passed": true
+    },
+    {
+      "check": "before replay timestamps are 300..1496 step4",
+      "passed": true
+    },
+    {
+      "check": "before finite vehicle coordinates / nonnegative speeds",
+      "passed": true
+    },
+    {
+      "check": "before correct active signal program",
+      "passed": true
+    },
+    {
+      "check": "after requested = completed + running + waiting",
+      "passed": true
+    },
+    {
+      "check": "after replay timestamps are 300..1496 step4",
+      "passed": true
+    },
+    {
+      "check": "after finite vehicle coordinates / nonnegative speeds",
+      "passed": true
+    },
+    {
+      "check": "after correct active signal program",
+      "passed": true
+    },
+    {
+      "check": "adjusted requested = completed + running + waiting",
+      "passed": true
+    },
+    {
+      "check": "adjusted replay timestamps are 300..1496 step4",
+      "passed": true
+    },
+    {
+      "check": "adjusted finite vehicle coordinates / nonnegative speeds",
+      "passed": true
+    },
+    {
+      "check": "adjusted correct active signal program",
+      "passed": true
+    },
+    {
+      "check": "All noncentral TLS states unchanged",
+      "passed": true
+    },
+    {
+      "check": "Before and after have identical signals",
+      "passed": true
+    },
+    {
+      "check": "Ten visual outputs exist",
+      "passed": true
+    },
+    {
+      "check": "Native overview and closeup are different renders",
+      "passed": true
+    }
+  ],
+  "important_limit": "No field calibration, pedestrian clearance validation, multiple demand seeds, or safety certification."
+}

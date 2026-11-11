@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+  <vType id="L135" carFollowModel="Krauss" length="7.528560000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F135" carFollowModel="Krauss" length="5.45592" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r135" edges="e135" />
+  <vehicle id="L135" type="L135" route="r135" depart="0" departPos="225.170384" departSpeed="0" />
+  <vehicle id="F135" type="F135" route="r135" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L136" carFollowModel="Krauss" length="5.45592" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F136" carFollowModel="Krauss" length="5.45592" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r136" edges="e136" />
+  <vehicle id="L136" type="L136" route="r136" depart="0" departPos="212.896088" departSpeed="0" />
+  <vehicle id="F136" type="F136" route="r136" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L138" carFollowModel="Krauss" length="5.45592" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F138" carFollowModel="Krauss" length="5.8521600000000005" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r138" edges="e138" />
+  <vehicle id="L138" type="L138" route="r138" depart="0" departPos="213.508736" departSpeed="0" />
+  <vehicle id="F138" type="F138" route="r138" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L139" carFollowModel="Krauss" length="5.57784" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F139" carFollowModel="Krauss" length="5.273040000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r139" edges="e139" />
+  <vehicle id="L139" type="L139" route="r139" depart="0" departPos="214.179296" departSpeed="0" />
+  <vehicle id="F139" type="F139" route="r139" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L140" carFollowModel="Krauss" length="7.55904" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F140" carFollowModel="Krauss" length="6.096" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r140" edges="e140" />
+  <vehicle id="L140" type="L140" route="r140" depart="0" departPos="309.557312" departSpeed="0" />
+  <vehicle id="F140" type="F140" route="r140" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L142" carFollowModel="Krauss" length="3.87096" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F142" carFollowModel="Krauss" length="4.572" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r142" edges="e142" />
+  <vehicle id="L142" type="L142" route="r142" depart="0" departPos="250.62727999999998" departSpeed="0" />
+  <vehicle id="F142" type="F142" route="r142" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L149" carFollowModel="Krauss" length="5.273040000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F149" carFollowModel="Krauss" length="6.00456" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r149" edges="e149" />
+  <vehicle id="L149" type="L149" route="r149" depart="0" departPos="226.066496" departSpeed="0" />
+  <vehicle id="F149" type="F149" route="r149" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L152" carFollowModel="Krauss" length="5.8521600000000005" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F152" carFollowModel="Krauss" length="6.949440000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r152" edges="e152" />
+  <vehicle id="L152" type="L152" route="r152" depart="0" departPos="217.78508" departSpeed="0" />
+  <vehicle id="F152" type="F152" route="r152" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L157" carFollowModel="Krauss" length="6.949440000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F157" carFollowModel="Krauss" length="4.968240000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r157" edges="e157" />
+  <vehicle id="L157" type="L157" route="r157" depart="0" departPos="216.18488" departSpeed="0" />
+  <vehicle id="F157" type="F157" route="r157" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L160" carFollowModel="Krauss" length="4.8768" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F160" carFollowModel="Krauss" length="6.278880000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r160" edges="e160" />
+  <vehicle id="L160" type="L160" route="r160" depart="0" departPos="212.77112" departSpeed="0" />
+  <vehicle id="F160" type="F160" route="r160" depart="0" departPos="200" departSpeed="0" />
+</routes>

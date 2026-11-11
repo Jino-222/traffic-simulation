@@ -1,0 +1,17 @@
+Browser verification on 2026-11-11 (local IAB)
+------------------------------------------------
+PASS: initial load, three scenario JSON files, 900 replay frames total
+PASS: switching after -> adjusted updates scenario label and live counts
+PASS: play advances timestamp and vehicle positions; pause stops playback
+PASS: map, isometric, average-speed and cumulative-stop modes
+PASS: overview button and zoom slider (1700m and 200m coverage checks)
+PASS: vehicle click selects base_S_0028 and displays 0.0 km/h at t=900
+PASS: selected vehicle activates trajectory layer
+PASS: native SUMO overview and close-up included in image gallery
+PASS: no JavaScript warnings/errors in tested interactions
+Screenshot: output/gallery_verified.png
+
+The built-in PNG save button was triggered, but the IAB download-event tool
+timed out. Browser download completion was not verified. All ten independently
+saved PNG files are already included in figures/ and the ZIP.
+Responsive CSS is included; mobile viewport behavior was not separately verified.

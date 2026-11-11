@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<connections>
+  <connection from="N_in" to="S_out" fromLane="1" toLane="1" />
+  <connection from="N_in" to="S_out" fromLane="2" toLane="2" />
+  <crossing node="C" edges="N_in N_out" width="3" priority="true" />
+  <connection from="S_in" to="N_out" fromLane="1" toLane="1" />
+  <crossing node="C" edges="S_in S_out" width="3" priority="true" />
+  <connection from="E_in" to="W_out" fromLane="1" toLane="1" />
+  <crossing node="C" edges="E_in E_out" width="3" priority="true" />
+  <connection from="W_in" to="E_out" fromLane="1" toLane="1" />
+  <crossing node="C" edges="W_in W_out" width="3" priority="true" />
+</connections>

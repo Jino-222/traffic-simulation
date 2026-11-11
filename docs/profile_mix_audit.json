@@ -1,0 +1,503 @@
+{
+  "passed": true,
+  "records": [
+    {
+      "scenario": "baseline",
+      "config": {
+        "approaches": {
+          "N": {
+            "lanes": 1,
+            "base": 650,
+            "extra": 250
+          },
+          "S": {
+            "lanes": 1,
+            "base": 550,
+            "extra": 150
+          },
+          "E": {
+            "lanes": 1,
+            "base": 450,
+            "extra": 100
+          },
+          "W": {
+            "lanes": 1,
+            "base": 350,
+            "extra": 100
+          }
+        },
+        "cycle": 90,
+        "yellow": 3,
+        "all_red": 2,
+        "before_ns": 40,
+        "before_ew": 40,
+        "improved_ns": 50,
+        "improved_ew": 30,
+        "saturation": 1800,
+        "start_loss": 2,
+        "crossing_length_ns": 20,
+        "crossing_length_ew": 20,
+        "pedestrian_speed": 1,
+        "pedestrian_walk": 3,
+        "pedestrian_margin": 2,
+        "pedestrian_budget_ns": 25,
+        "pedestrian_budget_ew": 25,
+        "pedestrian_rate": 60,
+        "road_length": 300,
+        "speed_kmh": 50,
+        "warmup": 900,
+        "duration": 3600,
+        "drain": 900,
+        "seed": 407,
+        "stochastic": true,
+        "step_length": 0.5,
+        "demand_profile": [
+          1.0
+        ],
+        "vehicle_mix": {
+          "car": 1.0,
+          "bus": 0.0,
+          "truck": 0.0
+        },
+        "car_tau": 1.0,
+        "car_sigma": 0.0,
+        "record_trajectories": false,
+        "trajectory_period": 0.5,
+        "telemetry_period": 1.0,
+        "e2_enabled": true,
+        "e2_speed_threshold": 0.1,
+        "e2_time_threshold": 1.0,
+        "e2_jam_gap": 10.0
+      },
+      "quarter_hour_counts": [
+        640,
+        674,
+        650,
+        636
+      ],
+      "actual_type_counts": {
+        "car": 2600
+      },
+      "type_parameters": {
+        "car": {
+          "id": "car",
+          "vClass": "passenger",
+          "carFollowModel": "Krauss",
+          "length": "5",
+          "minGap": "2.5",
+          "accel": "2.6",
+          "decel": "4.5",
+          "tau": "1.0",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        },
+        "bus": {
+          "id": "bus",
+          "vClass": "bus",
+          "carFollowModel": "Krauss",
+          "length": "12",
+          "minGap": "2.5",
+          "accel": "1.2",
+          "decel": "4",
+          "tau": "1.5",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        },
+        "truck": {
+          "id": "truck",
+          "vClass": "truck",
+          "carFollowModel": "Krauss",
+          "length": "12",
+          "minGap": "2.5",
+          "accel": "1.0",
+          "decel": "4",
+          "tau": "1.5",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        }
+      },
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 22.72464615384615,
+          "waiting_time": 15.550576923076923,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.866244444444476,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 19.38876538461539,
+          "waiting_time": 13.224807692307692,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.54387272727274,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "demand_sha256": "d66c07b17589382933fb89589768436bd1a4a3b64ffa546bb491361c0c90fba7"
+    },
+    {
+      "scenario": "peak_profile",
+      "config": {
+        "approaches": {
+          "N": {
+            "lanes": 1,
+            "base": 650,
+            "extra": 250
+          },
+          "S": {
+            "lanes": 1,
+            "base": 550,
+            "extra": 150
+          },
+          "E": {
+            "lanes": 1,
+            "base": 450,
+            "extra": 100
+          },
+          "W": {
+            "lanes": 1,
+            "base": 350,
+            "extra": 100
+          }
+        },
+        "cycle": 90,
+        "yellow": 3,
+        "all_red": 2,
+        "before_ns": 40,
+        "before_ew": 40,
+        "improved_ns": 50,
+        "improved_ew": 30,
+        "saturation": 1800,
+        "start_loss": 2,
+        "crossing_length_ns": 20,
+        "crossing_length_ew": 20,
+        "pedestrian_speed": 1,
+        "pedestrian_walk": 3,
+        "pedestrian_margin": 2,
+        "pedestrian_budget_ns": 25,
+        "pedestrian_budget_ew": 25,
+        "pedestrian_rate": 60,
+        "road_length": 300,
+        "speed_kmh": 50,
+        "warmup": 900,
+        "duration": 3600,
+        "drain": 900,
+        "seed": 407,
+        "stochastic": true,
+        "step_length": 0.5,
+        "demand_profile": [
+          0.8,
+          1.0,
+          1.4,
+          0.8
+        ],
+        "vehicle_mix": {
+          "car": 1.0,
+          "bus": 0.0,
+          "truck": 0.0
+        },
+        "car_tau": 1.0,
+        "car_sigma": 0.0,
+        "record_trajectories": false,
+        "trajectory_period": 0.5,
+        "telemetry_period": 1.0,
+        "e2_enabled": true,
+        "e2_speed_threshold": 0.1,
+        "e2_time_threshold": 1.0,
+        "e2_jam_gap": 10.0
+      },
+      "quarter_hour_counts": [
+        513,
+        692,
+        896,
+        499
+      ],
+      "actual_type_counts": {
+        "car": 2600
+      },
+      "type_parameters": {
+        "car": {
+          "id": "car",
+          "vClass": "passenger",
+          "carFollowModel": "Krauss",
+          "length": "5",
+          "minGap": "2.5",
+          "accel": "2.6",
+          "decel": "4.5",
+          "tau": "1.0",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        },
+        "bus": {
+          "id": "bus",
+          "vClass": "bus",
+          "carFollowModel": "Krauss",
+          "length": "12",
+          "minGap": "2.5",
+          "accel": "1.2",
+          "decel": "4",
+          "tau": "1.5",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        },
+        "truck": {
+          "id": "truck",
+          "vClass": "truck",
+          "carFollowModel": "Krauss",
+          "length": "12",
+          "minGap": "2.5",
+          "accel": "1.0",
+          "decel": "4",
+          "tau": "1.5",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        }
+      },
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 19.98292499999999,
+          "waiting_time": 14.1135,
+          "depart_delay": 0.09425,
+          "worst_direction_time_loss": 22.029230769230793,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 29.048580769230792,
+          "waiting_time": 19.633076923076924,
+          "depart_delay": 2.8048076923076923,
+          "worst_direction_time_loss": 41.167355555555616,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 25.41922692307695,
+          "waiting_time": 17.50019230769231,
+          "depart_delay": 0.34365384615384614,
+          "worst_direction_time_loss": 47.44472727272731,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "demand_sha256": "4dbd8588828c49c527505cf220e520ec3048d048eaa57ed7fc553145367e9e10"
+    },
+    {
+      "scenario": "mixed_fleet",
+      "config": {
+        "approaches": {
+          "N": {
+            "lanes": 1,
+            "base": 650,
+            "extra": 250
+          },
+          "S": {
+            "lanes": 1,
+            "base": 550,
+            "extra": 150
+          },
+          "E": {
+            "lanes": 1,
+            "base": 450,
+            "extra": 100
+          },
+          "W": {
+            "lanes": 1,
+            "base": 350,
+            "extra": 100
+          }
+        },
+        "cycle": 90,
+        "yellow": 3,
+        "all_red": 2,
+        "before_ns": 40,
+        "before_ew": 40,
+        "improved_ns": 50,
+        "improved_ew": 30,
+        "saturation": 1800,
+        "start_loss": 2,
+        "crossing_length_ns": 20,
+        "crossing_length_ew": 20,
+        "pedestrian_speed": 1,
+        "pedestrian_walk": 3,
+        "pedestrian_margin": 2,
+        "pedestrian_budget_ns": 25,
+        "pedestrian_budget_ew": 25,
+        "pedestrian_rate": 60,
+        "road_length": 300,
+        "speed_kmh": 50,
+        "warmup": 900,
+        "duration": 3600,
+        "drain": 900,
+        "seed": 407,
+        "stochastic": true,
+        "step_length": 0.5,
+        "demand_profile": [
+          1.0
+        ],
+        "vehicle_mix": {
+          "car": 0.85,
+          "bus": 0.05,
+          "truck": 0.1
+        },
+        "car_tau": 1.0,
+        "car_sigma": 0.0,
+        "record_trajectories": false,
+        "trajectory_period": 0.5,
+        "telemetry_period": 1.0,
+        "e2_enabled": true,
+        "e2_speed_threshold": 0.1,
+        "e2_time_threshold": 1.0,
+        "e2_jam_gap": 10.0
+      },
+      "quarter_hour_counts": [
+        640,
+        674,
+        650,
+        636
+      ],
+      "actual_type_counts": {
+        "truck": 278,
+        "car": 2213,
+        "bus": 109
+      },
+      "type_parameters": {
+        "car": {
+          "id": "car",
+          "vClass": "passenger",
+          "carFollowModel": "Krauss",
+          "length": "5",
+          "minGap": "2.5",
+          "accel": "2.6",
+          "decel": "4.5",
+          "tau": "1.0",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        },
+        "bus": {
+          "id": "bus",
+          "vClass": "bus",
+          "carFollowModel": "Krauss",
+          "length": "12",
+          "minGap": "2.5",
+          "accel": "1.2",
+          "decel": "4",
+          "tau": "1.5",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        },
+        "truck": {
+          "id": "truck",
+          "vClass": "truck",
+          "carFollowModel": "Krauss",
+          "length": "12",
+          "minGap": "2.5",
+          "accel": "1.0",
+          "decel": "4",
+          "tau": "1.5",
+          "sigma": "0.0",
+          "speedFactor": "1",
+          "speedDev": "0"
+        }
+      },
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 20.971035,
+          "waiting_time": 13.52575,
+          "depart_delay": 0.11025,
+          "worst_direction_time_loss": 23.329169230769253,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 42.71511153846158,
+          "waiting_time": 26.527115384615385,
+          "depart_delay": 32.69673076923077,
+          "worst_direction_time_loss": 80.63170000000008,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 24.021003846153853,
+          "waiting_time": 14.804807692307692,
+          "depart_delay": 0.1819230769230769,
+          "worst_direction_time_loss": 38.014563636363604,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "demand_sha256": "86b0ca4547f55dd2b8002296f7084ca30562c15a43eb0905709086cab97fa115"
+    }
+  ],
+  "note": "Random draws preserve total demand, not exact per-bin or per-type proportions. Single scenario seed 407 is sensitivity evidence, not a general effect estimate."
+}

@@ -1,0 +1,20 @@
+{
+  "training": "C:\\Users\\kikik\\OneDrive\\Lab ( 2025.4.14 ~ )\\서울대 박사과정\\기타작업\\진호SK가자\\traffic-impact-research\\experiments\\study_v2\\discovery",
+  "training_summary_hash": "75a43114a1f81d57fb1b21920d1271438d0b10aad19ac6482b97431e9b42aee6",
+  "discovery_seeds": [
+    101,
+    202,
+    303
+  ],
+  "validation_seeds": [
+    701,
+    809,
+    911
+  ],
+  "overall_best": 49,
+  "balanced_best": 44,
+  "selected": [
+    44,
+    49
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "core_hash": "d11395bdff99c48cee3995ba2910d22d234984bcc3aff55ab6b26355e97ced6b",
+  "comparison": "study_v2/scenarios/baseline",
+  "changed_fields": [
+    "stochastic"
+  ]
+}

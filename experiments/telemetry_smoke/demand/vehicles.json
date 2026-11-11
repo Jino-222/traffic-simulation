@@ -1,0 +1,933 @@
+{
+  "v_N_base_measure_0": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 2.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_1": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 8.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_2": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 13.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_3": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 19.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_4": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 24.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_5": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 30.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_6": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 35.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_7": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 40.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_8": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 46.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_9": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 51.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_10": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 57.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_11": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 62.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_12": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 68.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_13": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 73.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_14": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 79.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_15": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 84.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_16": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 90.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_17": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 95.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_18": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 100.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_19": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 106.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_20": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 111.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_21": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 117.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_22": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 122.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_23": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 128.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_24": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 133.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_25": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 139.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_26": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 144.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_27": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 150.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_28": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 155.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_29": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 160.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_30": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 166.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_31": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 171.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_base_measure_32": {
+    "direction": "N",
+    "source": "base",
+    "scheduled": 177.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_0": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 6.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_1": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 20.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_2": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 34.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_3": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 48.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_4": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 62.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_5": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 76.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_6": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 90.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_7": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 103.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_8": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 117.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_9": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 131.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_10": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 145.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_11": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 159.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_N_extra_measure_12": {
+    "direction": "N",
+    "source": "extra",
+    "scheduled": 173.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_0": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 3.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_1": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 9.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_2": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 16.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_3": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 22.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_4": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 28.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_5": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 35.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_6": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 41.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_7": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 48.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_8": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 54.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_9": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 61.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_10": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 67.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_11": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 73.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_12": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 80.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_13": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 86.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_14": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 93.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_15": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 99.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_16": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 106.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_17": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 112.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_18": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 118.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_19": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 125.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_20": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 131.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_21": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 138.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_22": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 144.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_23": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 151.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_24": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 157.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_25": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 163.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_26": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 170.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_base_measure_27": {
+    "direction": "S",
+    "source": "base",
+    "scheduled": 176.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_extra_measure_0": {
+    "direction": "S",
+    "source": "extra",
+    "scheduled": 11.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_extra_measure_1": {
+    "direction": "S",
+    "source": "extra",
+    "scheduled": 33.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_extra_measure_2": {
+    "direction": "S",
+    "source": "extra",
+    "scheduled": 56.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_extra_measure_3": {
+    "direction": "S",
+    "source": "extra",
+    "scheduled": 78.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_extra_measure_4": {
+    "direction": "S",
+    "source": "extra",
+    "scheduled": 101.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_extra_measure_5": {
+    "direction": "S",
+    "source": "extra",
+    "scheduled": 123.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_extra_measure_6": {
+    "direction": "S",
+    "source": "extra",
+    "scheduled": 146.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_S_extra_measure_7": {
+    "direction": "S",
+    "source": "extra",
+    "scheduled": 168.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_0": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 3.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_1": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 11.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_2": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 19.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_3": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 27.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_4": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 35.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_5": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 43.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_6": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 50.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_7": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 58.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_8": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 66.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_9": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 74.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_10": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 82.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_11": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 90.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_12": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 97.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_13": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 105.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_14": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 113.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_15": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 121.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_16": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 129.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_17": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 136.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_18": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 144.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_19": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 152.5,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_20": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 160.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_21": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 168.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_base_measure_22": {
+    "direction": "E",
+    "source": "base",
+    "scheduled": 176.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_extra_measure_0": {
+    "direction": "E",
+    "source": "extra",
+    "scheduled": 18.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_extra_measure_1": {
+    "direction": "E",
+    "source": "extra",
+    "scheduled": 54.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_extra_measure_2": {
+    "direction": "E",
+    "source": "extra",
+    "scheduled": 90.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_extra_measure_3": {
+    "direction": "E",
+    "source": "extra",
+    "scheduled": 126.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_E_extra_measure_4": {
+    "direction": "E",
+    "source": "extra",
+    "scheduled": 162.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_0": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 5.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_1": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 15.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_2": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 25.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_3": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 35.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_4": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 45.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_5": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 55.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_6": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 65.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_7": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 75.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_8": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 85.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_9": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 95.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_10": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 105.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_11": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 115.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_12": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 125.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_13": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 135.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_14": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 145.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_15": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 155.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_16": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 165.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_base_measure_17": {
+    "direction": "W",
+    "source": "base",
+    "scheduled": 175.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_extra_measure_0": {
+    "direction": "W",
+    "source": "extra",
+    "scheduled": 18.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_extra_measure_1": {
+    "direction": "W",
+    "source": "extra",
+    "scheduled": 54.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_extra_measure_2": {
+    "direction": "W",
+    "source": "extra",
+    "scheduled": 90.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_extra_measure_3": {
+    "direction": "W",
+    "source": "extra",
+    "scheduled": 126.0,
+    "measured": true,
+    "vehicle_type": "car"
+  },
+  "v_W_extra_measure_4": {
+    "direction": "W",
+    "source": "extra",
+    "scheduled": 162.0,
+    "measured": true,
+    "vehicle_type": "car"
+  }
+}

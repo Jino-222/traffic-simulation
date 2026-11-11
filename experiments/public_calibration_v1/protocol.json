@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "source_sha256": "e54975944d744fc09d446c86298d191df8b3c759a7bb97b843b4d185fcc86df8",
+  "code_sha256": "66c888a8becbc8e8eb816f663a4837a4900b3d935c6118c01108ac1ec06dbcfa",
+  "sumo_version": "0.0.0",
+  "train": [
+    110,
+    113,
+    117,
+    118,
+    119,
+    122,
+    123,
+    126,
+    127,
+    129,
+    134
+  ],
+  "validation": [
+    135,
+    136,
+    138,
+    139,
+    140,
+    142,
+    149,
+    152,
+    157,
+    160
+  ],
+  "grid": [
+    {
+      "tau": 0.6,
+      "minGap": 0.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 0.6,
+      "minGap": 0.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 0.6,
+      "minGap": 1.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 0.6,
+      "minGap": 1.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 0.6,
+      "minGap": 2.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 0.6,
+      "minGap": 2.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.0,
+      "minGap": 0.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.0,
+      "minGap": 0.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.0,
+      "minGap": 1.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.0,
+      "minGap": 1.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.0,
+      "minGap": 2.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.0,
+      "minGap": 2.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.4,
+      "minGap": 0.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.4,
+      "minGap": 0.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.4,
+      "minGap": 1.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.4,
+      "minGap": 1.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.4,
+      "minGap": 2.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.4,
+      "minGap": 2.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.8,
+      "minGap": 0.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.8,
+      "minGap": 0.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.8,
+      "minGap": 1.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.8,
+      "minGap": 1.5,
+      "accel": 2.6
+    },
+    {
+      "tau": 1.8,
+      "minGap": 2.5,
+      "accel": 1.0
+    },
+    {
+      "tau": 1.8,
+      "minGap": 2.5,
+      "accel": 2.6
+    }
+  ],
+  "baseline": {
+    "tau": 1.0,
+    "minGap": 2.5,
+    "accel": 2.6
+  },
+  "dt": 0.1,
+  "model": "Krauss",
+  "fixed": {
+    "sigma": 0,
+    "decel": 4.5,
+    "emergencyDecel": 9,
+    "maxSpeed": 22.222222,
+    "seed": 1729
+  },
+  "objective": "Equal trajectory mean of speed RMSE / 2 m/s + bumper-gap RMSE / 10 m; exclude t=0 initialization",
+  "preprocessing": "Longitudinal leader position oriented along motion, cumulative maximum removes backward tracking noise; target speeds and headways unchanged",
+  "control": "Leader interval speed reproduces monotone positions; follower initialized once then evolves freely; no signals or other traffic",
+  "collision_definition": "Physical overlap: collision.mingap-factor=0; model minGap remains in car following",
+  "split": "Frozen follower-ID split; overlapping times and some related leaders, not independent site validation",
+  "source_url": "https://data.transportation.gov/d/8ect-6jqj",
+  "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+}

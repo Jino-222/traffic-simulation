@@ -1,0 +1,610 @@
+{
+  "config": {
+    "approaches": {
+      "N": {
+        "lanes": 1,
+        "base": 650,
+        "extra": 300.0
+      },
+      "S": {
+        "lanes": 1,
+        "base": 550,
+        "extra": 180.0
+      },
+      "E": {
+        "lanes": 1,
+        "base": 450,
+        "extra": 60.0
+      },
+      "W": {
+        "lanes": 1,
+        "base": 350,
+        "extra": 60.0
+      }
+    },
+    "cycle": 90,
+    "yellow": 3,
+    "all_red": 2,
+    "before_ns": 40,
+    "before_ew": 40,
+    "improved_ns": 50,
+    "improved_ew": 30,
+    "saturation": 1800,
+    "start_loss": 2,
+    "crossing_length_ns": 20,
+    "crossing_length_ew": 20,
+    "pedestrian_speed": 1,
+    "pedestrian_walk": 3,
+    "pedestrian_margin": 2,
+    "pedestrian_budget_ns": 25,
+    "pedestrian_budget_ew": 25,
+    "pedestrian_rate": 60,
+    "road_length": 300,
+    "speed_kmh": 50,
+    "warmup": 900,
+    "duration": 3600,
+    "drain": 900,
+    "seed": 407,
+    "stochastic": true,
+    "step_length": 0.5,
+    "demand_profile": [
+      1.0
+    ],
+    "vehicle_mix": {
+      "car": 1.0,
+      "bus": 0.0,
+      "truck": 0.0
+    },
+    "car_tau": 1.0,
+    "car_sigma": 0.0,
+    "record_trajectories": false,
+    "trajectory_period": 0.5,
+    "telemetry_period": 1.0,
+    "e2_enabled": true,
+    "e2_speed_threshold": 0.1,
+    "e2_time_threshold": 1.0,
+    "e2_jam_gap": 10.0
+  },
+  "manifest": {
+    "schema_version": 2,
+    "model_version": "2.0.0-dev",
+    "synthetic": true,
+    "source_hash": "d1835faf3e3f52ac6d163fe1f34c7ed0680be769f82be82f9778648d7fc965e1",
+    "experiment_id": "ns_focus",
+    "created_utc": "2026-11-10T16:22:44.485800+00:00",
+    "input_hash": "df3d7db5b8527744",
+    "python": "3.11.6",
+    "packages": {
+      "eclipse-sumo": "1.28.0",
+      "traci": "1.28.0",
+      "sumolib": "1.28.0",
+      "streamlit": "1.67.0",
+      "plotly": "7.1.0"
+    },
+    "network_hash": "9aa7d3616f3f53971084a15f80cdf6dbbd796be8bec9b6926c422db6f26f474c",
+    "demand_hashes": {
+      "before": "5633d17e8e63167ee769c03e53a408cbd9cfcd27f08df6c3b033828ca1eb37bf",
+      "after": "46e7283f2eaca3b5180cc8e1af52e9d5b7ff8c80d1f2dd286c6e12db34a86ce8"
+    },
+    "vehicle_parameters": {
+      "length": 5,
+      "minGap": 2.5,
+      "accel": 2.6,
+      "decel": 4.5,
+      "tau": 1.0,
+      "sigma": 0.0,
+      "speedFactor": 1
+    },
+    "vehicle_mix": {
+      "car": 1.0,
+      "bus": 0.0,
+      "truck": 0.0
+    },
+    "demand_profile": [
+      1.0
+    ],
+    "telemetry_period": 1.0,
+    "trajectory_period": null,
+    "e2": {
+      "enabled": true,
+      "speed": 0.1,
+      "time": 1.0,
+      "gap": 10.0
+    },
+    "demand_method": "fixed rounded count; seeded uniform arrival times",
+    "measured_cohort": "scheduled departures in [900, 4500) seconds",
+    "observation_window": "[900, 4500) seconds",
+    "end_time": 5400,
+    "geometry_crossing_lengths": {
+      "ns": 6.4,
+      "ew": 6.4
+    },
+    "warnings": [
+      "합성 데이터 결과이며 현장 교통영향평가·안전 판단용이 아님",
+      "공식 기반 포화교통류율·손실시간과 SUMO 차량 동작은 별개 가정",
+      "시간 지표는 완료 차량에 한정; 미완료·미진입 차량과 함께 해석",
+      "정지 차량 대수는 대기행렬 길이(m)가 아님"
+    ]
+  },
+  "analytic": [
+    {
+      "id": "before",
+      "title": "입주 전",
+      "errors": [],
+      "rows": [
+        {
+          "direction": "N",
+          "label": "북측",
+          "volume": 650,
+          "capacity": 760.0,
+          "vc": 0.8552631578947368,
+          "green": 40,
+          "effective_green": 38
+        },
+        {
+          "direction": "S",
+          "label": "남측",
+          "volume": 550,
+          "capacity": 760.0,
+          "vc": 0.7236842105263158,
+          "green": 40,
+          "effective_green": 38
+        },
+        {
+          "direction": "E",
+          "label": "동측",
+          "volume": 450,
+          "capacity": 760.0,
+          "vc": 0.5921052631578947,
+          "green": 40,
+          "effective_green": 38
+        },
+        {
+          "direction": "W",
+          "label": "서측",
+          "volume": 350,
+          "capacity": 760.0,
+          "vc": 0.4605263157894737,
+          "green": 40,
+          "effective_green": 38
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "title": "입주 후",
+      "errors": [],
+      "rows": [
+        {
+          "direction": "N",
+          "label": "북측",
+          "volume": 950.0,
+          "capacity": 760.0,
+          "vc": 1.25,
+          "green": 40,
+          "effective_green": 38
+        },
+        {
+          "direction": "S",
+          "label": "남측",
+          "volume": 730.0,
+          "capacity": 760.0,
+          "vc": 0.9605263157894737,
+          "green": 40,
+          "effective_green": 38
+        },
+        {
+          "direction": "E",
+          "label": "동측",
+          "volume": 510.0,
+          "capacity": 760.0,
+          "vc": 0.6710526315789473,
+          "green": 40,
+          "effective_green": 38
+        },
+        {
+          "direction": "W",
+          "label": "서측",
+          "volume": 410.0,
+          "capacity": 760.0,
+          "vc": 0.5394736842105263,
+          "green": 40,
+          "effective_green": 38
+        }
+      ]
+    },
+    {
+      "id": "improved",
+      "title": "신호 개선 후보",
+      "errors": [],
+      "rows": [
+        {
+          "direction": "N",
+          "label": "북측",
+          "volume": 950.0,
+          "capacity": 960.0,
+          "vc": 0.9895833333333334,
+          "green": 50,
+          "effective_green": 48
+        },
+        {
+          "direction": "S",
+          "label": "남측",
+          "volume": 730.0,
+          "capacity": 960.0,
+          "vc": 0.7604166666666666,
+          "green": 50,
+          "effective_green": 48
+        },
+        {
+          "direction": "E",
+          "label": "동측",
+          "volume": 510.0,
+          "capacity": 560.0,
+          "vc": 0.9107142857142857,
+          "green": 30,
+          "effective_green": 28
+        },
+        {
+          "direction": "W",
+          "label": "서측",
+          "volume": 410.0,
+          "capacity": 560.0,
+          "vc": 0.7321428571428571,
+          "green": 30,
+          "effective_green": 28
+        }
+      ]
+    }
+  ],
+  "sumo": [
+    {
+      "scenario": "before",
+      "rows": [
+        {
+          "direction": "N",
+          "requested": 650,
+          "inserted": 650,
+          "completed": 650,
+          "crossed_cohort": 650,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 655,
+          "waiting_time": 14.101538461538462,
+          "time_loss": 20.489538461538483,
+          "depart_delay": 0.13230769230769232,
+          "travel_time": 63.54615384615385,
+          "mean_halting": 2.5522222222222224,
+          "max_halting": 17,
+          "time_loss_p90": 44.793,
+          "time_loss_median": 19.2,
+          "max_queue_m": 125.03099221770916
+        },
+        {
+          "direction": "S",
+          "requested": 550,
+          "inserted": 550,
+          "completed": 550,
+          "crossed_cohort": 550,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 543,
+          "waiting_time": 13.533636363636363,
+          "time_loss": 19.25736363636362,
+          "depart_delay": 0.09090909090909091,
+          "travel_time": 62.305454545454545,
+          "mean_halting": 2.0633333333333335,
+          "max_halting": 13,
+          "time_loss_p90": 44.332,
+          "time_loss_median": 15.629999999999999,
+          "max_queue_m": 95.02455266837748
+        },
+        {
+          "direction": "E",
+          "requested": 450,
+          "inserted": 450,
+          "completed": 450,
+          "crossed_cohort": 450,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 452,
+          "waiting_time": 13.103333333333333,
+          "time_loss": 17.909955555555513,
+          "depart_delay": 0.057777777777777775,
+          "travel_time": 60.96,
+          "mean_halting": 1.6513888888888888,
+          "max_halting": 12,
+          "time_loss_p90": 44.36700000000001,
+          "time_loss_median": 14.17,
+          "max_queue_m": 87.52277790244617
+        },
+        {
+          "direction": "W",
+          "requested": 350,
+          "inserted": 350,
+          "completed": 350,
+          "crossed_cohort": 350,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 349,
+          "waiting_time": 11.941428571428572,
+          "time_loss": 16.382771428571395,
+          "depart_delay": 0.05714285714285714,
+          "travel_time": 59.44714285714286,
+          "mean_halting": 1.1444444444444444,
+          "max_halting": 9,
+          "time_loss_p90": 42.801,
+          "time_loss_median": 12.48,
+          "max_queue_m": 65.0178370512019
+        }
+      ],
+      "phase_count": 480,
+      "checked_steps": 10800,
+      "collisions": 0,
+      "teleports": 0,
+      "anomaly_count": 0,
+      "pedestrian_departed": 300,
+      "pedestrian_completed": 300,
+      "pedestrian_crossed": 300,
+      "crossings_used": [
+        ":C_c0",
+        ":C_c1",
+        ":C_c2",
+        ":C_c3"
+      ],
+      "elapsed_seconds": 26.110000000000582,
+      "trajectories_recorded": false,
+      "telemetry_rows": 21600,
+      "metric_scope": "completed scheduled-departure cohort; incomplete/pending separately counted; halting measured on inbound edges",
+      "demand_hash": "5633d17e8e63167ee769c03e53a408cbd9cfcd27f08df6c3b033828ca1eb37bf",
+      "experiment_id": "ns_focus",
+      "candidate_id": "NS40_EW40",
+      "replay_audit": null
+    },
+    {
+      "scenario": "after",
+      "rows": [
+        {
+          "direction": "N",
+          "requested": 950,
+          "inserted": 950,
+          "completed": 950,
+          "crossed_cohort": 950,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 954,
+          "waiting_time": 25.050526315789472,
+          "time_loss": 37.84615789473688,
+          "depart_delay": 0.8868421052631579,
+          "travel_time": 80.90684210526315,
+          "mean_halting": 6.6177777777777775,
+          "max_halting": 35,
+          "time_loss_p90": 73.37400000000001,
+          "time_loss_median": 38.150000000000006,
+          "max_queue_m": 252.6043847749139
+        },
+        {
+          "direction": "S",
+          "requested": 730,
+          "inserted": 730,
+          "completed": 730,
+          "crossed_cohort": 730,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 724,
+          "waiting_time": 14.792465753424658,
+          "time_loss": 21.69157534246578,
+          "depart_delay": 0.12191780821917808,
+          "travel_time": 64.74520547945205,
+          "mean_halting": 2.9901388888888887,
+          "max_halting": 18,
+          "time_loss_p90": 45.864,
+          "time_loss_median": 20.7,
+          "max_queue_m": 125.02313300355601
+        },
+        {
+          "direction": "E",
+          "requested": 510,
+          "inserted": 510,
+          "completed": 510,
+          "crossed_cohort": 510,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 513,
+          "waiting_time": 12.919607843137255,
+          "time_loss": 18.093647058823514,
+          "depart_delay": 0.0696078431372549,
+          "travel_time": 61.14313725490196,
+          "mean_halting": 1.8511111111111112,
+          "max_halting": 13,
+          "time_loss_p90": 44.32,
+          "time_loss_median": 14.245000000000001,
+          "max_queue_m": 87.52277790244617
+        },
+        {
+          "direction": "W",
+          "requested": 410,
+          "inserted": 410,
+          "completed": 410,
+          "crossed_cohort": 410,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 409,
+          "waiting_time": 12.614634146341464,
+          "time_loss": 17.470878048780442,
+          "depart_delay": 0.05975609756097561,
+          "travel_time": 60.52439024390244,
+          "mean_halting": 1.418611111111111,
+          "max_halting": 11,
+          "time_loss_p90": 44.324,
+          "time_loss_median": 14.145,
+          "max_queue_m": 80.01886366996678
+        }
+      ],
+      "phase_count": 480,
+      "checked_steps": 10800,
+      "collisions": 0,
+      "teleports": 0,
+      "anomaly_count": 0,
+      "pedestrian_departed": 300,
+      "pedestrian_completed": 300,
+      "pedestrian_crossed": 300,
+      "crossings_used": [
+        ":C_c0",
+        ":C_c1",
+        ":C_c2",
+        ":C_c3"
+      ],
+      "elapsed_seconds": 27.5,
+      "trajectories_recorded": false,
+      "telemetry_rows": 21600,
+      "metric_scope": "completed scheduled-departure cohort; incomplete/pending separately counted; halting measured on inbound edges",
+      "demand_hash": "46e7283f2eaca3b5180cc8e1af52e9d5b7ff8c80d1f2dd286c6e12db34a86ce8",
+      "experiment_id": "ns_focus",
+      "candidate_id": "NS40_EW40",
+      "replay_audit": null
+    },
+    {
+      "scenario": "improved",
+      "rows": [
+        {
+          "direction": "N",
+          "requested": 950,
+          "inserted": 950,
+          "completed": 950,
+          "crossed_cohort": 950,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 956,
+          "waiting_time": 9.708421052631579,
+          "time_loss": 16.46657894736845,
+          "depart_delay": 0.2036842105263158,
+          "travel_time": 59.51894736842105,
+          "mean_halting": 2.5668055555555553,
+          "max_halting": 17,
+          "time_loss_p90": 35.824,
+          "time_loss_median": 14.68,
+          "max_queue_m": 125.02691182340715
+        },
+        {
+          "direction": "S",
+          "requested": 730,
+          "inserted": 730,
+          "completed": 730,
+          "crossed_cohort": 730,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 726,
+          "waiting_time": 8.471917808219178,
+          "time_loss": 13.627410958904093,
+          "depart_delay": 0.12191780821917808,
+          "travel_time": 56.66849315068493,
+          "mean_halting": 1.7155555555555555,
+          "max_halting": 15,
+          "time_loss_p90": 34.403000000000006,
+          "time_loss_median": 9.915,
+          "max_queue_m": 110.03062816348881
+        },
+        {
+          "direction": "E",
+          "requested": 510,
+          "inserted": 510,
+          "completed": 510,
+          "crossed_cohort": 510,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 513,
+          "waiting_time": 19.529411764705884,
+          "time_loss": 26.136960784313725,
+          "depart_delay": 0.0696078431372549,
+          "travel_time": 69.19313725490196,
+          "mean_halting": 2.7958333333333334,
+          "max_halting": 15,
+          "time_loss_p90": 54.36700000000001,
+          "time_loss_median": 24.48,
+          "max_queue_m": 110.02164521819446
+        },
+        {
+          "direction": "W",
+          "requested": 410,
+          "inserted": 410,
+          "completed": 410,
+          "crossed_cohort": 410,
+          "pending": 0,
+          "unfinished": 0,
+          "completion_rate": 1.0,
+          "crossed_in_window": 409,
+          "waiting_time": 19.014634146341464,
+          "time_loss": 24.96573170731705,
+          "depart_delay": 0.05975609756097561,
+          "travel_time": 68.02560975609757,
+          "mean_halting": 2.144722222222222,
+          "max_halting": 13,
+          "time_loss_p90": 54.324,
+          "time_loss_median": 24.145,
+          "max_queue_m": 95.02021936329251
+        }
+      ],
+      "phase_count": 480,
+      "checked_steps": 10800,
+      "collisions": 0,
+      "teleports": 0,
+      "anomaly_count": 0,
+      "pedestrian_departed": 300,
+      "pedestrian_completed": 300,
+      "pedestrian_crossed": 300,
+      "crossings_used": [
+        ":C_c0",
+        ":C_c1",
+        ":C_c2",
+        ":C_c3"
+      ],
+      "elapsed_seconds": 26.75,
+      "trajectories_recorded": false,
+      "telemetry_rows": 21600,
+      "metric_scope": "completed scheduled-departure cohort; incomplete/pending separately counted; halting measured on inbound edges",
+      "demand_hash": "46e7283f2eaca3b5180cc8e1af52e9d5b7ff8c80d1f2dd286c6e12db34a86ce8",
+      "experiment_id": "ns_focus",
+      "candidate_id": "NS50_EW30",
+      "replay_audit": null
+    }
+  ],
+  "candidate_suggestions": [
+    {
+      "ns": 51,
+      "ew": 29,
+      "max_vc": 0.9693877551020408
+    },
+    {
+      "ns": 52,
+      "ew": 28,
+      "max_vc": 0.9807692307692307
+    },
+    {
+      "ns": 50,
+      "ew": 30,
+      "max_vc": 0.9895833333333334
+    },
+    {
+      "ns": 49,
+      "ew": 31,
+      "max_vc": 1.0106382978723405
+    },
+    {
+      "ns": 53,
+      "ew": 27,
+      "max_vc": 1.02
+    }
+  ]
+}

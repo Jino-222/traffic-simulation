@@ -1,0 +1,75 @@
+{
+  "id": "north_two_lanes",
+  "title": "북측 2차로",
+  "question": "차로 변화와 신호 배분의 효과는?",
+  "changed": [
+    "N lanes"
+  ],
+  "synthetic": true,
+  "config": {
+    "approaches": {
+      "N": {
+        "lanes": 2,
+        "base": 650,
+        "extra": 250
+      },
+      "S": {
+        "lanes": 1,
+        "base": 550,
+        "extra": 150
+      },
+      "E": {
+        "lanes": 1,
+        "base": 450,
+        "extra": 100
+      },
+      "W": {
+        "lanes": 1,
+        "base": 350,
+        "extra": 100
+      }
+    },
+    "cycle": 90,
+    "yellow": 3,
+    "all_red": 2,
+    "before_ns": 40,
+    "before_ew": 40,
+    "improved_ns": 50,
+    "improved_ew": 30,
+    "saturation": 1800,
+    "start_loss": 2,
+    "crossing_length_ns": 20,
+    "crossing_length_ew": 20,
+    "pedestrian_speed": 1,
+    "pedestrian_walk": 3,
+    "pedestrian_margin": 2,
+    "pedestrian_budget_ns": 25,
+    "pedestrian_budget_ew": 25,
+    "pedestrian_rate": 60,
+    "road_length": 300,
+    "speed_kmh": 50,
+    "warmup": 900,
+    "duration": 3600,
+    "drain": 900,
+    "seed": 42,
+    "stochastic": false,
+    "step_length": 0.5,
+    "demand_profile": [
+      1.0
+    ],
+    "vehicle_mix": {
+      "car": 1.0,
+      "bus": 0.0,
+      "truck": 0.0
+    },
+    "car_tau": 1.0,
+    "car_sigma": 0.0,
+    "record_trajectories": false,
+    "trajectory_period": 0.5,
+    "telemetry_period": 1.0,
+    "e2_enabled": true,
+    "e2_speed_threshold": 0.1,
+    "e2_time_threshold": 1.0,
+    "e2_jam_gap": 10.0
+  }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "time": 0.0,
+    "phase": 0,
+    "state": "GGGGrrrrGGGGrrrrrGrG"
+  },
+  {
+    "time": 3.0,
+    "phase": 1,
+    "state": "GGGGrrrrGGGGrrrrrrrr"
+  },
+  {
+    "time": 42.0,
+    "phase": 2,
+    "state": "yyyyrrrryyyyrrrrrrrr"
+  },
+  {
+    "time": 45.0,
+    "phase": 3,
+    "state": "rrrrrrrrrrrrrrrrrrrr"
+  },
+  {
+    "time": 47.0,
+    "phase": 4,
+    "state": "rrrrGGGGrrrrGGGGGrGr"
+  },
+  {
+    "time": 50.0,
+    "phase": 5,
+    "state": "rrrrGGGGrrrrGGGGrrrr"
+  },
+  {
+    "time": 89.0,
+    "phase": 6,
+    "state": "rrrryyyyrrrryyyyrrrr"
+  },
+  {
+    "time": 92.0,
+    "phase": 7,
+    "state": "rrrrrrrrrrrrrrrrrrrr"
+  },
+  {
+    "time": 94.0,
+    "phase": 0,
+    "state": "GGGGrrrrGGGGrrrrrGrG"
+  },
+  {
+    "time": 97.0,
+    "phase": 1,
+    "state": "GGGGrrrrGGGGrrrrrrrr"
+  },
+  {
+    "time": 136.0,
+    "phase": 2,
+    "state": "yyyyrrrryyyyrrrrrrrr"
+  },
+  {
+    "time": 139.0,
+    "phase": 3,
+    "state": "rrrrrrrrrrrrrrrrrrrr"
+  },
+  {
+    "time": 141.0,
+    "phase": 4,
+    "state": "rrrrGGGGrrrrGGGGGrGr"
+  },
+  {
+    "time": 144.0,
+    "phase": 5,
+    "state": "rrrrGGGGrrrrGGGGrrrr"
+  },
+  {
+    "time": 183.0,
+    "phase": 6,
+    "state": "rrrryyyyrrrryyyyrrrr"
+  },
+  {
+    "time": 186.0,
+    "phase": 7,
+    "state": "rrrrrrrrrrrrrrrrrrrr"
+  },
+  {
+    "time": 188.0,
+    "phase": 0,
+    "state": "GGGGrrrrGGGGrrrrrGrG"
+  },
+  {
+    "time": 191.0,
+    "phase": 1,
+    "state": "GGGGrrrrGGGGrrrrrrrr"
+  },
+  {
+    "time": 230.0,
+    "phase": 2,
+    "state": "yyyyrrrryyyyrrrrrrrr"
+  },
+  {
+    "time": 233.0,
+    "phase": 3,
+    "state": "rrrrrrrrrrrrrrrrrrrr"
+  },
+  {
+    "time": 235.0,
+    "phase": 4,
+    "state": "rrrrGGGGrrrrGGGGGrGr"
+  },
+  {
+    "time": 238.0,
+    "phase": 5,
+    "state": "rrrrGGGGrrrrGGGGrrrr"
+  },
+  {
+    "time": 277.0,
+    "phase": 6,
+    "state": "rrrryyyyrrrryyyyrrrr"
+  },
+  {
+    "time": 280.0,
+    "phase": 7,
+    "state": "rrrrrrrrrrrrrrrrrrrr"
+  },
+  {
+    "time": 282.0,
+    "phase": 0,
+    "state": "GGGGrrrrGGGGrrrrrGrG"
+  },
+  {
+    "time": 285.0,
+    "phase": 1,
+    "state": "GGGGrrrrGGGGrrrrrrrr"
+  },
+  {
+    "time": 324.0,
+    "phase": 2,
+    "state": "yyyyrrrryyyyrrrrrrrr"
+  },
+  {
+    "time": 327.0,
+    "phase": 3,
+    "state": "rrrrrrrrrrrrrrrrrrrr"
+  },
+  {
+    "time": 329.0,
+    "phase": 4,
+    "state": "rrrrGGGGrrrrGGGGGrGr"
+  },
+  {
+    "time": 332.0,
+    "phase": 5,
+    "state": "rrrrGGGGrrrrGGGGrrrr"
+  }
+]

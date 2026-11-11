@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "python": "3.11.6 (tags/v3.11.6:8b6ee5b, Oct  2 2023, 14:57:12) [MSC v.1935 64 bit (AMD64)]",
+  "executable": "C:\\Users\\kikik\\AppData\\Local\\TrafficImpactLab\\release-check-venv\\Scripts\\python.exe",
+  "initial_packages": [
+    "pip==23.2.1",
+    "setuptools==65.5.0"
+  ],
+  "pip_check": "No broken requirements found.",
+  "versions": {
+    "streamlit": "1.67.0",
+    "plotly": "7.1.0",
+    "pandas": "3.1.1",
+    "eclipse-sumo": "1.28.0",
+    "sumolib": "1.28.0",
+    "traci": "1.28.0",
+    "pytest": "9.2.0",
+    "numpy": "2.4.6",
+    "Pillow": "13.0.0",
+    "imageio-ffmpeg": "0.8.1"
+  },
+  "clean_install_log": "docs/clean_install.log",
+  "lock_verification": "docs/lock_verification.log"
+}

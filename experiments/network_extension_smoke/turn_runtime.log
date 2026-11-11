@@ -1,0 +1,2 @@
+{'requested': 236, 'completed': 236, 'pending': 0, 'unfinished': 0, 'mean_time_loss': 51.79449152542373, 'anomaly_count': 0, 'collisions': 0, 'pedestrian_seen': 20, 'pedestrian_completed': 20, 'crossings_used': [':C_c0', ':C_c1', ':C_c2', ':C_c3']}
+[]

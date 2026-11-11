@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<edges>
+  <edge id="W_in" from="W" to="J0" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="W_out" from="J0" to="W" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="E_in" from="E" to="J1" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="E_out" from="J1" to="E" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="link_E" from="J0" to="J1" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="link_W" from="J1" to="J0" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="N0_in" from="N0" to="J0" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="N0_out" from="J0" to="N0" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="S0_in" from="S0" to="J0" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="S0_out" from="J0" to="S0" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="N1_in" from="N1" to="J1" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="N1_out" from="J1" to="N1" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="S1_in" from="S1" to="J1" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+  <edge id="S1_out" from="J1" to="S1" numLanes="1" speed="13.88888888888889" width="3.2" sidewalkWidth="2" />
+</edges>

@@ -1,0 +1,830 @@
+{
+  "protocol": {
+    "version": 1,
+    "source_sha256": "e54975944d744fc09d446c86298d191df8b3c759a7bb97b843b4d185fcc86df8",
+    "code_sha256": "66c888a8becbc8e8eb816f663a4837a4900b3d935c6118c01108ac1ec06dbcfa",
+    "sumo_version": "0.0.0",
+    "train": [
+      110,
+      113,
+      117,
+      118,
+      119,
+      122,
+      123,
+      126,
+      127,
+      129,
+      134
+    ],
+    "validation": [
+      135,
+      136,
+      138,
+      139,
+      140,
+      142,
+      149,
+      152,
+      157,
+      160
+    ],
+    "grid": [
+      {
+        "tau": 0.6,
+        "minGap": 0.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 0.6,
+        "minGap": 0.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 0.6,
+        "minGap": 1.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 0.6,
+        "minGap": 1.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 0.6,
+        "minGap": 2.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 0.6,
+        "minGap": 2.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.0,
+        "minGap": 0.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.0,
+        "minGap": 0.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.0,
+        "minGap": 1.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.0,
+        "minGap": 1.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.0,
+        "minGap": 2.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.0,
+        "minGap": 2.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.4,
+        "minGap": 0.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.4,
+        "minGap": 0.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.4,
+        "minGap": 1.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.4,
+        "minGap": 1.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.4,
+        "minGap": 2.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.4,
+        "minGap": 2.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.8,
+        "minGap": 0.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.8,
+        "minGap": 0.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.8,
+        "minGap": 1.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.8,
+        "minGap": 1.5,
+        "accel": 2.6
+      },
+      {
+        "tau": 1.8,
+        "minGap": 2.5,
+        "accel": 1.0
+      },
+      {
+        "tau": 1.8,
+        "minGap": 2.5,
+        "accel": 2.6
+      }
+    ],
+    "baseline": {
+      "tau": 1.0,
+      "minGap": 2.5,
+      "accel": 2.6
+    },
+    "dt": 0.1,
+    "model": "Krauss",
+    "fixed": {
+      "sigma": 0,
+      "decel": 4.5,
+      "emergencyDecel": 9,
+      "maxSpeed": 22.222222,
+      "seed": 1729
+    },
+    "objective": "Equal trajectory mean of speed RMSE / 2 m/s + bumper-gap RMSE / 10 m; exclude t=0 initialization",
+    "preprocessing": "Longitudinal leader position oriented along motion, cumulative maximum removes backward tracking noise; target speeds and headways unchanged",
+    "control": "Leader interval speed reproduces monotone positions; follower initialized once then evolves freely; no signals or other traffic",
+    "collision_definition": "Physical overlap: collision.mingap-factor=0; model minGap remains in car following",
+    "split": "Frozen follower-ID split; overlapping times and some related leaders, not independent site validation",
+    "source_url": "https://data.transportation.gov/d/8ect-6jqj",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "frozen": {
+    "parameters": {
+      "tau": 1.0,
+      "minGap": 2.5,
+      "accel": 2.6
+    },
+    "candidate": 11,
+    "calibration_score": 0.8585349812141178,
+    "protocol_sha256": "d51875d486d72c4b1fb9641b7be0cba84b720a007dabc1edc3bd8ed82e121cfd",
+    "calibration_csv_sha256": "0cf694f17b7ac9fa0b9acbbf671461e85dc0902202ebfae1a7eafd2b34bc01f6",
+    "selected_before_validation": true
+  },
+  "calibration_candidates": 24,
+  "eligible_candidates": 24,
+  "calibration_best": {
+    "candidate": 11,
+    "parameters": {
+      "tau": 1.0,
+      "minGap": 2.5,
+      "accel": 2.6
+    },
+    "valid": true,
+    "collisions": 0,
+    "teleports": 0,
+    "leader_emergency_warnings": 31,
+    "follower_emergency_warnings": 0,
+    "integrity_definition": "No physical overlap/teleport and prescribed leader positions reproduced; does not establish realistic accelerations or field validity",
+    "leader_position_max_error_m": 5.115907697472721e-13,
+    "minimum_predicted_gap_m": 2.501009578921887,
+    "mean_score": 0.8585349812141178,
+    "mean_speed_rmse_mps": 1.1862992769353582,
+    "mean_gap_rmse_m": 2.6538534274643877,
+    "trajectories": [
+      {
+        "follower": 110,
+        "speed_rmse_mps": 1.9237825312631764,
+        "gap_rmse_m": 6.623057563672419,
+        "speed_bias_mps": -0.08734246409432109,
+        "gap_bias_m": -3.8788472984247675,
+        "score": 1.62419702199883,
+        "frames": 239
+      },
+      {
+        "follower": 113,
+        "speed_rmse_mps": 1.0809022739931897,
+        "gap_rmse_m": 1.891744630426207,
+        "speed_bias_mps": -0.10850463653112191,
+        "gap_bias_m": 1.2823024269069516,
+        "score": 0.7296256000392156,
+        "frames": 245
+      },
+      {
+        "follower": 117,
+        "speed_rmse_mps": 0.3342617653238596,
+        "gap_rmse_m": 0.7278941006101334,
+        "speed_bias_mps": 0.019395461614612825,
+        "gap_bias_m": 0.30528720857630315,
+        "score": 0.23992029272294313,
+        "frames": 302
+      },
+      {
+        "follower": 118,
+        "speed_rmse_mps": 1.4931161926063112,
+        "gap_rmse_m": 1.891789060277298,
+        "speed_bias_mps": 0.1330487619047605,
+        "gap_bias_m": 0.622251520069782,
+        "score": 0.9357370023308854,
+        "frames": 189
+      },
+      {
+        "follower": 119,
+        "speed_rmse_mps": 0.9118346673276277,
+        "gap_rmse_m": 2.3344298152756697,
+        "speed_bias_mps": -0.3125208093029201,
+        "gap_bias_m": 2.012431056607499,
+        "score": 0.6893603151913809,
+        "frames": 118
+      },
+      {
+        "follower": 122,
+        "speed_rmse_mps": 1.49812009470845,
+        "gap_rmse_m": 3.6320852801479777,
+        "speed_bias_mps": 0.3627085167844208,
+        "gap_bias_m": -0.9937154636417778,
+        "score": 1.112268575369023,
+        "frames": 242
+      },
+      {
+        "follower": 123,
+        "speed_rmse_mps": 0.6351176970744368,
+        "gap_rmse_m": 1.8225798154474848,
+        "speed_bias_mps": 0.2145060855157307,
+        "gap_bias_m": -0.7753349807077458,
+        "score": 0.49981683008196687,
+        "frames": 302
+      },
+      {
+        "follower": 126,
+        "speed_rmse_mps": 0.8046176363283633,
+        "gap_rmse_m": 1.4967254727259587,
+        "speed_bias_mps": -0.1946483680988291,
+        "gap_bias_m": 0.6203955346761181,
+        "score": 0.5519813654367776,
+        "frames": 149
+      },
+      {
+        "follower": 127,
+        "speed_rmse_mps": 1.606745352898758,
+        "gap_rmse_m": 4.041640717184796,
+        "speed_bias_mps": 0.405805332339224,
+        "gap_bias_m": -2.850443809566027,
+        "score": 1.2075367481678587,
+        "frames": 228
+      },
+      {
+        "follower": 129,
+        "speed_rmse_mps": 1.2463458779892895,
+        "gap_rmse_m": 2.1874652295222874,
+        "speed_bias_mps": 0.024145774574537825,
+        "gap_bias_m": -0.7892126612038927,
+        "score": 0.8419194619468735,
+        "frames": 232
+      },
+      {
+        "follower": 134,
+        "speed_rmse_mps": 1.5144479567754774,
+        "gap_rmse_m": 2.54297601681803,
+        "speed_bias_mps": 0.05897890588178634,
+        "gap_bias_m": -1.7160103271507785,
+        "score": 1.0115215800695416,
+        "frames": 232
+      }
+    ],
+    "elapsed_seconds": 1.0159999999959837,
+    "preprocessing": {
+      "110": {
+        "backward_intervals": 3,
+        "monotonic_adjustment_max_m": 0.015849599999967268,
+        "monotonic_adjustment_rmse_m": 0.0013297573192093768,
+        "headway_coordinate_max_error_m": 0.0015240000000389387,
+        "leader_interval_speed_max_mps": 15.349728000000198,
+        "leader_interval_accel_max_abs_mps2": 20.60447999999724,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.19504300438269032
+      },
+      "113": {
+        "backward_intervals": 6,
+        "monotonic_adjustment_max_m": 0.014935199999968063,
+        "monotonic_adjustment_rmse_m": 0.0047120535762330855,
+        "headway_coordinate_max_error_m": 0.001524000000010517,
+        "leader_interval_speed_max_mps": 16.355568000000176,
+        "leader_interval_accel_max_abs_mps2": 26.426159999996912,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.20896153175862292
+      },
+      "117": {
+        "backward_intervals": 62,
+        "monotonic_adjustment_max_m": 0.03048000000000428,
+        "monotonic_adjustment_rmse_m": 0.013642121473998878,
+        "headway_coordinate_max_error_m": 0.0015240000000051879,
+        "leader_interval_speed_max_mps": 13.011912000000052,
+        "leader_interval_accel_max_abs_mps2": 10.393680000001382,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.10660211347879457
+      },
+      "118": {
+        "backward_intervals": 6,
+        "monotonic_adjustment_max_m": 0.00883920000001126,
+        "monotonic_adjustment_rmse_m": 0.0030050250395035013,
+        "headway_coordinate_max_error_m": 0.0015240000000282805,
+        "leader_interval_speed_max_mps": 13.063728000000197,
+        "leader_interval_accel_max_abs_mps2": 26.700479999996674,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.2513618261459316
+      },
+      "119": {
+        "backward_intervals": 0,
+        "monotonic_adjustment_max_m": 0.0,
+        "monotonic_adjustment_rmse_m": 0.0,
+        "headway_coordinate_max_error_m": 0.0015239999999998588,
+        "leader_interval_speed_max_mps": 11.329416000000094,
+        "leader_interval_accel_max_abs_mps2": 10.27176000000054,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.16692272560618343
+      },
+      "122": {
+        "backward_intervals": 7,
+        "monotonic_adjustment_max_m": 0.014630400000015698,
+        "monotonic_adjustment_rmse_m": 0.002502851304382903,
+        "headway_coordinate_max_error_m": 0.001524000000021175,
+        "leader_interval_speed_max_mps": 12.063984000000119,
+        "leader_interval_accel_max_abs_mps2": 24.505919999992898,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.22006653503155182
+      },
+      "123": {
+        "backward_intervals": 6,
+        "monotonic_adjustment_max_m": 0.01402079999999728,
+        "monotonic_adjustment_rmse_m": 0.0051213967946151726,
+        "headway_coordinate_max_error_m": 0.001524000000010517,
+        "leader_interval_speed_max_mps": 10.68324000000004,
+        "leader_interval_accel_max_abs_mps2": 9.479280000000756,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.08572810065032495
+      },
+      "126": {
+        "backward_intervals": 2,
+        "monotonic_adjustment_max_m": 0.005486399999995228,
+        "monotonic_adjustment_rmse_m": 0.00048064424765086673,
+        "headway_coordinate_max_error_m": 0.0015240000000069642,
+        "leader_interval_speed_max_mps": 8.686800000000119,
+        "leader_interval_accel_max_abs_mps2": 9.083039999993048,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.1269406899360753
+      },
+      "127": {
+        "backward_intervals": 5,
+        "monotonic_adjustment_max_m": 0.02255519999999933,
+        "monotonic_adjustment_rmse_m": 0.005109418746798562,
+        "headway_coordinate_max_error_m": 0.001524000000046044,
+        "leader_interval_speed_max_mps": 12.947904000000108,
+        "leader_interval_accel_max_abs_mps2": 26.639520000000516,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.240433154329964
+      },
+      "129": {
+        "backward_intervals": 6,
+        "monotonic_adjustment_max_m": 0.014935199999996485,
+        "monotonic_adjustment_rmse_m": 0.002724897455152873,
+        "headway_coordinate_max_error_m": 0.001524000000021175,
+        "leader_interval_speed_max_mps": 15.727679999999964,
+        "leader_interval_accel_max_abs_mps2": 26.02991999999915,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.2730191801371541
+      },
+      "134": {
+        "backward_intervals": 13,
+        "monotonic_adjustment_max_m": 0.09814559999998096,
+        "monotonic_adjustment_rmse_m": 0.01255282932160468,
+        "headway_coordinate_max_error_m": 0.001524000000035386,
+        "leader_interval_speed_max_mps": 11.777471999999989,
+        "leader_interval_accel_max_abs_mps2": 24.384000000006267,
+        "leader_reported_vs_interval_speed_rmse_mps": 0.2165753976170295
+      }
+    }
+  },
+  "validation": {
+    "baseline": {
+      "parameters": {
+        "tau": 1.0,
+        "minGap": 2.5,
+        "accel": 2.6
+      },
+      "valid": true,
+      "collisions": 0,
+      "teleports": 0,
+      "leader_emergency_warnings": 14,
+      "follower_emergency_warnings": 0,
+      "integrity_definition": "No physical overlap/teleport and prescribed leader positions reproduced; does not establish realistic accelerations or field validity",
+      "leader_position_max_error_m": 3.979039320256561e-13,
+      "minimum_predicted_gap_m": 2.5010094502779827,
+      "mean_score": 0.9835243280766326,
+      "mean_speed_rmse_mps": 1.2531202279983478,
+      "mean_gap_rmse_m": 3.569642140774589,
+      "trajectories": [
+        {
+          "follower": 135,
+          "speed_rmse_mps": 1.4758560514657413,
+          "gap_rmse_m": 2.0397111103290495,
+          "speed_bias_mps": 0.05231501515895119,
+          "gap_bias_m": -0.27825198484038133,
+          "score": 0.9418991367657756,
+          "frames": 137
+        },
+        {
+          "follower": 136,
+          "speed_rmse_mps": 0.4612424552175408,
+          "gap_rmse_m": 1.4759322780847546,
+          "speed_bias_mps": -0.03127299480037022,
+          "gap_bias_m": 0.8947878591012242,
+          "score": 0.37821445541724585,
+          "frames": 637
+        },
+        {
+          "follower": 138,
+          "speed_rmse_mps": 1.030410110599752,
+          "gap_rmse_m": 3.8673253300313584,
+          "speed_bias_mps": 0.0695151172800973,
+          "gap_bias_m": -1.8594626721296221,
+          "score": 0.9019375883030119,
+          "frames": 628
+        },
+        {
+          "follower": 139,
+          "speed_rmse_mps": 1.3258935988247658,
+          "gap_rmse_m": 3.5886474331637213,
+          "speed_bias_mps": -0.3684087904773933,
+          "gap_bias_m": 2.328665459326448,
+          "score": 1.021811542728755,
+          "frames": 234
+        },
+        {
+          "follower": 140,
+          "speed_rmse_mps": 3.173195024570705,
+          "gap_rmse_m": 13.046499128396755,
+          "speed_bias_mps": 0.6251054825971554,
+          "gap_bias_m": -11.553608211329411,
+          "score": 2.891247425125028,
+          "frames": 118
+        },
+        {
+          "follower": 142,
+          "speed_rmse_mps": 0.9875107588997654,
+          "gap_rmse_m": 2.258868771329172,
+          "speed_bias_mps": -0.054797265808889786,
+          "gap_bias_m": -0.9687195903962529,
+          "score": 0.7196422565827999,
+          "frames": 364
+        },
+        {
+          "follower": 149,
+          "speed_rmse_mps": 1.4568586942932704,
+          "gap_rmse_m": 2.4081644795059285,
+          "speed_bias_mps": -0.09891845331858318,
+          "gap_bias_m": 0.9336769674251714,
+          "score": 0.9692457950972281,
+          "frames": 217
+        },
+        {
+          "follower": 152,
+          "speed_rmse_mps": 1.1263011707737405,
+          "gap_rmse_m": 3.799742299775302,
+          "speed_bias_mps": 0.1548095592368068,
+          "gap_bias_m": -1.1720346068782777,
+          "score": 0.9431248153644005,
+          "frames": 592
+        },
+        {
+          "follower": 157,
+          "speed_rmse_mps": 0.9131357575884931,
+          "gap_rmse_m": 1.1095063519425628,
+          "speed_bias_mps": -0.17860435310544162,
+          "gap_bias_m": 0.6421076625961243,
+          "score": 0.5675185139885028,
+          "frames": 130
+        },
+        {
+          "follower": 160,
+          "speed_rmse_mps": 0.5807986577497014,
+          "gap_rmse_m": 2.102024225187276,
+          "speed_bias_mps": -0.0054893145913571546,
+          "gap_bias_m": 1.5058081786422177,
+          "score": 0.5006017513935783,
+          "frames": 513
+        }
+      ],
+      "elapsed_seconds": 1.25,
+      "preprocessing": {
+        "135": {
+          "backward_intervals": 6,
+          "monotonic_adjustment_max_m": 0.01402079999999728,
+          "monotonic_adjustment_rmse_m": 0.00181883371326855,
+          "headway_coordinate_max_error_m": 0.001524000000015846,
+          "leader_interval_speed_max_mps": 9.384791999999607,
+          "leader_interval_accel_max_abs_mps2": 8.778240000003734,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.14745153795427182
+        },
+        "136": {
+          "backward_intervals": 6,
+          "monotonic_adjustment_max_m": 0.014630399999987276,
+          "monotonic_adjustment_rmse_m": 0.006110410803581389,
+          "headway_coordinate_max_error_m": 0.0015240000000069642,
+          "leader_interval_speed_max_mps": 11.548871999999903,
+          "leader_interval_accel_max_abs_mps2": 11.338559999998665,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.088356270806284
+        },
+        "138": {
+          "backward_intervals": 8,
+          "monotonic_adjustment_max_m": 0.014630399999987276,
+          "monotonic_adjustment_rmse_m": 0.006052242988148932,
+          "headway_coordinate_max_error_m": 0.0015240000000122933,
+          "leader_interval_speed_max_mps": 11.801855999999873,
+          "leader_interval_accel_max_abs_mps2": 9.204960000005258,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.07553762713018534
+        },
+        "139": {
+          "backward_intervals": 6,
+          "monotonic_adjustment_max_m": 0.01584959999999569,
+          "monotonic_adjustment_rmse_m": 0.002218532050606746,
+          "headway_coordinate_max_error_m": 0.001524000000015846,
+          "leader_interval_speed_max_mps": 13.15212000000031,
+          "leader_interval_accel_max_abs_mps2": 26.578559999995832,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.26132349231967605
+        },
+        "140": {
+          "backward_intervals": 4,
+          "monotonic_adjustment_max_m": 0.35112960000000726,
+          "monotonic_adjustment_rmse_m": 0.06044212474385962,
+          "headway_coordinate_max_error_m": 0.001524000000021175,
+          "leader_interval_speed_max_mps": 8.174735999999996,
+          "leader_interval_accel_max_abs_mps2": 8.016240000000607,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.2683157119787173
+        },
+        "142": {
+          "backward_intervals": 17,
+          "monotonic_adjustment_max_m": 0.06400799999998696,
+          "monotonic_adjustment_rmse_m": 0.006609581893907028,
+          "headway_coordinate_max_error_m": 0.0015240000000087406,
+          "leader_interval_speed_max_mps": 9.192768000000058,
+          "leader_interval_accel_max_abs_mps2": 18.62328000000133,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.07616800603062572
+        },
+        "149": {
+          "backward_intervals": 3,
+          "monotonic_adjustment_max_m": 0.012496799999979658,
+          "monotonic_adjustment_rmse_m": 0.001141577647118058,
+          "headway_coordinate_max_error_m": 0.0015240000000247278,
+          "leader_interval_speed_max_mps": 12.972288000000276,
+          "leader_interval_accel_max_abs_mps2": 24.627840000002266,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.22163432945823414
+        },
+        "152": {
+          "backward_intervals": 7,
+          "monotonic_adjustment_max_m": 0.014325600000006489,
+          "monotonic_adjustment_rmse_m": 0.005953394109712375,
+          "headway_coordinate_max_error_m": 0.0015240000000167342,
+          "leader_interval_speed_max_mps": 8.997696000000133,
+          "leader_interval_accel_max_abs_mps2": 9.905999999998016,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.07849799593448044
+        },
+        "157": {
+          "backward_intervals": 3,
+          "monotonic_adjustment_max_m": 0.007620000000002847,
+          "monotonic_adjustment_rmse_m": 0.003004529400303006,
+          "headway_coordinate_max_error_m": 0.001524000000010517,
+          "leader_interval_speed_max_mps": 8.878823999999668,
+          "leader_interval_accel_max_abs_mps2": 8.930640000002654,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.1425310764598508
+        },
+        "160": {
+          "backward_intervals": 6,
+          "monotonic_adjustment_max_m": 0.024384000000026163,
+          "monotonic_adjustment_rmse_m": 0.010622249669547907,
+          "headway_coordinate_max_error_m": 0.001524000000010517,
+          "leader_interval_speed_max_mps": 14.054327999999998,
+          "leader_interval_accel_max_abs_mps2": 9.784079999997175,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.08575720854320386
+        }
+      }
+    },
+    "calibrated": {
+      "parameters": {
+        "tau": 1.0,
+        "minGap": 2.5,
+        "accel": 2.6
+      },
+      "valid": true,
+      "collisions": 0,
+      "teleports": 0,
+      "leader_emergency_warnings": 14,
+      "follower_emergency_warnings": 0,
+      "integrity_definition": "No physical overlap/teleport and prescribed leader positions reproduced; does not establish realistic accelerations or field validity",
+      "leader_position_max_error_m": 3.979039320256561e-13,
+      "minimum_predicted_gap_m": 2.5010094502779827,
+      "mean_score": 0.9835243280766326,
+      "mean_speed_rmse_mps": 1.2531202279983478,
+      "mean_gap_rmse_m": 3.569642140774589,
+      "trajectories": [
+        {
+          "follower": 135,
+          "speed_rmse_mps": 1.4758560514657413,
+          "gap_rmse_m": 2.0397111103290495,
+          "speed_bias_mps": 0.05231501515895119,
+          "gap_bias_m": -0.27825198484038133,
+          "score": 0.9418991367657756,
+          "frames": 137
+        },
+        {
+          "follower": 136,
+          "speed_rmse_mps": 0.4612424552175408,
+          "gap_rmse_m": 1.4759322780847546,
+          "speed_bias_mps": -0.03127299480037022,
+          "gap_bias_m": 0.8947878591012242,
+          "score": 0.37821445541724585,
+          "frames": 637
+        },
+        {
+          "follower": 138,
+          "speed_rmse_mps": 1.030410110599752,
+          "gap_rmse_m": 3.8673253300313584,
+          "speed_bias_mps": 0.0695151172800973,
+          "gap_bias_m": -1.8594626721296221,
+          "score": 0.9019375883030119,
+          "frames": 628
+        },
+        {
+          "follower": 139,
+          "speed_rmse_mps": 1.3258935988247658,
+          "gap_rmse_m": 3.5886474331637213,
+          "speed_bias_mps": -0.3684087904773933,
+          "gap_bias_m": 2.328665459326448,
+          "score": 1.021811542728755,
+          "frames": 234
+        },
+        {
+          "follower": 140,
+          "speed_rmse_mps": 3.173195024570705,
+          "gap_rmse_m": 13.046499128396755,
+          "speed_bias_mps": 0.6251054825971554,
+          "gap_bias_m": -11.553608211329411,
+          "score": 2.891247425125028,
+          "frames": 118
+        },
+        {
+          "follower": 142,
+          "speed_rmse_mps": 0.9875107588997654,
+          "gap_rmse_m": 2.258868771329172,
+          "speed_bias_mps": -0.054797265808889786,
+          "gap_bias_m": -0.9687195903962529,
+          "score": 0.7196422565827999,
+          "frames": 364
+        },
+        {
+          "follower": 149,
+          "speed_rmse_mps": 1.4568586942932704,
+          "gap_rmse_m": 2.4081644795059285,
+          "speed_bias_mps": -0.09891845331858318,
+          "gap_bias_m": 0.9336769674251714,
+          "score": 0.9692457950972281,
+          "frames": 217
+        },
+        {
+          "follower": 152,
+          "speed_rmse_mps": 1.1263011707737405,
+          "gap_rmse_m": 3.799742299775302,
+          "speed_bias_mps": 0.1548095592368068,
+          "gap_bias_m": -1.1720346068782777,
+          "score": 0.9431248153644005,
+          "frames": 592
+        },
+        {
+          "follower": 157,
+          "speed_rmse_mps": 0.9131357575884931,
+          "gap_rmse_m": 1.1095063519425628,
+          "speed_bias_mps": -0.17860435310544162,
+          "gap_bias_m": 0.6421076625961243,
+          "score": 0.5675185139885028,
+          "frames": 130
+        },
+        {
+          "follower": 160,
+          "speed_rmse_mps": 0.5807986577497014,
+          "gap_rmse_m": 2.102024225187276,
+          "speed_bias_mps": -0.0054893145913571546,
+          "gap_bias_m": 1.5058081786422177,
+          "score": 0.5006017513935783,
+          "frames": 513
+        }
+      ],
+      "elapsed_seconds": 1.1720000000059372,
+      "preprocessing": {
+        "135": {
+          "backward_intervals": 6,
+          "monotonic_adjustment_max_m": 0.01402079999999728,
+          "monotonic_adjustment_rmse_m": 0.00181883371326855,
+          "headway_coordinate_max_error_m": 0.001524000000015846,
+          "leader_interval_speed_max_mps": 9.384791999999607,
+          "leader_interval_accel_max_abs_mps2": 8.778240000003734,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.14745153795427182
+        },
+        "136": {
+          "backward_intervals": 6,
+          "monotonic_adjustment_max_m": 0.014630399999987276,
+          "monotonic_adjustment_rmse_m": 0.006110410803581389,
+          "headway_coordinate_max_error_m": 0.0015240000000069642,
+          "leader_interval_speed_max_mps": 11.548871999999903,
+          "leader_interval_accel_max_abs_mps2": 11.338559999998665,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.088356270806284
+        },
+        "138": {
+          "backward_intervals": 8,
+          "monotonic_adjustment_max_m": 0.014630399999987276,
+          "monotonic_adjustment_rmse_m": 0.006052242988148932,
+          "headway_coordinate_max_error_m": 0.0015240000000122933,
+          "leader_interval_speed_max_mps": 11.801855999999873,
+          "leader_interval_accel_max_abs_mps2": 9.204960000005258,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.07553762713018534
+        },
+        "139": {
+          "backward_intervals": 6,
+          "monotonic_adjustment_max_m": 0.01584959999999569,
+          "monotonic_adjustment_rmse_m": 0.002218532050606746,
+          "headway_coordinate_max_error_m": 0.001524000000015846,
+          "leader_interval_speed_max_mps": 13.15212000000031,
+          "leader_interval_accel_max_abs_mps2": 26.578559999995832,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.26132349231967605
+        },
+        "140": {
+          "backward_intervals": 4,
+          "monotonic_adjustment_max_m": 0.35112960000000726,
+          "monotonic_adjustment_rmse_m": 0.06044212474385962,
+          "headway_coordinate_max_error_m": 0.001524000000021175,
+          "leader_interval_speed_max_mps": 8.174735999999996,
+          "leader_interval_accel_max_abs_mps2": 8.016240000000607,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.2683157119787173
+        },
+        "142": {
+          "backward_intervals": 17,
+          "monotonic_adjustment_max_m": 0.06400799999998696,
+          "monotonic_adjustment_rmse_m": 0.006609581893907028,
+          "headway_coordinate_max_error_m": 0.0015240000000087406,
+          "leader_interval_speed_max_mps": 9.192768000000058,
+          "leader_interval_accel_max_abs_mps2": 18.62328000000133,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.07616800603062572
+        },
+        "149": {
+          "backward_intervals": 3,
+          "monotonic_adjustment_max_m": 0.012496799999979658,
+          "monotonic_adjustment_rmse_m": 0.001141577647118058,
+          "headway_coordinate_max_error_m": 0.0015240000000247278,
+          "leader_interval_speed_max_mps": 12.972288000000276,
+          "leader_interval_accel_max_abs_mps2": 24.627840000002266,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.22163432945823414
+        },
+        "152": {
+          "backward_intervals": 7,
+          "monotonic_adjustment_max_m": 0.014325600000006489,
+          "monotonic_adjustment_rmse_m": 0.005953394109712375,
+          "headway_coordinate_max_error_m": 0.0015240000000167342,
+          "leader_interval_speed_max_mps": 8.997696000000133,
+          "leader_interval_accel_max_abs_mps2": 9.905999999998016,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.07849799593448044
+        },
+        "157": {
+          "backward_intervals": 3,
+          "monotonic_adjustment_max_m": 0.007620000000002847,
+          "monotonic_adjustment_rmse_m": 0.003004529400303006,
+          "headway_coordinate_max_error_m": 0.001524000000010517,
+          "leader_interval_speed_max_mps": 8.878823999999668,
+          "leader_interval_accel_max_abs_mps2": 8.930640000002654,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.1425310764598508
+        },
+        "160": {
+          "backward_intervals": 6,
+          "monotonic_adjustment_max_m": 0.024384000000026163,
+          "monotonic_adjustment_rmse_m": 0.010622249669547907,
+          "headway_coordinate_max_error_m": 0.001524000000010517,
+          "leader_interval_speed_max_mps": 14.054327999999998,
+          "leader_interval_accel_max_abs_mps2": 9.784079999997175,
+          "leader_reported_vs_interval_speed_rmse_mps": 0.08575720854320386
+        }
+      }
+    }
+  },
+  "validation_used_for_selection": false,
+  "valid": true,
+  "limitations": [
+    "Small convenience sample from one road and overlapping times; target IDs separated but observations not fully independent.",
+    "One-dimensional pair following with measured leader trajectory; ignores source signals, lane changing, and other vehicles.",
+    "Video-derived target speeds and close gaps contain measurement noise; monotone leader correction and emergency-braking warnings are disclosed. Forced leaders can have unrealistic acceleration; this is a limitation of this replay calibration.",
+    "Finite parameter grid and explicit normalized loss; no global optimum or field safety claim.",
+    "Results do not calibrate synthetic apartment trip generation or validate intersection signal benefits."
+  ]
+}

@@ -1,0 +1,4 @@
+Warning: Vehicle 'L110' performs emergency braking on lane 'e110_0' with decel=10.18, wished=4.50, severity=1.26, time=2.90.
+Warning: Vehicle 'L110' performs emergency braking on lane 'e110_0' with decel=11.61, wished=4.50, severity=1.58, time=3.00.
+Warning: Vehicle 'L110' performs emergency braking on lane 'e110_0' with decel=19.29, wished=4.50, severity=3.29, time=3.10.
+Warning: Vehicle 'L110' performs emergency braking on lane 'e110_0' with decel=9.24, wished=4.50, severity=1.05, time=7.00.

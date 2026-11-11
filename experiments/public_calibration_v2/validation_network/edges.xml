@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<edges>
+  <edge id="e135" from="a135" to="b135" numLanes="1" speed="22.222222" />
+  <edge id="e136" from="a136" to="b136" numLanes="1" speed="22.222222" />
+  <edge id="e138" from="a138" to="b138" numLanes="1" speed="22.222222" />
+  <edge id="e139" from="a139" to="b139" numLanes="1" speed="22.222222" />
+  <edge id="e140" from="a140" to="b140" numLanes="1" speed="22.222222" />
+  <edge id="e142" from="a142" to="b142" numLanes="1" speed="22.222222" />
+  <edge id="e149" from="a149" to="b149" numLanes="1" speed="22.222222" />
+  <edge id="e152" from="a152" to="b152" numLanes="1" speed="22.222222" />
+  <edge id="e157" from="a157" to="b157" numLanes="1" speed="22.222222" />
+  <edge id="e160" from="a160" to="b160" numLanes="1" speed="22.222222" />
+</edges>

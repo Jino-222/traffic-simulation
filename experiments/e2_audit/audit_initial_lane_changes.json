@@ -1,0 +1,88 @@
+{
+  "thresholds": {
+    "speed": 0.1,
+    "time": 1.0,
+    "gap": 10.0
+  },
+  "samples": [
+    {
+      "detector": "e2_N_in_1",
+      "points": [
+        {
+          "id": "v_1_3",
+          "front": 100.0,
+          "length": 5.0,
+          "speed": 0.0
+        },
+        {
+          "id": "v_1_1",
+          "front": 240.0,
+          "length": 5.0,
+          "speed": 0.0
+        },
+        {
+          "id": "v_1_0",
+          "front": 250.0,
+          "length": 5.0,
+          "speed": 0.0
+        },
+        {
+          "id": "v_2_1",
+          "front": 258.0,
+          "length": 5.0,
+          "speed": 0.0
+        }
+      ],
+      "independent_clusters_m": [
+        23.0,
+        5.0
+      ],
+      "independent_max_m": 23.0,
+      "independent_sum_m": 28.0,
+      "actual_m": 155.0,
+      "actual_vehicles": 3
+    },
+    {
+      "detector": "e2_N_in_2",
+      "points": [
+        {
+          "id": "v_1_4",
+          "front": 90.0,
+          "length": 5.0,
+          "speed": 0.0
+        },
+        {
+          "id": "v_1_2",
+          "front": 230.0,
+          "length": 5.0,
+          "speed": 0.0
+        },
+        {
+          "id": "v_2_2",
+          "front": 246.0,
+          "length": 5.0,
+          "speed": 0.0
+        },
+        {
+          "id": "v_2_0",
+          "front": 270.0,
+          "length": 5.0,
+          "speed": 0.0
+        }
+      ],
+      "independent_clusters_m": [
+        5.0,
+        5.0,
+        5.0,
+        5.0
+      ],
+      "independent_max_m": 5.0,
+      "independent_sum_m": 20.0,
+      "actual_m": 185.0,
+      "actual_vehicles": 4
+    }
+  ],
+  "directional_max_m": 185.0,
+  "sum_parallel_lanes_m": 340.0,
+  "purpose": "Known stopped vehicle groups; compare SUMO E2 retrieval to front/rear geometry, and distinguish max from sum."
+}

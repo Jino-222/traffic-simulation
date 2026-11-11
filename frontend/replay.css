@@ -1,0 +1,15 @@
+@font-face{font-family:"Pretendard Variable";src:url("/app/static/fonts/PretendardVariable.woff2") format("woff2");font-weight:100 900;font-display:swap}
+.replay-root{font-family:"Pretendard Variable", "Malgun Gothic",sans-serif;color:#23334c}
+.controls{display:flex;align-items:center;gap:20px;flex-wrap:wrap;padding:12px 0}
+button,select{font:inherit;border:1px solid #d3dce8;border-radius:4px;padding:7px 12px;background:#fff;color:#23334c}
+button{background:#3267c8;color:white;min-width:95px;cursor:pointer}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid #d29231;outline-offset:3px}
+.scrubber{display:flex;align-items:center;gap:15px;margin:8px 0 18px;white-space:nowrap}input[type=range]{width:90%;accent-color:#3267c8}
+input[type=number]{width:95px;padding:7px;border:1px solid #d3dce8;border-radius:4px;font:inherit}
+.views{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+section{background:#fff;border:1px solid #dce3ec;border-radius:4px;overflow:hidden}
+h3{padding:0 15px;font-size:16px}section canvas{width:100%;height:350px;display:block}
+section p{font-size:12px;margin:9px 12px;min-height:18px}
+.legend,#replay-status{font-size:12px;color:#66768c}#spark{width:100%;height:105px;margin-top:12px}
+@media(max-width:700px){.views{grid-template-columns:1fr}.controls{gap:10px}}
+

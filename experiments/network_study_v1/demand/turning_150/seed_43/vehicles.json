@@ -1,0 +1,9458 @@
+{
+  "E_R_base_warmup_0": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 125.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_warmup_1": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 143.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_warmup_2": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 206.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_warmup_3": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 281.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_S_base_warmup_0": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 2.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_1": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 39.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_2": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 55.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_3": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 97.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_4": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 101.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_5": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 129.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_6": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 156.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_7": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 184.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_8": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 206.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_9": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 210.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_10": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 228.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_11": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 247.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_warmup_12": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 268.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_L_base_warmup_0": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 4.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_warmup_1": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 207.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_warmup_2": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 208.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_warmup_3": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 253.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "N_R_base_warmup_0": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 39.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_warmup_1": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 68.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_warmup_2": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 108.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_warmup_3": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 270.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_S_base_warmup_0": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 8.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_1": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 30.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_2": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 54.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_3": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 62.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_4": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 153.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_5": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 175.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_6": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 219.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_7": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 221.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_8": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 226.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_9": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 257.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_10": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 263.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_11": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 266.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_warmup_12": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 272.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_L_base_warmup_0": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 34.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_warmup_1": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 64.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_warmup_2": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 66.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_warmup_3": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 109.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_warmup_0": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 53.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_warmup_1": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 130.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_warmup_2": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 137.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_warmup_3": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 290.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_S_base_warmup_0": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 44.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_1": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 49.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_2": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 81.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_3": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 96.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_4": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 108.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_5": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 120.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_6": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 171.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_7": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 173.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_8": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 216.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_9": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 216.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_10": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 234.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_11": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 282.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_warmup_12": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 293.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_L_base_warmup_0": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 91.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_warmup_1": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 231.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_warmup_2": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 248.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_warmup_3": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 293.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "W_R_base_warmup_0": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 87.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_warmup_1": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 139.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_warmup_2": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 187.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_warmup_3": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 227.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_S_base_warmup_0": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 22.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_1": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 60.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_2": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 77.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_3": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 78.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_4": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 83.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_5": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 93.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_6": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 114.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_7": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 189.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_8": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 190.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_9": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 227.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_10": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 242.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_11": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 264.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_warmup_12": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 282.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_L_base_warmup_0": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 79.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_warmup_1": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 97.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_warmup_2": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 122.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_warmup_3": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 287.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_0": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 304.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_1": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 414.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_2": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 559.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_3": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 780.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_4": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1073.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_5": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1088.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_6": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1135.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_7": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1195.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_8": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1288.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_9": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1320.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_10": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1407.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_11": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1421.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_12": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1577.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_13": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1676.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_14": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1700.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_15": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1725.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_16": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1759.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_17": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1940.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_18": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1944.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_19": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1946.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_20": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1956.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_21": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2008.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_22": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2027.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_23": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2043.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_base_measure_24": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2068.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_S_base_measure_0": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 338.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_1": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 349.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_2": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 372.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_3": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 393.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_4": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 418.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_5": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 439.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_6": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 494.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_7": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 522.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_8": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 560.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_9": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 582.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_10": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 610.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_11": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 611.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_12": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 638.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_13": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 660.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_14": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 662.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_15": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 717.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_16": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 745.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_17": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 771.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_18": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 785.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_19": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 828.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_20": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 843.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_21": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 849.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_22": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 880.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_23": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1000.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_24": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1065.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_25": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1086.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_26": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1175.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_27": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1195.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_28": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1202.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_29": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1224.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_30": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1233.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_31": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1255.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_32": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1270.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_33": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1291.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_34": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1300.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_35": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1302.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_36": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1326.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_37": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1346.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_38": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1359.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_39": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1359.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_40": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1363.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_41": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1386.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_42": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1426.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_43": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1435.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_44": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1465.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_45": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1474.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_46": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1488.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_47": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1502.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_48": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1503.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_49": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1513.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_50": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1528.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_51": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1557.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_52": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1569.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_53": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1596.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_54": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1617.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_55": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1722.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_56": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1728.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_57": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1741.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_58": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1745.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_59": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1750.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_60": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1750.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_61": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1757.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_62": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1763.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_63": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1852.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_64": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1865.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_65": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1904.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_66": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1909.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_67": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1931.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_68": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1979.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_69": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2002.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_70": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2004.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_71": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2025.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_72": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2075.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_73": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2079.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_base_measure_74": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2089.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_L_base_measure_0": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 315.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_1": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 540.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_2": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 579.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_3": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 658.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_4": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 661.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_5": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 711.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_6": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 782.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_7": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 836.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_8": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 906.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_9": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 913.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_10": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1017.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_11": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1041.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_12": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1112.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_13": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1242.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_14": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1315.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_15": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1318.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_16": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1356.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_17": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1478.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_18": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1650.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_19": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1798.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_20": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1866.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_21": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1877.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_22": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1884.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_23": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2013.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_base_measure_24": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2073.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "N_R_base_measure_0": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 387.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_1": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 587.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_2": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 588.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_3": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 641.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_4": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 956.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_5": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 961.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_6": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1070.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_7": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1074.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_8": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1100.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_9": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1127.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_10": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1180.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_11": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1194.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_12": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1225.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_13": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1277.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_14": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1315.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_15": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1345.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_16": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1354.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_17": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1529.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_18": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1559.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_19": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1637.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_20": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1689.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_21": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1796.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_22": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1873.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_23": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1878.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_base_measure_24": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2080.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_S_base_measure_0": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 313.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_1": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 315.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_2": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 328.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_3": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 377.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_4": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 380.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_5": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 424.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_6": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 487.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_7": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 498.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_8": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 601.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_9": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 616.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_10": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 622.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_11": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 645.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_12": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 714.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_13": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 766.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_14": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 798.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_15": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 801.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_16": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 848.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_17": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 852.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_18": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 855.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_19": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 873.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_20": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 918.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_21": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 930.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_22": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1007.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_23": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1018.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_24": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1040.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_25": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1077.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_26": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1087.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_27": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1102.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_28": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1104.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_29": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1130.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_30": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1163.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_31": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1189.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_32": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1234.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_33": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1236.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_34": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1264.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_35": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1268.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_36": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1294.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_37": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1326.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_38": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1332.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_39": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1334.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_40": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1336.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_41": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1354.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_42": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1363.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_43": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1377.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_44": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1418.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_45": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1423.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_46": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1446.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_47": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1454.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_48": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1485.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_49": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1507.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_50": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1513.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_51": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1557.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_52": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1577.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_53": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1581.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_54": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1601.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_55": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1613.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_56": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1624.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_57": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1646.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_58": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1658.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_59": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1683.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_60": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1689.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_61": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1724.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_62": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1744.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_63": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1755.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_64": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1826.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_65": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1855.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_66": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1895.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_67": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1935.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_68": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1976.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_69": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1982.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_70": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2034.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_71": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2052.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_72": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2072.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_73": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2081.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_base_measure_74": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2089.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_L_base_measure_0": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 382.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_1": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 429.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_2": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 461.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_3": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 516.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_4": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 559.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_5": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 782.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_6": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 799.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_7": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 806.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_8": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 975.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_9": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 978.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_10": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1097.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_11": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1161.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_12": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1283.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_13": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1315.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_14": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1426.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_15": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1469.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_16": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1472.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_17": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1720.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_18": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1753.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_19": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1868.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_20": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1938.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_21": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1960.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_22": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1995.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_23": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2036.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_base_measure_24": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2047.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_0": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 321.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_1": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 331.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_2": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 368.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_3": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 387.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_4": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 431.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_5": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 436.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_6": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 438.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_7": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 587.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_8": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 647.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_9": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 717.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_10": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 731.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_11": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 768.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_12": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 813.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_13": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 868.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_14": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 909.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_15": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 984.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_16": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1007.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_17": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1223.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_18": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1247.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_19": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1262.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_20": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1416.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_21": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1560.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_22": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1704.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_23": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1740.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_base_measure_24": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1776.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_S_base_measure_0": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 310.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_1": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 324.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_2": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 377.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_3": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 378.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_4": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 390.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_5": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 409.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_6": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 437.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_7": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 448.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_8": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 453.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_9": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 488.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_10": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 493.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_11": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 494.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_12": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 494.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_13": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 501.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_14": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 536.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_15": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 543.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_16": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 569.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_17": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 608.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_18": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 652.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_19": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 676.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_20": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 676.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_21": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 704.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_22": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 706.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_23": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 806.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_24": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 838.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_25": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 880.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_26": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 886.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_27": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 913.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_28": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 923.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_29": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 960.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_30": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 960.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_31": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 967.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_32": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 991.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_33": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1033.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_34": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1040.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_35": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1088.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_36": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1105.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_37": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1114.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_38": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1114.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_39": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1177.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_40": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1180.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_41": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1205.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_42": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1205.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_43": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1210.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_44": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1213.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_45": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1224.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_46": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1280.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_47": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1339.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_48": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1386.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_49": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1389.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_50": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1418.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_51": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1429.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_52": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1433.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_53": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1442.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_54": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1460.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_55": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1463.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_56": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1466.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_57": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1553.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_58": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1609.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_59": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1626.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_60": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1639.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_61": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1641.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_62": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1709.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_63": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1744.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_64": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1747.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_65": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1763.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_66": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1773.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_67": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1801.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_68": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1834.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_69": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1836.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_70": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1857.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_71": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1945.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_72": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1961.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_73": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2027.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_base_measure_74": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2076.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_L_base_measure_0": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 339.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_1": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 359.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_2": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 379.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_3": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 393.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_4": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 438.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_5": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 490.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_6": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 496.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_7": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 516.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_8": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 530.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_9": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 537.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_10": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 626.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_11": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 816.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_12": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 869.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_13": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 893.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_14": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1191.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_15": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1251.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_16": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1254.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_17": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1373.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_18": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1413.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_19": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1471.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_20": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1557.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_21": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1655.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_22": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1752.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_23": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1957.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_base_measure_24": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2034.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "W_R_base_measure_0": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 308.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_1": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 496.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_2": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 524.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_3": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 634.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_4": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 672.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_5": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 702.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_6": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 803.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_7": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 855.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_8": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 899.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_9": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 905.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_10": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 947.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_11": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 978.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_12": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1054.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_13": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1225.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_14": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1285.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_15": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1327.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_16": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1478.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_17": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1480.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_18": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1551.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_19": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1597.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_20": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1637.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_21": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1666.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_22": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1712.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_23": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1776.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_base_measure_24": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1893.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_S_base_measure_0": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 350.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_1": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 372.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_2": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 394.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_3": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 403.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_4": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 409.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_5": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 423.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_6": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 461.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_7": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 513.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_8": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 522.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_9": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 586.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_10": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 597.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_11": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 627.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_12": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 644.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_13": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 665.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_14": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 671.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_15": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 671.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_16": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 673.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_17": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 678.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_18": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 697.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_19": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 733.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_20": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 746.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_21": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 772.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_22": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 775.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_23": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 812.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_24": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 856.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_25": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 891.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_26": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 971.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_27": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 996.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_28": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1065.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_29": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1102.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_30": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1114.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_31": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1124.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_32": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1130.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_33": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1154.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_34": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1158.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_35": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1194.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_36": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1218.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_37": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1225.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_38": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1328.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_39": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1329.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_40": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1339.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_41": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1381.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_42": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1434.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_43": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1455.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_44": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1486.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_45": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1505.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_46": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1543.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_47": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1561.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_48": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1606.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_49": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1661.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_50": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1669.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_51": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1674.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_52": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1687.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_53": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1687.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_54": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1699.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_55": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1705.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_56": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1709.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_57": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1712.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_58": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1737.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_59": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1738.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_60": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1740.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_61": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1749.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_62": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1763.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_63": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1777.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_64": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1779.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_65": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1780.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_66": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1789.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_67": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1819.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_68": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1868.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_69": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1898.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_70": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1953.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_71": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1999.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_72": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2016.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_73": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2027.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_base_measure_74": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2089.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_L_base_measure_0": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 382.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_1": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 399.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_2": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 414.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_3": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 429.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_4": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 605.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_5": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 669.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_6": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 670.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_7": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 706.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_8": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 782.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_9": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 819.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_10": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 934.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_11": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 944.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_12": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1046.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_13": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1172.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_14": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1223.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_15": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1232.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_16": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1282.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_17": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1472.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_18": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1594.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_19": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1674.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_20": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1765.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_21": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1926.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_22": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1937.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_23": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2079.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_base_measure_24": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "base",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2085.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "E_R_extra_warmup_0": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 260.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_S_extra_warmup_0": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 33.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_warmup_1": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 256.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_L_extra_warmup_0": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 74.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "N_R_extra_warmup_0": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 19.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_warmup_1": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 212.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_S_extra_warmup_0": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 35.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_warmup_1": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 71.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_warmup_2": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 75.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_warmup_3": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 84.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_warmup_4": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 142.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_warmup_5": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 186.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_warmup_6": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 235.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_warmup_7": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 243.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_L_extra_warmup_0": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 103.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_warmup_1": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 120.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_warmup_2": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 162.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_warmup_0": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 293.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_S_extra_warmup_0": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 7.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_warmup_1": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 21.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_warmup_2": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 148.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_warmup_3": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 148.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_warmup_4": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 242.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_L_extra_warmup_0": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 117.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_warmup_1": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 159.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "W_R_extra_warmup_0": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 72.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_S_extra_warmup_0": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 173.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_warmup_1": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 201.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_L_extra_warmup_0": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": false,
+    "scheduled": 223.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "E_R_extra_measure_0": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 345.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_extra_measure_1": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 820.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_extra_measure_2": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 985.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_extra_measure_3": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1193.5,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_R_extra_measure_4": {
+    "direction": "E",
+    "movement": "E_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1413.0,
+    "edges": [
+      "E_in",
+      "N_out"
+    ]
+  },
+  "E_S_extra_measure_0": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 334.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_1": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 515.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_2": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 655.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_3": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 783.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_4": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 896.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_5": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1161.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_6": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1263.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_7": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1295.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_8": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1418.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_9": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1421.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_10": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1560.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_11": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1782.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_12": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1787.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_13": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1893.0,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_S_extra_measure_14": {
+    "direction": "E",
+    "movement": "E_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1940.5,
+    "edges": [
+      "E_in",
+      "W_out"
+    ]
+  },
+  "E_L_extra_measure_0": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 527.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_extra_measure_1": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 776.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_extra_measure_2": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 793.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_extra_measure_3": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 802.5,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "E_L_extra_measure_4": {
+    "direction": "E",
+    "movement": "E_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1966.0,
+    "edges": [
+      "E_in",
+      "S_out"
+    ]
+  },
+  "N_R_extra_measure_0": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 334.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_1": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 888.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_2": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 976.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_3": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 988.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_4": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1228.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_5": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1324.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_6": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1390.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_7": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1526.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_8": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1606.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_9": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1616.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_10": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1690.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_11": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1758.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_12": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1807.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_13": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1821.0,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_R_extra_measure_14": {
+    "direction": "N",
+    "movement": "N_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1872.5,
+    "edges": [
+      "N_in",
+      "W_out"
+    ]
+  },
+  "N_S_extra_measure_0": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 328.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_1": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 345.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_2": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 362.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_3": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 364.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_4": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 410.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_5": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 430.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_6": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 457.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_7": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 482.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_8": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 483.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_9": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 491.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_10": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 499.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_11": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 559.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_12": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 609.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_13": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 677.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_14": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 693.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_15": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 730.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_16": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 757.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_17": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 796.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_18": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 796.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_19": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 850.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_20": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1079.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_21": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1089.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_22": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1149.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_23": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1182.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_24": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1239.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_25": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1242.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_26": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1331.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_27": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1351.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_28": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1461.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_29": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1505.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_30": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1545.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_31": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1622.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_32": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1646.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_33": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1657.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_34": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1663.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_35": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1694.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_36": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1742.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_37": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1878.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_38": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1972.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_39": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1995.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_40": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2046.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_41": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2060.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_42": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2088.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_43": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2093.5,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_S_extra_measure_44": {
+    "direction": "N",
+    "movement": "N_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2096.0,
+    "edges": [
+      "N_in",
+      "S_out"
+    ]
+  },
+  "N_L_extra_measure_0": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 409.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_1": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 489.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_2": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 921.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_3": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 995.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_4": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1159.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_5": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1162.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_6": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1265.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_7": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1285.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_8": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1306.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_9": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1362.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_10": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1411.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_11": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1446.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_12": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1705.0,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_13": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1925.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "N_L_extra_measure_14": {
+    "direction": "N",
+    "movement": "N_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2050.5,
+    "edges": [
+      "N_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_0": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 384.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_1": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 601.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_2": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 721.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_3": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1021.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_4": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1089.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_5": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1793.0,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_6": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1814.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_7": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1866.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_8": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1919.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_R_extra_measure_9": {
+    "direction": "S",
+    "movement": "S_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1929.5,
+    "edges": [
+      "S_in",
+      "E_out"
+    ]
+  },
+  "S_S_extra_measure_0": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 327.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_1": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 350.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_2": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 483.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_3": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 534.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_4": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 600.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_5": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 674.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_6": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 683.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_7": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 735.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_8": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 753.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_9": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 760.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_10": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 791.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_11": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 792.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_12": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 888.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_13": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 929.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_14": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1087.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_15": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1117.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_16": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1118.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_17": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1219.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_18": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1403.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_19": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1435.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_20": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1652.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_21": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1941.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_22": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1944.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_23": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1962.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_24": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1963.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_25": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1982.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_26": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1987.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_27": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2070.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_28": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2086.5,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_S_extra_measure_29": {
+    "direction": "S",
+    "movement": "S_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2093.0,
+    "edges": [
+      "S_in",
+      "N_out"
+    ]
+  },
+  "S_L_extra_measure_0": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 443.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_1": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 505.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_2": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 656.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_3": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 725.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_4": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 941.0,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_5": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 978.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_6": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1252.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_7": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1309.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_8": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1834.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "S_L_extra_measure_9": {
+    "direction": "S",
+    "movement": "S_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1843.5,
+    "edges": [
+      "S_in",
+      "W_out"
+    ]
+  },
+  "W_R_extra_measure_0": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 340.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_extra_measure_1": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 596.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_extra_measure_2": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 955.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_extra_measure_3": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1265.5,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_R_extra_measure_4": {
+    "direction": "W",
+    "movement": "W_R",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1899.0,
+    "edges": [
+      "W_in",
+      "S_out"
+    ]
+  },
+  "W_S_extra_measure_0": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 345.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_1": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 402.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_2": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 603.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_3": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 612.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_4": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 656.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_5": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 662.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_6": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 696.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_7": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 852.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_8": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1148.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_9": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1167.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_10": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1243.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_11": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1268.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_12": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1530.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_13": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1727.5,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_S_extra_measure_14": {
+    "direction": "W",
+    "movement": "W_S",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1788.0,
+    "edges": [
+      "W_in",
+      "E_out"
+    ]
+  },
+  "W_L_extra_measure_0": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 302.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_extra_measure_1": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 317.0,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_extra_measure_2": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1244.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_extra_measure_3": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 1944.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  },
+  "W_L_extra_measure_4": {
+    "direction": "W",
+    "movement": "W_L",
+    "source": "extra",
+    "vehicle_type": "car",
+    "measured": true,
+    "scheduled": 2031.5,
+    "edges": [
+      "W_in",
+      "N_out"
+    ]
+  }
+}

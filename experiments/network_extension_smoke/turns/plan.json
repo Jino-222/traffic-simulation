@@ -1,0 +1,78 @@
+{
+  "C": {
+    "phases": [
+      {
+        "name": "N_protected",
+        "duration": 18,
+        "state": "GGGrrrrrrrrrrrrr"
+      },
+      {
+        "name": "N_yellow",
+        "duration": 3,
+        "state": "yyyrrrrrrrrrrrrr"
+      },
+      {
+        "name": "N_allred",
+        "duration": 5,
+        "state": "rrrrrrrrrrrrrrrr"
+      },
+      {
+        "name": "E_protected",
+        "duration": 18,
+        "state": "rrrGGGrrrrrrrrrr"
+      },
+      {
+        "name": "E_yellow",
+        "duration": 3,
+        "state": "rrryyyrrrrrrrrrr"
+      },
+      {
+        "name": "E_allred",
+        "duration": 5,
+        "state": "rrrrrrrrrrrrrrrr"
+      },
+      {
+        "name": "S_protected",
+        "duration": 18,
+        "state": "rrrrrrGGGrrrrrrr"
+      },
+      {
+        "name": "S_yellow",
+        "duration": 3,
+        "state": "rrrrrryyyrrrrrrr"
+      },
+      {
+        "name": "S_allred",
+        "duration": 5,
+        "state": "rrrrrrrrrrrrrrrr"
+      },
+      {
+        "name": "W_protected",
+        "duration": 18,
+        "state": "rrrrrrrrrGGGrrrr"
+      },
+      {
+        "name": "W_yellow",
+        "duration": 3,
+        "state": "rrrrrrrrryyyrrrr"
+      },
+      {
+        "name": "W_allred",
+        "duration": 5,
+        "state": "rrrrrrrrrrrrrrrr"
+      },
+      {
+        "name": "ped_walk",
+        "duration": 3,
+        "state": "rrrrrrrrrrrrGGGG"
+      },
+      {
+        "name": "ped_clearance",
+        "duration": 21.5,
+        "state": "rrrrrrrrrrrrrrrr"
+      }
+    ],
+    "offset": 0,
+    "cycle": 128.5
+  }
+}

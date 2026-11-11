@@ -1,0 +1,12 @@
+<div class="replay-root">
+<div class="controls"><button id="play" type="button">재생</button><label>배속 <select id="speed"><option>1</option><option selected>8</option><option>20</option></select>배</label><label>표시 범위 <select id="zoom"><option value="120" selected>중심 120m</option><option value="300">중심 300m</option><option value="650">전체 650m</option></select></label><strong id="time-label">0초</strong></div>
+<div class="controls"><label>지정 시각 <input id="jump" type="number" min="0" step="0.5" value="0" aria-label="지정 시각 (초)">초</label><button id="jump-button" type="button">시각 이동</button></div>
+<div class="controls"><button id="begin" type="button">처음으로</button><button id="peak" type="button">혼잡 최대 시각</button><button id="next-phase" type="button">다음 신호 변경</button></div>
+<label class="scrubber">재생 시각 <input id="scrub" type="range" min="0" max="1" step="0.5" value="0" aria-label="재생 시각"></label>
+<div class="views"><section><h3 id="left-title">기준</h3><canvas id="left-canvas" role="img" aria-label="기준 실험의 실제 차량 궤적"></canvas><p id="left-stats"></p><p id="left-selected"></p></section><section><h3 id="right-title">후보</h3><canvas id="right-canvas" role="img" aria-label="후보 실험의 실제 차량 궤적"></canvas><p id="right-stats"></p><p id="right-selected"></p></section></div>
+<label>차량 선택 <select id="vehicle" aria-label="차량 선택"><option value="">선택 없음</option></select></label>
+<p class="legend">청록: 기존 차량 · 테두리 있는 주황: 입주 추가 차량 · 보라: 보행자 · 원형: 차량 신호 · 사각형: 보행 진입 신호. 보행 적색은 새 진입 종료이며 이미 횡단 중인 보행자의 완료를 뜻하지 않습니다.</p>
+<p class="legend">차량 표식은 앞부분 좌표 기준, 보행 표식은 가독성을 위해 확대합니다. ‘혼잡 최대’는 관측기간의 5초 표본 중 양쪽 정지 차량 합계가 각각 가장 큰 시각을 비교해 선택합니다.</p>
+<canvas id="spark" role="img" aria-label="두 실험의 정지 차량 시계열과 재생 시각"></canvas>
+<p id="replay-status" role="status">궤적을 불러오는 중…</p>
+</div>

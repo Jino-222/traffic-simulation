@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+  <vType id="L110" carFollowModel="Krauss" length="6.30936" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F110" carFollowModel="Krauss" length="5.60832" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r110" edges="e110" />
+  <vehicle id="L110" type="L110" route="r110" depart="0" departPos="242.13250399999998" departSpeed="0" />
+  <vehicle id="F110" type="F110" route="r110" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L113" carFollowModel="Krauss" length="6.97992" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F113" carFollowModel="Krauss" length="6.126480000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r113" edges="e113" />
+  <vehicle id="L113" type="L113" route="r113" depart="0" departPos="222.171152" departSpeed="0" />
+  <vehicle id="F113" type="F113" route="r113" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L117" carFollowModel="Krauss" length="5.73024" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F117" carFollowModel="Krauss" length="5.60832" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r117" edges="e117" />
+  <vehicle id="L117" type="L117" route="r117" depart="0" departPos="216.983456" departSpeed="0" />
+  <vehicle id="F117" type="F117" route="r117" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L118" carFollowModel="Krauss" length="7.650480000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F118" carFollowModel="Krauss" length="6.126480000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r118" edges="e118" />
+  <vehicle id="L118" type="L118" route="r118" depart="0" departPos="230.44037600000001" departSpeed="0" />
+  <vehicle id="F118" type="F118" route="r118" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L119" carFollowModel="Krauss" length="6.278880000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F119" carFollowModel="Krauss" length="5.5168800000000005" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r119" edges="e119" />
+  <vehicle id="L119" type="L119" route="r119" depart="0" departPos="228.2702" departSpeed="0" />
+  <vehicle id="F119" type="F119" route="r119" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L122" carFollowModel="Krauss" length="6.126480000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F122" carFollowModel="Krauss" length="7.0408800000000005" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r122" edges="e122" />
+  <vehicle id="L122" type="L122" route="r122" depart="0" departPos="222.027896" departSpeed="0" />
+  <vehicle id="F122" type="F122" route="r122" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L123" carFollowModel="Krauss" length="5.60832" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F123" carFollowModel="Krauss" length="5.059680000000001" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r123" edges="e123" />
+  <vehicle id="L123" type="L123" route="r123" depart="0" departPos="218.839688" departSpeed="0" />
+  <vehicle id="F123" type="F123" route="r123" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L126" carFollowModel="Krauss" length="7.4676" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F126" carFollowModel="Krauss" length="4.99872" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r126" edges="e126" />
+  <vehicle id="L126" type="L126" route="r126" depart="0" departPos="243.833288" departSpeed="0" />
+  <vehicle id="F126" type="F126" route="r126" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L127" carFollowModel="Krauss" length="7.0408800000000005" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F127" carFollowModel="Krauss" length="6.06552" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r127" edges="e127" />
+  <vehicle id="L127" type="L127" route="r127" depart="0" departPos="240.382952" departSpeed="0" />
+  <vehicle id="F127" type="F127" route="r127" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L129" carFollowModel="Krauss" length="6.06552" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F129" carFollowModel="Krauss" length="5.73024" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r129" edges="e129" />
+  <vehicle id="L129" type="L129" route="r129" depart="0" departPos="221.939504" departSpeed="0" />
+  <vehicle id="F129" type="F129" route="r129" depart="0" departPos="200" departSpeed="0" />
+  <vType id="L134" carFollowModel="Krauss" length="5.73024" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <vType id="F134" carFollowModel="Krauss" length="5.57784" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.4" minGap="2.5" accel="2.6" />
+  <route id="r134" edges="e134" />
+  <vehicle id="L134" type="L134" route="r134" depart="0" departPos="228.92552" departSpeed="0" />
+  <vehicle id="F134" type="F134" route="r134" depart="0" departPos="200" departSpeed="0" />
+</routes>

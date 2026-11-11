@@ -1,0 +1,90 @@
+{
+  "scenario": "after",
+  "seed": 17,
+  "warmup": 300,
+  "duration": 1800,
+  "drain": 600,
+  "step": 0.5,
+  "record": true,
+  "plan": {
+    "C": {
+      "phases": [
+        {
+          "name": "N_protected",
+          "duration": 18,
+          "state": "GGGrrrrrrrrrrrrr"
+        },
+        {
+          "name": "N_yellow",
+          "duration": 3,
+          "state": "yyyrrrrrrrrrrrrr"
+        },
+        {
+          "name": "N_allred",
+          "duration": 5,
+          "state": "rrrrrrrrrrrrrrrr"
+        },
+        {
+          "name": "E_protected",
+          "duration": 18,
+          "state": "rrrGGGrrrrrrrrrr"
+        },
+        {
+          "name": "E_yellow",
+          "duration": 3,
+          "state": "rrryyyrrrrrrrrrr"
+        },
+        {
+          "name": "E_allred",
+          "duration": 5,
+          "state": "rrrrrrrrrrrrrrrr"
+        },
+        {
+          "name": "S_protected",
+          "duration": 18,
+          "state": "rrrrrrGGGrrrrrrr"
+        },
+        {
+          "name": "S_yellow",
+          "duration": 3,
+          "state": "rrrrrryyyrrrrrrr"
+        },
+        {
+          "name": "S_allred",
+          "duration": 5,
+          "state": "rrrrrrrrrrrrrrrr"
+        },
+        {
+          "name": "W_protected",
+          "duration": 18,
+          "state": "rrrrrrrrrGGGrrrr"
+        },
+        {
+          "name": "W_yellow",
+          "duration": 3,
+          "state": "rrrrrrrrryyyrrrr"
+        },
+        {
+          "name": "W_allred",
+          "duration": 5,
+          "state": "rrrrrrrrrrrrrrrr"
+        },
+        {
+          "name": "ped_walk",
+          "duration": 3,
+          "state": "rrrrrrrrrrrrGGGG"
+        },
+        {
+          "name": "ped_clearance",
+          "duration": 21.5,
+          "state": "rrrrrrrrrrrrrrrr"
+        }
+      ],
+      "offset": 0,
+      "cycle": 128.5
+    }
+  },
+  "net_sha256": "51517ce7dfb79a08a5bcbf2b851eb4c88751a8c2aa6eabcb774abdcc41dc9683",
+  "demand_sha256": "40222cc5ea840715ed2c9cd72c65c3a3146d9f0acdd02c31b64d53b8194a5c87",
+  "code_sha256": "2a62fcfb00583e9082c0f3fabda9ff0d1c7de15513000d11ca3729b62a2229f2"
+}

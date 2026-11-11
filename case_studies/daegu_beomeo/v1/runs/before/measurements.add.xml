@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <edgeData id="edges" file="edges.xml" period="60" begin="300" end="1500" excludeEmpty="true" />
+  <timedEvent type="SaveTLSStates" dest="tls.xml.gz" />
+</additional>

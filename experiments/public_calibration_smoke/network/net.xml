@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-11T01:30:49.228797+09:00 by Eclipse SUMO netconvert 1.28.0
+<netconvertConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <node-files value="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\public_calibration_smoke\network\nodes.xml"/>
+        <edge-files value="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\public_calibration_smoke\network\edges.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\public_calibration_smoke\network\net.xml"/>
+    </output>
+
+</netconvertConfiguration>
+-->
+
+<net version="1.20" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="0.00,0.00,5000.00,0.00" origBoundary="0.00,0.00,5000.00,0.00" projParameter="!"/>
+
+    <edge id="e110" from="a110" to="b110" priority="-1">
+        <lane id="e110_0" index="0" speed="22.22" length="5000.00" shape="0.00,-1.60 5000.00,-1.60"/>
+    </edge>
+
+    <junction id="a110" type="dead_end" x="0.00" y="0.00" incLanes="" intLanes="" shape="0.00,0.00 0.00,-3.20"/>
+    <junction id="b110" type="dead_end" x="5000.00" y="0.00" incLanes="e110_0" intLanes="" shape="5000.00,-3.20 5000.00,0.00"/>
+
+</net>

@@ -1,0 +1,23 @@
+{
+  "name": "대구 범어네거리 주변",
+  "center_lon_lat": [
+    128.6262151,
+    35.8591365
+  ],
+  "bbox_lon_lat": [
+    128.6167151,
+    35.8516365,
+    128.6357151,
+    35.8666365
+  ],
+  "source_url": "https://api.openstreetmap.org/api/0.6/map?bbox=128.6167151,35.8516365,128.6357151,35.8666365",
+  "geocoder_source": "https://nominatim.openstreetmap.org/search?q=범어네거리&format=json&limit=3&countrycodes=kr",
+  "center_osm_node": 7119325165,
+  "downloaded_utc": "2026-11-10T22:00:07.228702+00:00",
+  "osm_sha256": "90000981c3da7ec20850b5b87363a0e719978b1dffd34dd010316ea9083641de",
+  "osm_ways": 1572,
+  "osm_road_ways": 529,
+  "osm_building_ways": 898,
+  "license": "© OpenStreetMap contributors, ODbL 1.0; https://www.openstreetmap.org/copyright",
+  "scope": "Road/building geometry from OSM. Demand, signal plans, missing road attributes and default building heights are assumptions. No field calibration."
+}

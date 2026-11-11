@@ -1,0 +1,9 @@
+﻿id,direction,source,vehicle_type,measured,scheduled,status,depart,arrival,time_loss,waiting_time,depart_delay,travel_time
+v_N_base_measure_0,N,base,car,True,45.0,completed,45.0,70.0,10.68,6.5,0.0,25.0
+v_N_base_measure_1,N,base,car,True,135.0,completed,135.0,149.5,0.0,0.0,0.0,14.5
+v_S_base_measure_0,S,base,car,True,45.0,completed,45.0,70.0,10.68,6.5,0.0,25.0
+v_S_base_measure_1,S,base,car,True,135.0,completed,135.0,149.5,0.0,0.0,0.0,14.5
+v_E_base_measure_0,E,base,car,True,45.0,completed,45.0,59.5,0.0,0.0,0.0,14.5
+v_E_base_measure_1,E,base,car,True,135.0,completed,135.0,160.0,10.68,6.5,0.0,25.0
+v_W_base_measure_0,W,base,car,True,45.0,completed,45.0,59.5,0.0,0.0,0.0,14.5
+v_W_base_measure_1,W,base,car,True,135.0,completed,135.0,160.0,10.68,6.5,0.0,25.0

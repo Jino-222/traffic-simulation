@@ -1,0 +1,37 @@
+{
+  "parameters": {
+    "tau": 1.0,
+    "minGap": 2.5,
+    "accel": 2.6
+  },
+  "valid": true,
+  "collisions": 0,
+  "teleports": 0,
+  "leader_position_max_error_m": 3.410605131648481e-13,
+  "minimum_predicted_gap_m": 2.7998475908201765,
+  "mean_score": 1.62419702199883,
+  "mean_speed_rmse_mps": 1.9237825312631764,
+  "mean_gap_rmse_m": 6.623057563672419,
+  "trajectories": [
+    {
+      "follower": 110,
+      "speed_rmse_mps": 1.9237825312631764,
+      "gap_rmse_m": 6.623057563672419,
+      "speed_bias_mps": -0.08734246409432109,
+      "gap_bias_m": -3.8788472984247675,
+      "score": 1.62419702199883,
+      "frames": 239
+    }
+  ],
+  "elapsed_seconds": 0.6880000000019209,
+  "preprocessing": {
+    "110": {
+      "backward_intervals": 3,
+      "monotonic_adjustment_max_m": 0.015849599999967268,
+      "monotonic_adjustment_rmse_m": 0.0013297573192093768,
+      "headway_coordinate_max_error_m": 0.0015240000000389387,
+      "leader_interval_speed_max_mps": 15.349728000000198,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.19504300438269032
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "sweeps": [
+    {
+      "lanes": 1,
+      "speed_mps": 0.7,
+      "assumed_m": 20,
+      "generated_m": {
+        "ns": 6.4,
+        "ew": 6.4
+      },
+      "applied_m": {
+        "ns": 20,
+        "ew": 20
+      },
+      "required_seconds": {
+        "ns": 33.57142857142857,
+        "ew": 33.57142857142857
+      },
+      "budget_seconds": {
+        "ns": 34.0,
+        "ew": 34.0
+      },
+      "valid": true,
+      "half_second_short_rejected": true
+    },
+    {
+      "lanes": 1,
+      "speed_mps": 1.0,
+      "assumed_m": 20,
+      "generated_m": {
+        "ns": 6.4,
+        "ew": 6.4
+      },
+      "applied_m": {
+        "ns": 20,
+        "ew": 20
+      },
+      "required_seconds": {
+        "ns": 25.0,
+        "ew": 25.0
+      },
+      "budget_seconds": {
+        "ns": 25.0,
+        "ew": 25.0
+      },
+      "valid": true,
+      "half_second_short_rejected": true
+    },
+    {
+      "lanes": 2,
+      "speed_mps": 0.7,
+      "assumed_m": 20,
+      "generated_m": {
+        "ns": 12.8,
+        "ew": 12.8
+      },
+      "applied_m": {
+        "ns": 20,
+        "ew": 20
+      },
+      "required_seconds": {
+        "ns": 33.57142857142857,
+        "ew": 33.57142857142857
+      },
+      "budget_seconds": {
+        "ns": 34.0,
+        "ew": 34.0
+      },
+      "valid": true,
+      "half_second_short_rejected": true
+    },
+    {
+      "lanes": 2,
+      "speed_mps": 1.0,
+      "assumed_m": 20,
+      "generated_m": {
+        "ns": 12.8,
+        "ew": 12.8
+      },
+      "applied_m": {
+        "ns": 20,
+        "ew": 20
+      },
+      "required_seconds": {
+        "ns": 25.0,
+        "ew": 25.0
+      },
+      "budget_seconds": {
+        "ns": 25.0,
+        "ew": 25.0
+      },
+      "valid": true,
+      "half_second_short_rejected": true
+    },
+    {
+      "lanes": 3,
+      "speed_mps": 0.7,
+      "assumed_m": 20,
+      "generated_m": {
+        "ns": 19.2,
+        "ew": 19.2
+      },
+      "applied_m": {
+        "ns": 20,
+        "ew": 20
+      },
+      "required_seconds": {
+        "ns": 33.57142857142857,
+        "ew": 33.57142857142857
+      },
+      "budget_seconds": {
+        "ns": 34.0,
+        "ew": 34.0
+      },
+      "valid": true,
+      "half_second_short_rejected": true
+    },
+    {
+      "lanes": 3,
+      "speed_mps": 1.0,
+      "assumed_m": 20,
+      "generated_m": {
+        "ns": 19.2,
+        "ew": 19.2
+      },
+      "applied_m": {
+        "ns": 20,
+        "ew": 20
+      },
+      "required_seconds": {
+        "ns": 25.0,
+        "ew": 25.0
+      },
+      "budget_seconds": {
+        "ns": 25.0,
+        "ew": 25.0
+      },
+      "valid": true,
+      "half_second_short_rejected": true
+    },
+    {
+      "lanes": 4,
+      "speed_mps": 0.7,
+      "assumed_m": 20,
+      "generated_m": {
+        "ns": 25.6,
+        "ew": 25.6
+      },
+      "applied_m": {
+        "ns": 25.6,
+        "ew": 25.6
+      },
+      "required_seconds": {
+        "ns": 41.57142857142858,
+        "ew": 41.57142857142858
+      },
+      "budget_seconds": {
+        "ns": 42.0,
+        "ew": 42.0
+      },
+      "valid": true,
+      "half_second_short_rejected": true
+    },
+    {
+      "lanes": 4,
+      "speed_mps": 1.0,
+      "assumed_m": 20,
+      "generated_m": {
+        "ns": 25.6,
+        "ew": 25.6
+      },
+      "applied_m": {
+        "ns": 25.6,
+        "ew": 25.6
+      },
+      "required_seconds": {
+        "ns": 30.6,
+        "ew": 30.6
+      },
+      "budget_seconds": {
+        "ns": 31.0,
+        "ew": 31.0
+      },
+      "valid": true,
+      "half_second_short_rejected": true
+    }
+  ],
+  "runtime_cases": [
+    {
+      "case": "assumed_conservative",
+      "lanes": 1,
+      "speed": 1,
+      "assumed_m": 20,
+      "geometry_m": {
+        "ns": 6.4,
+        "ew": 6.4
+      },
+      "ns_seconds": 25.0,
+      "ew_seconds": 25.0,
+      "executed_scenarios": 3,
+      "all_four_crossings_used": true,
+      "pedestrian_completion_per_run": 12,
+      "signal_entry_and_occupancy_anomalies": 0
+    },
+    {
+      "case": "geometry_matched",
+      "lanes": 1,
+      "speed": 1,
+      "assumed_m": 6.4,
+      "geometry_m": {
+        "ns": 6.4,
+        "ew": 6.4
+      },
+      "ns_seconds": 11.5,
+      "ew_seconds": 11.5,
+      "executed_scenarios": 3,
+      "all_four_crossings_used": true,
+      "pedestrian_completion_per_run": 12,
+      "signal_entry_and_occupancy_anomalies": 0
+    },
+    {
+      "case": "wide_slow",
+      "lanes": 4,
+      "speed": 0.7,
+      "assumed_m": 20,
+      "geometry_m": {
+        "ns": 25.6,
+        "ew": 25.6
+      },
+      "ns_seconds": 42.0,
+      "ew_seconds": 42.0,
+      "executed_scenarios": 3,
+      "all_four_crossings_used": true,
+      "pedestrian_completion_per_run": 12,
+      "signal_entry_and_occupancy_anomalies": 0
+    }
+  ],
+  "passed": true,
+  "interpretation": "Input is an assumed design crossing length. Generated SUMO crossing geometry follows lane widths. Validation uses the larger length; an assumed 20 m is not silently presented as a 20 m generated crossing.",
+  "limitations": "Deterministic fixed-speed walkers and synthetic geometry; no heterogeneous walking response or field safety certification."
+}

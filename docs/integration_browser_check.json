@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-11",
+  "url": "http://127.0.0.1:8502/",
+  "browser": "ChatGPT in-app browser",
+  "checked": [
+    "Default v/c values remain 0.855 / 1.184 / 0.982",
+    "Pretendard computed font family and loaded font check",
+    "City replay loaded 3 scenarios and 900 frames on the same app origin",
+    "Map, isometric, speed and waiting modes render",
+    "Scenario selection changes the recorded vehicle counts",
+    "Playback advances the recorded timestamp; pause works",
+    "Zoom and time slider reach 1496 seconds",
+    "Canvas vehicle selection displays base_E_0271 and enables its trail",
+    "All-request cohort displays 1173 completed, 39 waiting, 197.76 seconds",
+    "Observation-scheduled cohort displays 902 completed, 39 waiting, 224.86 seconds",
+    "Method and validation scope screen renders",
+    "Native SUMO screenshot gallery renders",
+    "Downloaded PNG SHA256 matches the frozen original",
+    "Comparison video metadata loaded: duration 25 seconds, readyState 4",
+    "Existing two-panel replay advances from 930 seconds and pauses",
+    "No browser console errors observed"
+  ],
+  "screenshots_directory": "docs/integration",
+  "limits": [
+    "Browser checks validate presentation and interaction, not field model accuracy",
+    "No city simulation was rerun or recalibrated as part of this integration",
+    "No pedestrian or field-safety validation of the city network",
+    "No new clean Python environment was installed in this update"
+  ]
+}

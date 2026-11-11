@@ -1,0 +1,6 @@
+Loading net-file from '../../network/beomeo.net.xml' ... done (121ms).
+Loading additional-files from 'measurements.add.xml' ...
+Loading of additional-files failed.
+Warning: Environment variable SUMO_HOME is not set properly, disabling XML validation. Set 'auto' or 'always' for web lookups.
+Error: Another logic with id 'joinedS_7122702217_7122702219_7122702222_cluster_3076899982_3114874170_3781617604_3781617605_#4more' and programID '0' exists.
+Quitting (on error).

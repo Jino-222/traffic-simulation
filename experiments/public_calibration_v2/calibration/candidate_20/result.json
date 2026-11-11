@@ -1,0 +1,221 @@
+{
+  "parameters": {
+    "tau": 1.8,
+    "minGap": 1.5,
+    "accel": 1.0
+  },
+  "valid": true,
+  "collisions": 0,
+  "teleports": 0,
+  "leader_emergency_warnings": 31,
+  "follower_emergency_warnings": 0,
+  "integrity_definition": "No physical overlap/teleport and prescribed leader positions reproduced; does not establish realistic accelerations or field validity",
+  "leader_position_max_error_m": 5.115907697472721e-13,
+  "minimum_predicted_gap_m": 1.5012849312527896,
+  "mean_score": 1.110636845239956,
+  "mean_speed_rmse_mps": 1.4194962348922338,
+  "mean_gap_rmse_m": 4.008887277938391,
+  "trajectories": [
+    {
+      "follower": 110,
+      "speed_rmse_mps": 1.4021553379015952,
+      "gap_rmse_m": 2.976262678901831,
+      "speed_bias_mps": -0.2013838479512626,
+      "gap_bias_m": -0.2528966434547994,
+      "score": 0.9987039368409807,
+      "frames": 239
+    },
+    {
+      "follower": 113,
+      "speed_rmse_mps": 1.704723387844319,
+      "gap_rmse_m": 5.850767486772137,
+      "speed_bias_mps": -0.3973690217058462,
+      "gap_bias_m": 4.53399149163108,
+      "score": 1.4374384425993734,
+      "frames": 245
+    },
+    {
+      "follower": 117,
+      "speed_rmse_mps": 0.8082312687980568,
+      "gap_rmse_m": 2.558828064857724,
+      "speed_bias_mps": -0.029291534142084276,
+      "gap_bias_m": 0.7946891932191971,
+      "score": 0.6599984408848009,
+      "frames": 302
+    },
+    {
+      "follower": 118,
+      "speed_rmse_mps": 1.2806040077101495,
+      "gap_rmse_m": 3.613454026474695,
+      "speed_bias_mps": 0.030424828436540312,
+      "gap_bias_m": 3.1472628355386325,
+      "score": 1.0016474065025442,
+      "frames": 189
+    },
+    {
+      "follower": 119,
+      "speed_rmse_mps": 1.3495743528460662,
+      "gap_rmse_m": 4.771129916508193,
+      "speed_bias_mps": -0.5262978410819523,
+      "gap_bias_m": 4.449392453624656,
+      "score": 1.1519001680738525,
+      "frames": 118
+    },
+    {
+      "follower": 122,
+      "speed_rmse_mps": 1.6852017073431385,
+      "gap_rmse_m": 4.170707073984017,
+      "speed_bias_mps": -0.47663279131683406,
+      "gap_bias_m": 3.3852045603131247,
+      "score": 1.259671561069971,
+      "frames": 242
+    },
+    {
+      "follower": 123,
+      "speed_rmse_mps": 0.8864299233810718,
+      "gap_rmse_m": 2.972821151322023,
+      "speed_bias_mps": 0.07927167396266539,
+      "gap_bias_m": -0.3255332676090397,
+      "score": 0.7404970768227382,
+      "frames": 302
+    },
+    {
+      "follower": 126,
+      "speed_rmse_mps": 1.5020596701318405,
+      "gap_rmse_m": 4.818747647301971,
+      "speed_bias_mps": -0.7079502082659659,
+      "gap_bias_m": 3.2889572101721294,
+      "score": 1.2329045997961174,
+      "frames": 149
+    },
+    {
+      "follower": 127,
+      "speed_rmse_mps": 1.701050320747334,
+      "gap_rmse_m": 3.856420098862395,
+      "speed_bias_mps": -0.548772993392001,
+      "gap_bias_m": 1.797828790719846,
+      "score": 1.2361671702599066,
+      "frames": 228
+    },
+    {
+      "follower": 129,
+      "speed_rmse_mps": 1.713774980514784,
+      "gap_rmse_m": 5.082883150992293,
+      "speed_bias_mps": -0.5686817144938265,
+      "gap_bias_m": 3.5663538994141013,
+      "score": 1.3651758053566212,
+      "frames": 232
+    },
+    {
+      "follower": 134,
+      "speed_rmse_mps": 1.5806536265962134,
+      "gap_rmse_m": 3.425738761345016,
+      "speed_bias_mps": -0.4163634976998292,
+      "gap_bias_m": 2.256815519759886,
+      "score": 1.1329006894326084,
+      "frames": 232
+    }
+  ],
+  "elapsed_seconds": 0.9379999999946449,
+  "preprocessing": {
+    "110": {
+      "backward_intervals": 3,
+      "monotonic_adjustment_max_m": 0.015849599999967268,
+      "monotonic_adjustment_rmse_m": 0.0013297573192093768,
+      "headway_coordinate_max_error_m": 0.0015240000000389387,
+      "leader_interval_speed_max_mps": 15.349728000000198,
+      "leader_interval_accel_max_abs_mps2": 20.60447999999724,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.19504300438269032
+    },
+    "113": {
+      "backward_intervals": 6,
+      "monotonic_adjustment_max_m": 0.014935199999968063,
+      "monotonic_adjustment_rmse_m": 0.0047120535762330855,
+      "headway_coordinate_max_error_m": 0.001524000000010517,
+      "leader_interval_speed_max_mps": 16.355568000000176,
+      "leader_interval_accel_max_abs_mps2": 26.426159999996912,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.20896153175862292
+    },
+    "117": {
+      "backward_intervals": 62,
+      "monotonic_adjustment_max_m": 0.03048000000000428,
+      "monotonic_adjustment_rmse_m": 0.013642121473998878,
+      "headway_coordinate_max_error_m": 0.0015240000000051879,
+      "leader_interval_speed_max_mps": 13.011912000000052,
+      "leader_interval_accel_max_abs_mps2": 10.393680000001382,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.10660211347879457
+    },
+    "118": {
+      "backward_intervals": 6,
+      "monotonic_adjustment_max_m": 0.00883920000001126,
+      "monotonic_adjustment_rmse_m": 0.0030050250395035013,
+      "headway_coordinate_max_error_m": 0.0015240000000282805,
+      "leader_interval_speed_max_mps": 13.063728000000197,
+      "leader_interval_accel_max_abs_mps2": 26.700479999996674,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.2513618261459316
+    },
+    "119": {
+      "backward_intervals": 0,
+      "monotonic_adjustment_max_m": 0.0,
+      "monotonic_adjustment_rmse_m": 0.0,
+      "headway_coordinate_max_error_m": 0.0015239999999998588,
+      "leader_interval_speed_max_mps": 11.329416000000094,
+      "leader_interval_accel_max_abs_mps2": 10.27176000000054,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.16692272560618343
+    },
+    "122": {
+      "backward_intervals": 7,
+      "monotonic_adjustment_max_m": 0.014630400000015698,
+      "monotonic_adjustment_rmse_m": 0.002502851304382903,
+      "headway_coordinate_max_error_m": 0.001524000000021175,
+      "leader_interval_speed_max_mps": 12.063984000000119,
+      "leader_interval_accel_max_abs_mps2": 24.505919999992898,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.22006653503155182
+    },
+    "123": {
+      "backward_intervals": 6,
+      "monotonic_adjustment_max_m": 0.01402079999999728,
+      "monotonic_adjustment_rmse_m": 0.0051213967946151726,
+      "headway_coordinate_max_error_m": 0.001524000000010517,
+      "leader_interval_speed_max_mps": 10.68324000000004,
+      "leader_interval_accel_max_abs_mps2": 9.479280000000756,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.08572810065032495
+    },
+    "126": {
+      "backward_intervals": 2,
+      "monotonic_adjustment_max_m": 0.005486399999995228,
+      "monotonic_adjustment_rmse_m": 0.00048064424765086673,
+      "headway_coordinate_max_error_m": 0.0015240000000069642,
+      "leader_interval_speed_max_mps": 8.686800000000119,
+      "leader_interval_accel_max_abs_mps2": 9.083039999993048,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.1269406899360753
+    },
+    "127": {
+      "backward_intervals": 5,
+      "monotonic_adjustment_max_m": 0.02255519999999933,
+      "monotonic_adjustment_rmse_m": 0.005109418746798562,
+      "headway_coordinate_max_error_m": 0.001524000000046044,
+      "leader_interval_speed_max_mps": 12.947904000000108,
+      "leader_interval_accel_max_abs_mps2": 26.639520000000516,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.240433154329964
+    },
+    "129": {
+      "backward_intervals": 6,
+      "monotonic_adjustment_max_m": 0.014935199999996485,
+      "monotonic_adjustment_rmse_m": 0.002724897455152873,
+      "headway_coordinate_max_error_m": 0.001524000000021175,
+      "leader_interval_speed_max_mps": 15.727679999999964,
+      "leader_interval_accel_max_abs_mps2": 26.02991999999915,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.2730191801371541
+    },
+    "134": {
+      "backward_intervals": 13,
+      "monotonic_adjustment_max_m": 0.09814559999998096,
+      "monotonic_adjustment_rmse_m": 0.01255282932160468,
+      "headway_coordinate_max_error_m": 0.001524000000035386,
+      "leader_interval_speed_max_mps": 11.777471999999989,
+      "leader_interval_accel_max_abs_mps2": 24.384000000006267,
+      "leader_reported_vs_interval_speed_rmse_mps": 0.2165753976170295
+    }
+  }
+}

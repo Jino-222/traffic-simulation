@@ -1,0 +1,4 @@
+﻿scenario,requested,inserted,completed,running,waiting,mean_stopped,completed_time_loss_s,collisions,teleports
+before,1105,1105,1058,47,0,89.42,163.04,0,0
+after,1355,1232,1086,146,123,135.04,193.62,0,0
+adjusted,1355,1316,1173,143,39,119.47,197.76,0,0

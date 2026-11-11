@@ -1,0 +1,12 @@
+{
+  "parameters": {
+    "tau": 1.0,
+    "minGap": 2.5,
+    "accel": 2.6
+  },
+  "candidate": 11,
+  "calibration_score": 0.8585349812141178,
+  "protocol_sha256": "d51875d486d72c4b1fb9641b7be0cba84b720a007dabc1edc3bd8ed82e121cfd",
+  "calibration_csv_sha256": "0cf694f17b7ac9fa0b9acbbf671461e85dc0902202ebfae1a7eafd2b34bc01f6",
+  "selected_before_validation": true
+}

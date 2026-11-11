@@ -1,0 +1,13 @@
+{
+  "external_edges": 1004,
+  "edges_with_internal": 3450,
+  "nodes": 406,
+  "tls": 13,
+  "center_xy": [
+    1573.051242399728,
+    2127.5124416518956
+  ],
+  "selected_central_tls": "joinedS_7122702217_7122702219_7122702222_cluster_3076899982_3114874170_3781617604_3781617605_#4more",
+  "osm_buildings": 898,
+  "building_height_assumed": 699
+}

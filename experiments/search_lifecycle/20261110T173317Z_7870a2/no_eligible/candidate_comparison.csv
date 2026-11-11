@@ -1,0 +1,3 @@
+﻿ns,ew,seed_count,expected_seeds,eligible,reference_complete,requested,completed,pending,unfinished,mean_time_loss,worst_direction_time_loss,paired_delta_mean,paired_delta_sd,worst_paired_direction_delta,reason,pareto
+25,55,1,1,False,False,1200,191,869,140,35.80706806282722,71.08782608695653,-8.113664921465976,,28.592477249747226,"reference missing, invalid or incomplete",False
+55,25,1,1,False,False,1200,190,870,140,42.49873684210527,76.13437500000002,-1.421996142187929,,29.208990384615404,"reference missing, invalid or incomplete",False

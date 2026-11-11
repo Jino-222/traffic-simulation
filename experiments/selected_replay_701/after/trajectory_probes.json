@@ -1,0 +1,8524 @@
+[
+  {
+    "time": 0.0,
+    "interval_end": 0.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 30.0,
+    "interval_end": 30.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_warmup_0",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          407.90999999999974
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_extra_warmup_0",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          212.92500000000024
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_warmup_1",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          234.31036898810785
+        ],
+        "speed": 13.88839113945932,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_0",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_1",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 60.0,
+    "interval_end": 60.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_warmup_0",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_warmup_0",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_warmup_1",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_warmup_0",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_1",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 90.0,
+    "interval_end": 90.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_warmup_2",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_3",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_warmup_2",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_warmup_0",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_1",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 120.0,
+    "interval_end": 120.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_warmup_6",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419870853567
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_7",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394771172607
+        ],
+        "speed": 13.880843652596358,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_8",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257190933437
+        ],
+        "speed": 13.86152209752457,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_warmup_0",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_warmup_1",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 150.0,
+    "interval_end": 150.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_warmup_9",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_warmup_10",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_warmup_11",
+        "kind": "vehicle",
+        "xy": [
+          431.119393677836,
+          298.4
+        ],
+        "speed": 13.753962812669219,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_warmup_2",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_warmup_2",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 180.0,
+    "interval_end": 180.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_warmup_17",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_18",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797092892863
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_warmup_22",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_2",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_3",
+        "kind": "person",
+        "xy": [
+          306.65924474210317,
+          304.26572704222673
+        ],
+        "speed": 1.0,
+        "angle": 242.36818460901145
+      }
+    ]
+  },
+  {
+    "time": 210.0,
+    "interval_end": 210.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_warmup_25",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419900991948
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_26",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477462164
+        ],
+        "speed": 13.880843652720703,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_warmup_8",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257191334109
+        ],
+        "speed": 13.861522097927931,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_warmup_2",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_warmup_3",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 240.0,
+    "interval_end": 240.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_extra_warmup_5",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_extra_warmup_4",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_extra_warmup_5",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890767695,
+          298.4
+        ],
+        "speed": 13.83528883520869,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_warmup_4",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_5",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 270.0,
+    "interval_end": 270.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_warmup_17",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_warmup_27",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_warmup_33",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_4",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_5",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 300.0,
+    "interval_end": 300.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_warmup_36",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419915906524
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_37",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.0953947757975
+        ],
+        "speed": 13.880843652630535,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_warmup_18",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257191382557
+        ],
+        "speed": 13.861522097804489,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_warmup_3",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      },
+      {
+        "id": "p_S_warmup_4",
+        "kind": "person",
+        "xy": [
+          303.74731488576964,
+          294.3310465409097
+        ],
+        "speed": 0.23555629691930258,
+        "angle": 332.36818460901145
+      }
+    ]
+  },
+  {
+    "time": 330.0,
+    "interval_end": 330.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_warmup_21",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_warmup_22",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_warmup_23",
+        "kind": "vehicle",
+        "xy": [
+          168.880606322164,
+          301.6
+        ],
+        "speed": 13.753962812669219,
+        "angle": 270.0
+      },
+      {
+        "id": "p_S_warmup_5",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      },
+      {
+        "id": "p_S_warmup_6",
+        "kind": "person",
+        "xy": [
+          303.202,
+          293.76
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 360.0,
+    "interval_end": 360.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_warmup_41",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_42",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797092892863
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_warmup_16",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          276.7969443214908
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_N_warmup_6",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_warmup_5",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 390.0,
+    "interval_end": 390.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_extra_warmup_17",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580129104
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_44",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052288048
+        ],
+        "speed": 13.880843652601573,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_45",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          553.5674280905619
+        ],
+        "speed": 13.861522097551017,
+        "angle": 0.0
+      },
+      {
+        "id": "p_N_warmup_6",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_warmup_5",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 420.0,
+    "interval_end": 420.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_warmup_33",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_warmup_34",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_warmup_34",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_N_warmup_7",
+        "kind": "person",
+        "xy": [
+          295.73427295777327,
+          306.65924474210317
+        ],
+        "speed": 1.0,
+        "angle": 152.36818460901142
+      },
+      {
+        "id": "p_W_warmup_6",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 450.0,
+    "interval_end": 450.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_warmup_29",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_extra_warmup_20",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_extra_warmup_30",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_warmup_7",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_warmup_8",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 480.0,
+    "interval_end": 480.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_warmup_32",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441990694175
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_61",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394774935414
+        ],
+        "speed": 13.880843652640355,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_62",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.432571913132335
+        ],
+        "speed": 13.861522097783325,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_8",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_9",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 510.0,
+    "interval_end": 510.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_warmup_40",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_warmup_41",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890767695,
+          298.4
+        ],
+        "speed": 13.83528883520869,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_extra_warmup_14",
+        "kind": "vehicle",
+        "xy": [
+          431.1193937075341,
+          298.4
+        ],
+        "speed": 13.753962804343931,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_warmup_8",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_9",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 540.0,
+    "interval_end": 540.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_warmup_76",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_warmup_75",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          293.0001472188961
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_warmup_77",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.7020399802204
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_10",
+        "kind": "person",
+        "xy": [
+          304.52,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_8",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 570.0,
+    "interval_end": 570.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_warmup_40",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.73644196353672
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_79",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539474220145
+        ],
+        "speed": 13.880843651047062,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_80",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257187288137
+        ],
+        "speed": 13.861522093192669,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_warmup_9",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_warmup_10",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 600.0,
+    "interval_end": 600.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_warmup_63",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_warmup_64",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_warmup_51",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "p_W_warmup_9",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 630.0,
+    "interval_end": 630.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_warmup_87",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_88",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797092892863
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_89",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          276.79693639463824
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_warmup_9",
+        "kind": "person",
+        "xy": [
+          294.84000000000003,
+          297.298
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 660.0,
+    "interval_end": 660.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_warmup_91",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580128218
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_92",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.904605229048
+        ],
+        "speed": 13.880843652506801,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_93",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          553.5674280859085
+        ],
+        "speed": 13.861522098904349,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_warmup_11",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_warmup_10",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 690.0,
+    "interval_end": 690.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_extra_warmup_16",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_extra_warmup_20",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_warmup_77",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_warmup_11",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 720.0,
+    "interval_end": 720.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_warmup_101",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_102",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797080799466
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_warmup_106",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_11",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_warmup_11",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 750.0,
+    "interval_end": 750.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_warmup_109",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441990224421
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_110",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394774838837
+        ],
+        "speed": 13.880843652746979,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_111",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257191376057
+        ],
+        "speed": 13.861522098010923,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_12",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_warmup_11",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 780.0,
+    "interval_end": 780.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_extra_warmup_19",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_extra_warmup_21",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_warmup_67",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890767695,
+          298.4
+        ],
+        "speed": 13.83528883520869,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_warmup_12",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_13",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 810.0,
+    "interval_end": 810.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_warmup_55",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_warmup_56",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_warmup_115",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_warmup_12",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_warmup_13",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 840.0,
+    "interval_end": 840.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_warmup_118",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580107872
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_119",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052275238
+        ],
+        "speed": 13.880843652360983,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_warmup_120",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          553.5674280908258
+        ],
+        "speed": 13.86152209715221,
+        "angle": 0.0
+      },
+      {
+        "id": "p_N_warmup_11",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_warmup_12",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 870.0,
+    "interval_end": 870.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_warmup_76",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_warmup_77",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_warmup_78",
+        "kind": "vehicle",
+        "xy": [
+          431.119393677836,
+          298.4
+        ],
+        "speed": 13.753962812669219,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_warmup_14",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      },
+      {
+        "id": "p_W_warmup_12",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 900.0,
+    "interval_end": 900.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_warmup_140",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_warmup_127",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_warmup_141",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202919200534
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_warmup_14",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_warmup_14",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 930.0,
+    "interval_end": 930.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_warmup_143",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419875573844
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_144",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.0953947713989
+        ],
+        "speed": 13.880843652526142,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_warmup_145",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257190905845
+        ],
+        "speed": 13.861522097388285,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_0",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_0",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 960.0,
+    "interval_end": 960.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_warmup_109",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_warmup_110",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_warmup_111",
+        "kind": "vehicle",
+        "xy": [
+          168.880606322164,
+          301.6
+        ],
+        "speed": 13.753962812669219,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_0",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_1",
+        "kind": "person",
+        "xy": [
+          305.6689534590903,
+          303.74731488576964
+        ],
+        "speed": 0.23555629691930258,
+        "angle": 242.36818460901145
+      }
+    ]
+  },
+  {
+    "time": 990.0,
+    "interval_end": 990.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_warmup_162",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_0",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.7020396804986
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_1",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.20308958977336
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_0",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_1",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 1020.0,
+    "interval_end": 1020.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_3",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441966179825
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_0",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394744351154
+        ],
+        "speed": 13.88084365090609,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_1",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257187401713
+        ],
+        "speed": 13.861522093027222,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_3",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 1050.0,
+    "interval_end": 1050.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_7",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_4",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_5",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890767695,
+          298.4
+        ],
+        "speed": 13.83528883520869,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_3",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 1080.0,
+    "interval_end": 1080.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_15",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_16",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70203973207595
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_10",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.2030647471726
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_3",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_1",
+        "kind": "person",
+        "xy": [
+          295.2,
+          308.2
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 1110.0,
+    "interval_end": 1110.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_18",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441964634423
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_19",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394743271868
+        ],
+        "speed": 13.880843651039275,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_11",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257187382139
+        ],
+        "speed": 13.861522093228153,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_1",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 1140.0,
+    "interval_end": 1140.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_18",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_13",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_19",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_W_measure_1",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1170.0,
+    "interval_end": 1170.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_21",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_30",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_37",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_4",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_5",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 1200.0,
+    "interval_end": 1200.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_33",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419919194347
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_34",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477598065
+        ],
+        "speed": 13.880843652588926,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_40",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580122932
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "p_N_measure_2",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_3",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 1230.0,
+    "interval_end": 1230.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_extra_measure_5",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_25",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_33",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "p_W_measure_2",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_3",
+        "kind": "person",
+        "xy": [
+          293.76,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1260.0,
+    "interval_end": 1260.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_47",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_48",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70203980896486
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_49",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_2",
+        "kind": "person",
+        "xy": [
+          294.84000000000003,
+          297.298
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_3",
+        "kind": "person",
+        "xy": [
+          294.2,
+          297.298
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1290.0,
+    "interval_end": 1290.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_53",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580084236
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_measure_14",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052241939
+        ],
+        "speed": 13.880843652637044,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_extra_measure_30",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419634653814
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 1320.0,
+    "interval_end": 1320.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_45",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_36",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_46",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_N_measure_4",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_W_measure_5",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1350.0,
+    "interval_end": 1350.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_66",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_67",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_68",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.20306744498697
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_4",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_W_measure_5",
+        "kind": "person",
+        "xy": [
+          294.84000000000003,
+          297.298
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1380.0,
+    "interval_end": 1380.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_70",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580092972
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_71",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052250601
+        ],
+        "speed": 13.88084365263919,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_70",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441987705234
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_4",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_W_measure_7",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1410.0,
+    "interval_end": 1410.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_48",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_49",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_50",
+        "kind": "vehicle",
+        "xy": [
+          431.119393677836,
+          298.4
+        ],
+        "speed": 13.753962812669219,
+        "angle": 90.0
+      },
+      {
+        "id": "p_W_measure_7",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_8",
+        "kind": "person",
+        "xy": [
+          293.76,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1440.0,
+    "interval_end": 1440.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_40",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_41",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.7020437222161
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_78",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_6",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_2",
+        "kind": "person",
+        "xy": [
+          304.26572704222673,
+          293.34075525789683
+        ],
+        "speed": 1.0,
+        "angle": 332.36818460901145
+      }
+    ]
+  },
+  {
+    "time": 1470.0,
+    "interval_end": 1470.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_86",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419546084378
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_42",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394731588897
+        ],
+        "speed": 13.880843650565854,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_87",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257186001449
+        ],
+        "speed": 13.861522091752963,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_2",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 1500.0,
+    "interval_end": 1500.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_extra_measure_17",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_extra_measure_11",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_extra_measure_18",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_7",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_5",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 1530.0,
+    "interval_end": 1530.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_45",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_100",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_91",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_7",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_5",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 1560.0,
+    "interval_end": 1560.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_103",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419900164307
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_104",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477464989
+        ],
+        "speed": 13.880843652752421,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_95",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580096473
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_8",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_10",
+        "kind": "person",
+        "xy": [
+          295.6856795577148,
+          305.37212910213736
+        ],
+        "speed": 0.0,
+        "angle": 152.36818460901142
+      }
+    ]
+  },
+  {
+    "time": 1590.0,
+    "interval_end": 1590.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_66",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_70",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_67",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_8",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_9",
+        "kind": "person",
+        "xy": [
+          305.9657778160432,
+          303.1803093292541
+        ],
+        "speed": 0.0,
+        "angle": 152.45770919164536
+      }
+    ]
+  },
+  {
+    "time": 1620.0,
+    "interval_end": 1620.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_measure_104",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_105",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797092892863
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_measure_33",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          276.7969259688391
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_8",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_9",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 1650.0,
+    "interval_end": 1650.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_48",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419867558354
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_49",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394770828534
+        ],
+        "speed": 13.880843652592208,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_116",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257190903037
+        ],
+        "speed": 13.861522097513252,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_13",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_4",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 1680.0,
+    "interval_end": 1680.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_extra_measure_14",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_79",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_extra_measure_15",
+        "kind": "vehicle",
+        "xy": [
+          168.880606322164,
+          301.6
+        ],
+        "speed": 13.753962812669219,
+        "angle": 270.0
+      },
+      {
+        "id": "p_N_measure_15",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_W_measure_13",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1710.0,
+    "interval_end": 1710.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_extra_measure_36",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_129",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_52",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_15",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_16",
+        "kind": "person",
+        "xy": [
+          296.25268511423036,
+          305.6689534590903
+        ],
+        "speed": 0.23555629691930258,
+        "angle": 152.36818460901142
+      }
+    ]
+  },
+  {
+    "time": 1740.0,
+    "interval_end": 1740.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_131",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441987809428
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_132",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394771702672
+        ],
+        "speed": 13.880843652540921,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_133",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.432571909573056
+        ],
+        "speed": 13.861522097470747,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_10",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_15",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 1770.0,
+    "interval_end": 1770.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_82",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_83",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_92",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_10",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_W_measure_14",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1800.0,
+    "interval_end": 1800.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_57",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_58",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_125",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_10",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_17",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 1830.0,
+    "interval_end": 1830.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_148",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419877937394
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_149",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394771709437
+        ],
+        "speed": 13.880843652547345,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_150",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257190944698
+        ],
+        "speed": 13.861522097435078,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_17",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_18",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 1860.0,
+    "interval_end": 1860.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_extra_measure_21",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_extra_measure_31",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_88",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890770841,
+          298.4
+        ],
+        "speed": 13.835288835118806,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_11",
+        "kind": "person",
+        "xy": [
+          304.8,
+          291.8
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_15",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 1890.0,
+    "interval_end": 1890.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_measure_143",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_measure_44",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797080799466
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_144",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          276.79693227384445
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_S_measure_11",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      },
+      {
+        "id": "p_S_measure_12",
+        "kind": "person",
+        "xy": [
+          303.202,
+          293.76
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 1920.0,
+    "interval_end": 1920.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_162",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441990587707
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_163",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477490307
+        ],
+        "speed": 13.880843652661529,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_164",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257191330281
+        ],
+        "speed": 13.861522097844244,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_11",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      },
+      {
+        "id": "p_S_measure_12",
+        "kind": "person",
+        "xy": [
+          303.202,
+          293.76
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 1950.0,
+    "interval_end": 1950.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_115",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_116",
+        "kind": "vehicle",
+        "xy": [
+          147.8055109229159,
+          301.6
+        ],
+        "speed": 13.835288835118806,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_117",
+        "kind": "vehicle",
+        "xy": [
+          168.88060628974,
+          301.6
+        ],
+        "speed": 13.75396280357976,
+        "angle": 270.0
+      },
+      {
+        "id": "p_N_measure_21",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 1980.0,
+    "interval_end": 1980.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_180",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_181",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.702025756566
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_182",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.2030595802886
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_11",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_21",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 2010.0,
+    "interval_end": 2010.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_184",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441994600966
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_185",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539478001227
+        ],
+        "speed": 13.880843652974665,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_186",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.4325719199534
+        ],
+        "speed": 13.861522098677991,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_21",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_22",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 2040.0,
+    "interval_end": 2040.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_128",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_extra_measure_28",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_104",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "p_W_measure_16",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 2070.0,
+    "interval_end": 2070.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_measure_162",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_199",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_163",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797224644255
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_16",
+        "kind": "person",
+        "xy": [
+          294.84000000000003,
+          297.298
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 2100.0,
+    "interval_end": 2100.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_202",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441988193633
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_203",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394771926408
+        ],
+        "speed": 13.880843652495077,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_166",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580100746
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "p_S_measure_17",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2130.0,
+    "interval_end": 2130.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_109",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_extra_measure_42",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_110",
+        "kind": "vehicle",
+        "xy": [
+          431.119393677836,
+          298.4
+        ],
+        "speed": 13.753962812669219,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_12",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2160.0,
+    "interval_end": 2160.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_measure_180",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_181",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797080799466
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_182",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          276.7969423918714
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_12",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_13",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2190.0,
+    "interval_end": 2190.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_184",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580128085
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_185",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052290325
+        ],
+        "speed": 13.88084365250744,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_186",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          553.5674280912144
+        ],
+        "speed": 13.861522097392509,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_14",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_18",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2220.0,
+    "interval_end": 2220.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_144",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_116",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_145",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_14",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_W_measure_18",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 2250.0,
+    "interval_end": 2250.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_236",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_237",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_238",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.2030740311609
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_14",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_15",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2280.0,
+    "interval_end": 2280.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_240",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441988072386
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_241",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477154783
+        ],
+        "speed": 13.880843652421564,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_87",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.432571908483396
+        ],
+        "speed": 13.861522097158751,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_16",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_25",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 2310.0,
+    "interval_end": 2310.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_extra_measure_39",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_152",
+        "kind": "vehicle",
+        "xy": [
+          147.80551091531171,
+          301.6
+        ],
+        "speed": 13.83528883294618,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_153",
+        "kind": "vehicle",
+        "xy": [
+          168.88060622384518,
+          301.6
+        ],
+        "speed": 13.75396278510739,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_16",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2340.0,
+    "interval_end": 2340.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_252",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_202",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_extra_measure_93",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_16",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_17",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2370.0,
+    "interval_end": 2370.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_255",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419894774983
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_256",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394774281147
+        ],
+        "speed": 13.880843652801051,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_206",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580104459
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "p_N_measure_27",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_19",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2400.0,
+    "interval_end": 2400.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_165",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_extra_measure_49",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_166",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_W_measure_19",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_20",
+        "kind": "person",
+        "xy": [
+          293.76,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 2430.0,
+    "interval_end": 2430.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_99",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_226",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_measure_59",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797224644255
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_19",
+        "kind": "person",
+        "xy": [
+          294.84000000000003,
+          297.298
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_W_measure_20",
+        "kind": "person",
+        "xy": [
+          294.2,
+          297.298
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 2460.0,
+    "interval_end": 2460.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_100",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419900510484
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_275",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394774771933
+        ],
+        "speed": 13.88084365277739,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_276",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257191379166
+        ],
+        "speed": 13.861522098041458,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_18",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_19",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2490.0,
+    "interval_end": 2490.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_180",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_extra_measure_45",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092323049,
+          301.6
+        ],
+        "speed": 13.83528883520869,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_133",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_18",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_19",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2520.0,
+    "interval_end": 2520.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_293",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_294",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_E_base_measure_191",
+        "kind": "vehicle",
+        "xy": [
+          8.99508483352622,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_18",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_19",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2550.0,
+    "interval_end": 2550.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_236",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580119625
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_297",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419878538797
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_298",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477154243
+        ],
+        "speed": 13.880843652482444,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_28",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 2580.0,
+    "interval_end": 2580.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_extra_measure_53",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_140",
+        "kind": "vehicle",
+        "xy": [
+          452.19448908043364,
+          298.4
+        ],
+        "speed": 13.835288834161783,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_197",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "p_W_measure_25",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 2610.0,
+    "interval_end": 2610.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_W_base_measure_149",
+        "kind": "vehicle",
+        "xy": [
+          591.0049151733475,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_S_base_measure_246",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_304",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_29",
+        "kind": "person",
+        "xy": [
+          295.73427295777327,
+          306.65924474210317
+        ],
+        "speed": 1.0,
+        "angle": 152.36818460901142
+      },
+      {
+        "id": "p_S_measure_25",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2640.0,
+    "interval_end": 2640.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_extra_measure_73",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580100164
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_measure_74",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052252713
+        ],
+        "speed": 13.880843652784268,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_308",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441986718603
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_29",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_30",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 2670.0,
+    "interval_end": 2670.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_extra_measure_50",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_207",
+        "kind": "vehicle",
+        "xy": [
+          147.8055109229159,
+          301.6
+        ],
+        "speed": 13.835288835118806,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_154",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_22",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_23",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2700.0,
+    "interval_end": 2700.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_321",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_322",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_323",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.20306360536176
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_22",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_23",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2730.0,
+    "interval_end": 2730.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_115",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441988151171
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_324",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394771981546
+        ],
+        "speed": 13.880843652522959,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_264",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580101514
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "p_N_measure_32",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_27",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2760.0,
+    "interval_end": 2760.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_161",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_162",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890767695,
+          298.4
+        ],
+        "speed": 13.83528883520869,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_215",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "p_W_measure_28",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 2790.0,
+    "interval_end": 2790.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_336",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.0116817332483
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_337",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.1627170582955
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_279",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_25",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_26",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 2820.0,
+    "interval_end": 2820.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_340",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.1971237075406407
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_283",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580096812
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_284",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052252177
+        ],
+        "speed": 13.880843652703835,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_28",
+        "kind": "person",
+        "xy": [
+          307.2,
+          304.8
+        ],
+        "speed": 1.0,
+        "angle": 270.0
+      },
+      {
+        "id": "p_S_measure_29",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2850.0,
+    "interval_end": 2850.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_171",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_228",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_229",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_28",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_30",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2880.0,
+    "interval_end": 2880.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_measure_295",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_356",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_126",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_28",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_30",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2910.0,
+    "interval_end": 2910.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_359",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.73644198781318
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_360",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477170523
+        ],
+        "speed": 13.880843652540594,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_361",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257190943251
+        ],
+        "speed": 13.86152209742998,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_33",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_30",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 2940.0,
+    "interval_end": 2940.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_244",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_182",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_extra_measure_59",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_W_measure_32",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 2970.0,
+    "interval_end": 2970.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_133",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_134",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.7020254565216
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_375",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.2030589715893
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_29",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_W_measure_32",
+        "kind": "person",
+        "xy": [
+          294.84000000000003,
+          297.298
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 3000.0,
+    "interval_end": 3000.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_377",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441995216296
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_378",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394780788695
+        ],
+        "speed": 13.880843653020694,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_135",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257192096047
+        ],
+        "speed": 13.861522098803459,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_30",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_34",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 3030.0,
+    "interval_end": 3030.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_261",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_extra_measure_65",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_extra_measure_61",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_30",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_31",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3060.0,
+    "interval_end": 3060.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_measure_321",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_394",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_395",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_30",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_31",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3090.0,
+    "interval_end": 3090.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_397",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419907025876
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_140",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477494002
+        ],
+        "speed": 13.88084365263926,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_141",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257191317153
+        ],
+        "speed": 13.861522097793301,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_33",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_35",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 3120.0,
+    "interval_end": 3120.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_201",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_extra_measure_67",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890807832,
+          298.4
+        ],
+        "speed": 13.835288834061902,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_276",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_33",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_34",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3150.0,
+    "interval_end": 3150.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_measure_328",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_329",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797092892863
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_330",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          276.79693255501303
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_33",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_34",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3180.0,
+    "interval_end": 3180.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_332",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580124753
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_333",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052285698
+        ],
+        "speed": 13.880843652544431,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_411",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419875566455
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_35",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_36",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 3210.0,
+    "interval_end": 3210.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_214",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_282",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_283",
+        "kind": "vehicle",
+        "xy": [
+          147.8055109229159,
+          301.6
+        ],
+        "speed": 13.835288835118806,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_35",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_36",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3240.0,
+    "interval_end": 3240.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_E_extra_measure_66",
+        "kind": "vehicle",
+        "xy": [
+          8.995084832724672,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_S_base_measure_347",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_421",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_35",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_36",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3270.0,
+    "interval_end": 3270.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_152",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419903983617
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_351",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580106278
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_425",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477483412
+        ],
+        "speed": 13.880843652695933,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_37",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_36",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 3300.0,
+    "interval_end": 3300.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_220",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_extra_measure_72",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890767695,
+          298.4
+        ],
+        "speed": 13.83528883520869,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_221",
+        "kind": "vehicle",
+        "xy": [
+          431.1193937075341,
+          298.4
+        ],
+        "speed": 13.753962804343931,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_37",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_39",
+        "kind": "person",
+        "xy": [
+          304.8,
+          292.3
+        ],
+        "speed": 1.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 3330.0,
+    "interval_end": 3330.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_435",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_436",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_437",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.20305955733346
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_37",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_38",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3360.0,
+    "interval_end": 3360.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_439",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419868983987
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_440",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477075066
+        ],
+        "speed": 13.880843652529226,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_441",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.432571908632355
+        ],
+        "speed": 13.861522097391298,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_38",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_39",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 3390.0,
+    "interval_end": 3390.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_232",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_233",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_234",
+        "kind": "vehicle",
+        "xy": [
+          431.119393677836,
+          298.4
+        ],
+        "speed": 13.753962812669219,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 3420.0,
+    "interval_end": 3420.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_445",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_376",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_extra_measure_164",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_40",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_41",
+        "kind": "person",
+        "xy": [
+          304.26572704222673,
+          293.34075525789683
+        ],
+        "speed": 1.0,
+        "angle": 332.36818460901145
+      }
+    ]
+  },
+  {
+    "time": 3450.0,
+    "interval_end": 3450.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_extra_measure_100",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580094578
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_447",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419866229355
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_380",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052250351
+        ],
+        "speed": 13.880843652692224,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_39",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_40",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 3480.0,
+    "interval_end": 3480.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_316",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_317",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_241",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_39",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_40",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3510.0,
+    "interval_end": 3510.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_172",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_457",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_458",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.2030740311609
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_39",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_40",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3540.0,
+    "interval_end": 3540.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_174",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419891455327
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_175",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394772537986
+        ],
+        "speed": 13.880843652397846,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_459",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257190927565
+        ],
+        "speed": 13.861522097178604,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_41",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_42",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 3570.0,
+    "interval_end": 3570.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_extra_measure_76",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_252",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_324",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_42",
+        "kind": "person",
+        "xy": [
+          307.7,
+          304.8
+        ],
+        "speed": 1.0,
+        "angle": 270.0
+      },
+      {
+        "id": "p_W_measure_43",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 3600.0,
+    "interval_end": 3600.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_474",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_403",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_404",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797224644255
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_42",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_44",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 3630.0,
+    "interval_end": 3630.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_477",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441991514994
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_extra_measure_108",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580106469
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_measure_109",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.904605225679
+        ],
+        "speed": 13.880843652847933,
+        "angle": 0.0
+      },
+      {
+        "id": "p_N_measure_45",
+        "kind": "person",
+        "xy": [
+          295.9661669866427,
+          306.21627165107543
+        ],
+        "speed": 1.0,
+        "angle": 152.36818460901142
+      },
+      {
+        "id": "p_S_measure_44",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 3660.0,
+    "interval_end": 3660.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_339",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_263",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_264",
+        "kind": "vehicle",
+        "xy": [
+          452.19448907334237,
+          298.4
+        ],
+        "speed": 13.835288836187875,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_43",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3690.0,
+    "interval_end": 3690.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_183",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_413",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_414",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797092892863
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_43",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3720.0,
+    "interval_end": 3720.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_493",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419910118727
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_185",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394775203374
+        ],
+        "speed": 13.880843652626144,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_186",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257191321294
+        ],
+        "speed": 13.861522097748395,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_46",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_W_measure_45",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 3750.0,
+    "interval_end": 3750.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_269",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_353",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_extra_measure_81",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092323049,
+          301.6
+        ],
+        "speed": 13.83528883520869,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_44",
+        "kind": "person",
+        "xy": [
+          306.21627165107543,
+          304.0338330133573
+        ],
+        "speed": 1.0,
+        "angle": 242.36818460901145
+      },
+      {
+        "id": "p_W_measure_45",
+        "kind": "person",
+        "xy": [
+          294.40000000000003,
+          296.798
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      }
+    ]
+  },
+  {
+    "time": 3780.0,
+    "interval_end": 3780.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_194",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_427",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_428",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797224644255
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_44",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_47",
+        "kind": "person",
+        "xy": [
+          303.80193898448783,
+          294.2267014399523
+        ],
+        "speed": 1.0,
+        "angle": 332.36818460901145
+      }
+    ]
+  },
+  {
+    "time": 3810.0,
+    "interval_end": 3810.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_429",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580099513
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_430",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052253524
+        ],
+        "speed": 13.88084365274256,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_431",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          553.5674280866299
+        ],
+        "speed": 13.861522097936831,
+        "angle": 0.0
+      },
+      {
+        "id": "p_N_measure_48",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.16755629691930252,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_47",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 3840.0,
+    "interval_end": 3840.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_363",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_279",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_364",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_S_measure_48",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 3870.0,
+    "interval_end": 3870.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_525",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_446",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_526",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_49",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_48",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 3900.0,
+    "interval_end": 3900.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_450",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580080439
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_451",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052240412
+        ],
+        "speed": 13.8808436525722,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_452",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          553.5674280863424
+        ],
+        "speed": 13.861522097708285,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_45",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_49",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 3930.0,
+    "interval_end": 3930.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_374",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_375",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_extra_measure_86",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_45",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_46",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3960.0,
+    "interval_end": 3960.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_539",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_540",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_541",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.2030645000912
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_45",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_46",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 3990.0,
+    "interval_end": 3990.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_208",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419906953685
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_209",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394774935983
+        ],
+        "speed": 13.88084365264017,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_543",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.43257191314464
+        ],
+        "speed": 13.86152209778669,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_47",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_S_measure_51",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 4020.0,
+    "interval_end": 4020.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_388",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_296",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_389",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092323049,
+          301.6
+        ],
+        "speed": 13.83528883520869,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_47",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_48",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4050.0,
+    "interval_end": 4050.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_556",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_557",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_extra_measure_127",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_47",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_48",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4080.0,
+    "interval_end": 4080.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_474",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580111223
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_475",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052276078
+        ],
+        "speed": 13.88084365243272,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_476",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          553.5674280905649
+        ],
+        "speed": 13.861522097262942,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_50",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_51",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4110.0,
+    "interval_end": 4110.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_306",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_307",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890767695,
+          298.4
+        ],
+        "speed": 13.83528883520869,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_308",
+        "kind": "vehicle",
+        "xy": [
+          431.1193937075341,
+          298.4
+        ],
+        "speed": 13.753962804343931,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_50",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_51",
+        "kind": "person",
+        "xy": [
+          306.24,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4140.0,
+    "interval_end": 4140.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_572",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_573",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_224",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.2030550571716
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_50",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_51",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4170.0,
+    "interval_end": 4170.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_225",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419895278616
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_486",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580096071
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_575",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477412568
+        ],
+        "speed": 13.880843652742232,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_52",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4200.0,
+    "interval_end": 4200.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_W_base_measure_321",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_322",
+        "kind": "vehicle",
+        "xy": [
+          452.1944890878482,
+          298.4
+        ],
+        "speed": 13.835288832043364,
+        "angle": 90.0
+      },
+      {
+        "id": "v_W_base_measure_323",
+        "kind": "vehicle",
+        "xy": [
+          431.1193938035366,
+          298.4
+        ],
+        "speed": 13.753962777431436,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_52",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_52",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.16755629691930252,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 4230.0,
+    "interval_end": 4230.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_589",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_499",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_590",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202775355745
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_52",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_53",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4260.0,
+    "interval_end": 4260.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_extra_measure_232",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441989511377
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_503",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.263558010077
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_593",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477429854
+        ],
+        "speed": 13.880843652796333,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_52",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_S_measure_54",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 4290.0,
+    "interval_end": 4290.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_416",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_417",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092323049,
+          301.6
+        ],
+        "speed": 13.83528883520869,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_330",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "p_E_measure_54",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4320.0,
+    "interval_end": 4320.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_S_base_measure_514",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_603",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_515",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797224644255
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_54",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_55",
+        "kind": "person",
+        "xy": [
+          306.21627165107543,
+          304.0338330133573
+        ],
+        "speed": 1.0,
+        "angle": 242.36818460901145
+      }
+    ]
+  },
+  {
+    "time": 4350.0,
+    "interval_end": 4350.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_518",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580093117
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_N_base_measure_607",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.736441990523474
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_608",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.095394774902275
+        ],
+        "speed": 13.880843652679662,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_53",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_54",
+        "kind": "person",
+        "xy": [
+          296.25268511423036,
+          305.6689534590903
+        ],
+        "speed": 0.0,
+        "angle": 152.36818460901142
+      }
+    ]
+  },
+  {
+    "time": 4380.0,
+    "interval_end": 4380.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_423",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_337",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_424",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_56",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_55",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 4410.0,
+    "interval_end": 4410.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_base_measure_619",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_620",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          315.70202907107137
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_extra_measure_243",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          323.20306746973915
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_56",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_57",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4440.0,
+    "interval_end": 4440.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_N_base_measure_622",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          3.7364419885146845
+        ],
+        "speed": 13.89,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_623",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          25.09539477195119
+        ],
+        "speed": 13.880843652410437,
+        "angle": 180.0
+      },
+      {
+        "id": "v_N_base_measure_624",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          46.432571908976826
+        ],
+        "speed": 13.861522097215211,
+        "angle": 180.0
+      },
+      {
+        "id": "p_N_measure_55",
+        "kind": "person",
+        "xy": [
+          296.798,
+          305.59999999999997
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      },
+      {
+        "id": "p_N_measure_56",
+        "kind": "person",
+        "xy": [
+          296.798,
+          306.24
+        ],
+        "speed": 0.0,
+        "angle": 90.0
+      }
+    ]
+  },
+  {
+    "time": 4470.0,
+    "interval_end": 4470.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_434",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_base_measure_435",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      },
+      {
+        "id": "v_E_extra_measure_96",
+        "kind": "vehicle",
+        "xy": [
+          168.880606322164,
+          301.6
+        ],
+        "speed": 13.753962812669219,
+        "angle": 270.0
+      },
+      {
+        "id": "p_E_measure_58",
+        "kind": "person",
+        "xy": [
+          305.59999999999997,
+          303.202
+        ],
+        "speed": 0.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4500.0,
+    "interval_end": 4500.5,
+    "signal": "GrGrrGrG",
+    "points": [
+      {
+        "id": "v_N_extra_measure_245",
+        "kind": "vehicle",
+        "xy": [
+          298.4,
+          307.551
+        ],
+        "speed": 1.3,
+        "angle": 180.0
+      },
+      {
+        "id": "v_S_base_measure_538",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          292.449
+        ],
+        "speed": 1.3,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_base_measure_539",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          284.29797080799466
+        ],
+        "speed": 0.0,
+        "angle": 0.0
+      },
+      {
+        "id": "p_E_measure_58",
+        "kind": "person",
+        "xy": [
+          305.15999999999997,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      },
+      {
+        "id": "p_E_measure_59",
+        "kind": "person",
+        "xy": [
+          305.8,
+          302.702
+        ],
+        "speed": 1.0,
+        "angle": 180.0
+      }
+    ]
+  },
+  {
+    "time": 4530.0,
+    "interval_end": 4530.5,
+    "signal": "GrGrrrrr",
+    "points": [
+      {
+        "id": "v_S_base_measure_542",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          596.2635580124465
+        ],
+        "speed": 13.89,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_measure_148",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          574.9046052285987
+        ],
+        "speed": 13.880843652527947,
+        "angle": 0.0
+      },
+      {
+        "id": "v_S_extra_measure_149",
+        "kind": "vehicle",
+        "xy": [
+          301.6,
+          553.5674280909142
+        ],
+        "speed": 13.861522097396104,
+        "angle": 0.0
+      },
+      {
+        "id": "p_S_measure_59",
+        "kind": "person",
+        "xy": [
+          303.202,
+          294.40000000000003
+        ],
+        "speed": 0.0,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 4560.0,
+    "interval_end": 4560.5,
+    "signal": "rGrGrrrr",
+    "points": [
+      {
+        "id": "v_E_base_measure_445",
+        "kind": "vehicle",
+        "xy": [
+          126.60600000000008,
+          301.6
+        ],
+        "speed": 13.89,
+        "angle": 270.0
+      },
+      {
+        "id": "v_W_base_measure_349",
+        "kind": "vehicle",
+        "xy": [
+          473.3939999999999,
+          298.4
+        ],
+        "speed": 13.89,
+        "angle": 90.0
+      },
+      {
+        "id": "v_E_base_measure_446",
+        "kind": "vehicle",
+        "xy": [
+          147.80551092665763,
+          301.6
+        ],
+        "speed": 13.835288836187875,
+        "angle": 270.0
+      }
+    ]
+  },
+  {
+    "time": 4590.0,
+    "interval_end": 4590.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 4620.0,
+    "interval_end": 4620.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 4650.0,
+    "interval_end": 4650.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  },
+  {
+    "time": 4680.0,
+    "interval_end": 4680.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 4710.0,
+    "interval_end": 4710.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 4740.0,
+    "interval_end": 4740.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  },
+  {
+    "time": 4770.0,
+    "interval_end": 4770.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 4800.0,
+    "interval_end": 4800.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 4830.0,
+    "interval_end": 4830.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  },
+  {
+    "time": 4860.0,
+    "interval_end": 4860.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 4890.0,
+    "interval_end": 4890.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 4920.0,
+    "interval_end": 4920.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  },
+  {
+    "time": 4950.0,
+    "interval_end": 4950.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 4980.0,
+    "interval_end": 4980.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 5010.0,
+    "interval_end": 5010.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  },
+  {
+    "time": 5040.0,
+    "interval_end": 5040.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 5070.0,
+    "interval_end": 5070.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 5100.0,
+    "interval_end": 5100.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  },
+  {
+    "time": 5130.0,
+    "interval_end": 5130.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 5160.0,
+    "interval_end": 5160.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 5190.0,
+    "interval_end": 5190.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  },
+  {
+    "time": 5220.0,
+    "interval_end": 5220.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 5250.0,
+    "interval_end": 5250.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 5280.0,
+    "interval_end": 5280.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  },
+  {
+    "time": 5310.0,
+    "interval_end": 5310.5,
+    "signal": "GrGrrGrG",
+    "points": []
+  },
+  {
+    "time": 5340.0,
+    "interval_end": 5340.5,
+    "signal": "GrGrrrrr",
+    "points": []
+  },
+  {
+    "time": 5370.0,
+    "interval_end": 5370.5,
+    "signal": "rGrGrrrr",
+    "points": []
+  }
+]

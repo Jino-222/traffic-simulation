@@ -1,0 +1,11 @@
+{
+  "discovery_seeds": [
+    101,
+    202,
+    303
+  ],
+  "candidate": 49,
+  "validation_seed": 701,
+  "selected_before_validation": true,
+  "purpose": "Actual-trajectory demonstration of frozen overall-mean candidate"
+}

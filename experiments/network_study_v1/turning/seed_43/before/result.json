@@ -1,0 +1,293 @@
+{
+  "request": {
+    "scenario": "before",
+    "seed": 43,
+    "warmup": 300,
+    "duration": 1800,
+    "drain": 600,
+    "step": 0.5,
+    "record": false,
+    "plan": {
+      "C": {
+        "phases": [
+          {
+            "name": "N_protected",
+            "duration": 18,
+            "state": "GGGrrrrrrrrrrrrr"
+          },
+          {
+            "name": "N_yellow",
+            "duration": 3,
+            "state": "yyyrrrrrrrrrrrrr"
+          },
+          {
+            "name": "N_allred",
+            "duration": 5,
+            "state": "rrrrrrrrrrrrrrrr"
+          },
+          {
+            "name": "E_protected",
+            "duration": 18,
+            "state": "rrrGGGrrrrrrrrrr"
+          },
+          {
+            "name": "E_yellow",
+            "duration": 3,
+            "state": "rrryyyrrrrrrrrrr"
+          },
+          {
+            "name": "E_allred",
+            "duration": 5,
+            "state": "rrrrrrrrrrrrrrrr"
+          },
+          {
+            "name": "S_protected",
+            "duration": 18,
+            "state": "rrrrrrGGGrrrrrrr"
+          },
+          {
+            "name": "S_yellow",
+            "duration": 3,
+            "state": "rrrrrryyyrrrrrrr"
+          },
+          {
+            "name": "S_allred",
+            "duration": 5,
+            "state": "rrrrrrrrrrrrrrrr"
+          },
+          {
+            "name": "W_protected",
+            "duration": 18,
+            "state": "rrrrrrrrrGGGrrrr"
+          },
+          {
+            "name": "W_yellow",
+            "duration": 3,
+            "state": "rrrrrrrrryyyrrrr"
+          },
+          {
+            "name": "W_allred",
+            "duration": 5,
+            "state": "rrrrrrrrrrrrrrrr"
+          },
+          {
+            "name": "ped_walk",
+            "duration": 3,
+            "state": "rrrrrrrrrrrrGGGG"
+          },
+          {
+            "name": "ped_clearance",
+            "duration": 21.5,
+            "state": "rrrrrrrrrrrrrrrr"
+          }
+        ],
+        "offset": 0,
+        "cycle": 128.5
+      }
+    },
+    "net_sha256": "51517ce7dfb79a08a5bcbf2b851eb4c88751a8c2aa6eabcb774abdcc41dc9683",
+    "demand_sha256": "207ea071745a57ff83e3a296dd3a766b7ccccef9c4e230404d51798d6577fc2e",
+    "code_sha256": "2a62fcfb00583e9082c0f3fabda9ff0d1c7de15513000d11ca3729b62a2229f2"
+  },
+  "rows": [
+    {
+      "movement": "N_R",
+      "direction": "N",
+      "requested": 25,
+      "completed": 25,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 52.9736,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "N_S",
+      "direction": "N",
+      "requested": 75,
+      "completed": 75,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 50.41426666666665,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "N_L",
+      "direction": "N",
+      "requested": 25,
+      "completed": 25,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 55.6568,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "E_R",
+      "direction": "E",
+      "requested": 25,
+      "completed": 25,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 51.61679999999999,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "E_S",
+      "direction": "E",
+      "requested": 75,
+      "completed": 75,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 50.43226666666665,
+      "depart_delay": 0.03333333333333333
+    },
+    {
+      "movement": "E_L",
+      "direction": "E",
+      "requested": 25,
+      "completed": 25,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 45.43240000000001,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "S_R",
+      "direction": "S",
+      "requested": 25,
+      "completed": 25,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 54.3908,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "S_S",
+      "direction": "S",
+      "requested": 75,
+      "completed": 75,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 55.60853333333331,
+      "depart_delay": 0.07333333333333333
+    },
+    {
+      "movement": "S_L",
+      "direction": "S",
+      "requested": 25,
+      "completed": 25,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 48.8384,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "W_R",
+      "direction": "W",
+      "requested": 25,
+      "completed": 25,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 45.830799999999996,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "W_S",
+      "direction": "W",
+      "requested": 75,
+      "completed": 75,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 49.850799999999985,
+      "depart_delay": 0.02
+    },
+    {
+      "movement": "W_L",
+      "direction": "W",
+      "requested": 25,
+      "completed": 25,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 36.538000000000004,
+      "depart_delay": 0.02
+    }
+  ],
+  "requested": 500,
+  "completed": 500,
+  "pending": 0,
+  "unfinished": 0,
+  "mean_time_loss": 50.509759999999986,
+  "mean_depart_delay": 0.02,
+  "collisions": 0,
+  "teleports": 0,
+  "anomaly_count": 0,
+  "anomalies": [],
+  "movement_entries": {
+    "N_R": 29,
+    "N_S": 88,
+    "N_L": 29,
+    "E_R": 29,
+    "E_S": 88,
+    "E_L": 29,
+    "S_R": 29,
+    "S_S": 88,
+    "S_L": 29,
+    "W_R": 29,
+    "W_S": 88,
+    "W_L": 29
+  },
+  "edge_stats": {
+    "E_in": {
+      "mean_halting": 3.0527777777777776,
+      "max_geometric_queue_m": 57.5126386900904,
+      "boundary_occupied_samples": 0
+    },
+    "E_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "N_in": {
+      "mean_halting": 3.3,
+      "max_geometric_queue_m": 57.509920368655656,
+      "boundary_occupied_samples": 0
+    },
+    "N_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "S_in": {
+      "mean_halting": 3.361111111111111,
+      "max_geometric_queue_m": 72.51163291038856,
+      "boundary_occupied_samples": 0
+    },
+    "S_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "W_in": {
+      "mean_halting": 2.8777777777777778,
+      "max_geometric_queue_m": 65.0094834723665,
+      "boundary_occupied_samples": 0
+    },
+    "W_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    }
+  },
+  "pedestrian_seen": 72,
+  "pedestrian_completed": 72,
+  "crossings_used": [
+    ":C_c0",
+    ":C_c1",
+    ":C_c2",
+    ":C_c3"
+  ],
+  "steps": 5400,
+  "elapsed_seconds": 11.796999999998661,
+  "integrity_passed": true,
+  "scope": "Scheduled-departure observation cohort; time means only completed vehicles. Edge series sampled every 5 s; includes warmup/drain with observation flag.",
+  "queue_definition": "Longest contiguous group with speed<0.1m/s for >1s and bumper gap<=10m, maximum across lanes. Boundary flag is observed truncation risk, not proof of spillback."
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-11T01:31:14.620151+09:00 by Eclipse SUMO netconvert 1.28.0
+<netconvertConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <node-files value="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\public_calibration_v1\calibration_network\nodes.xml"/>
+        <edge-files value="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\public_calibration_v1\calibration_network\edges.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\public_calibration_v1\calibration_network\net.xml"/>
+    </output>
+
+</netconvertConfiguration>
+-->
+
+<net version="1.20" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="0.00,0.00,5000.00,200.00" origBoundary="0.00,0.00,5000.00,200.00" projParameter="!"/>
+
+    <edge id="e110" from="a110" to="b110" priority="-1">
+        <lane id="e110_0" index="0" speed="22.22" length="5000.00" shape="0.00,-1.60 5000.00,-1.60"/>
+    </edge>
+    <edge id="e113" from="a113" to="b113" priority="-1">
+        <lane id="e113_0" index="0" speed="22.22" length="5000.00" shape="0.00,18.40 5000.00,18.40"/>
+    </edge>
+    <edge id="e117" from="a117" to="b117" priority="-1">
+        <lane id="e117_0" index="0" speed="22.22" length="5000.00" shape="0.00,38.40 5000.00,38.40"/>
+    </edge>
+    <edge id="e118" from="a118" to="b118" priority="-1">
+        <lane id="e118_0" index="0" speed="22.22" length="5000.00" shape="0.00,58.40 5000.00,58.40"/>
+    </edge>
+    <edge id="e119" from="a119" to="b119" priority="-1">
+        <lane id="e119_0" index="0" speed="22.22" length="5000.00" shape="0.00,78.40 5000.00,78.40"/>
+    </edge>
+    <edge id="e122" from="a122" to="b122" priority="-1">
+        <lane id="e122_0" index="0" speed="22.22" length="5000.00" shape="0.00,98.40 5000.00,98.40"/>
+    </edge>
+    <edge id="e123" from="a123" to="b123" priority="-1">
+        <lane id="e123_0" index="0" speed="22.22" length="5000.00" shape="0.00,118.40 5000.00,118.40"/>
+    </edge>
+    <edge id="e126" from="a126" to="b126" priority="-1">
+        <lane id="e126_0" index="0" speed="22.22" length="5000.00" shape="0.00,138.40 5000.00,138.40"/>
+    </edge>
+    <edge id="e127" from="a127" to="b127" priority="-1">
+        <lane id="e127_0" index="0" speed="22.22" length="5000.00" shape="0.00,158.40 5000.00,158.40"/>
+    </edge>
+    <edge id="e129" from="a129" to="b129" priority="-1">
+        <lane id="e129_0" index="0" speed="22.22" length="5000.00" shape="0.00,178.40 5000.00,178.40"/>
+    </edge>
+    <edge id="e134" from="a134" to="b134" priority="-1">
+        <lane id="e134_0" index="0" speed="22.22" length="5000.00" shape="0.00,198.40 5000.00,198.40"/>
+    </edge>
+
+    <junction id="a110" type="dead_end" x="0.00" y="0.00" incLanes="" intLanes="" shape="0.00,0.00 0.00,-3.20"/>
+    <junction id="a113" type="dead_end" x="0.00" y="20.00" incLanes="" intLanes="" shape="0.00,20.00 0.00,16.80"/>
+    <junction id="a117" type="dead_end" x="0.00" y="40.00" incLanes="" intLanes="" shape="0.00,40.00 0.00,36.80"/>
+    <junction id="a118" type="dead_end" x="0.00" y="60.00" incLanes="" intLanes="" shape="0.00,60.00 0.00,56.80"/>
+    <junction id="a119" type="dead_end" x="0.00" y="80.00" incLanes="" intLanes="" shape="0.00,80.00 0.00,76.80"/>
+    <junction id="a122" type="dead_end" x="0.00" y="100.00" incLanes="" intLanes="" shape="0.00,100.00 0.00,96.80"/>
+    <junction id="a123" type="dead_end" x="0.00" y="120.00" incLanes="" intLanes="" shape="0.00,120.00 0.00,116.80"/>
+    <junction id="a126" type="dead_end" x="0.00" y="140.00" incLanes="" intLanes="" shape="0.00,140.00 0.00,136.80"/>
+    <junction id="a127" type="dead_end" x="0.00" y="160.00" incLanes="" intLanes="" shape="0.00,160.00 0.00,156.80"/>
+    <junction id="a129" type="dead_end" x="0.00" y="180.00" incLanes="" intLanes="" shape="0.00,180.00 0.00,176.80"/>
+    <junction id="a134" type="dead_end" x="0.00" y="200.00" incLanes="" intLanes="" shape="0.00,200.00 0.00,196.80"/>
+    <junction id="b110" type="dead_end" x="5000.00" y="0.00" incLanes="e110_0" intLanes="" shape="5000.00,-3.20 5000.00,0.00"/>
+    <junction id="b113" type="dead_end" x="5000.00" y="20.00" incLanes="e113_0" intLanes="" shape="5000.00,16.80 5000.00,20.00"/>
+    <junction id="b117" type="dead_end" x="5000.00" y="40.00" incLanes="e117_0" intLanes="" shape="5000.00,36.80 5000.00,40.00"/>
+    <junction id="b118" type="dead_end" x="5000.00" y="60.00" incLanes="e118_0" intLanes="" shape="5000.00,56.80 5000.00,60.00"/>
+    <junction id="b119" type="dead_end" x="5000.00" y="80.00" incLanes="e119_0" intLanes="" shape="5000.00,76.80 5000.00,80.00"/>
+    <junction id="b122" type="dead_end" x="5000.00" y="100.00" incLanes="e122_0" intLanes="" shape="5000.00,96.80 5000.00,100.00"/>
+    <junction id="b123" type="dead_end" x="5000.00" y="120.00" incLanes="e123_0" intLanes="" shape="5000.00,116.80 5000.00,120.00"/>
+    <junction id="b126" type="dead_end" x="5000.00" y="140.00" incLanes="e126_0" intLanes="" shape="5000.00,136.80 5000.00,140.00"/>
+    <junction id="b127" type="dead_end" x="5000.00" y="160.00" incLanes="e127_0" intLanes="" shape="5000.00,156.80 5000.00,160.00"/>
+    <junction id="b129" type="dead_end" x="5000.00" y="180.00" incLanes="e129_0" intLanes="" shape="5000.00,176.80 5000.00,180.00"/>
+    <junction id="b134" type="dead_end" x="5000.00" y="200.00" incLanes="e134_0" intLanes="" shape="5000.00,196.80 5000.00,200.00"/>
+
+</net>

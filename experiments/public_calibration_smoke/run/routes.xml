@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+  <vType id="L110" carFollowModel="Krauss" length="6.30936" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <vType id="F110" carFollowModel="Krauss" length="5.60832" sigma="0" decel="4.5" emergencyDecel="9" maxSpeed="22.222222" speedFactor="1" speedDev="0" tau="1.0" minGap="2.5" accel="2.6" />
+  <route id="r110" edges="e110" />
+  <vehicle id="L110" type="L110" route="r110" depart="0" departPos="242.13250399999998" departSpeed="0" />
+  <vehicle id="F110" type="F110" route="r110" depart="0" departPos="200" departSpeed="0" />
+</routes>

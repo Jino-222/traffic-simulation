@@ -1,0 +1,10 @@
+{
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "FHWA NGSIM via US DOT",
+  "license": "CC BY-SA 3.0",
+  "retrieved_utc": "2026-11-10T16:02:09.5700338Z",
+  "order": "vehicle_id,global_time",
+  "where": "location='lankershim' and vehicle_id>=100 and vehicle_id<=160 and global_time<1118936580200",
+  "limit": 50000,
+  "url": "https://data.transportation.gov/resource/8ect-6jqj.json?%24where=location%3D%27lankershim%27%20and%20vehicle_id%3E%3D100%20and%20vehicle_id%3C%3D160%20and%20global_time%3C1118936580200&%24order=vehicle_id%2Cglobal_time&%24limit=50000"
+}

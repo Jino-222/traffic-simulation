@@ -1,0 +1,40 @@
+{
+  "detectors": [
+    {
+      "id": "e2_E_in_1",
+      "lane": "E_in_1",
+      "direction": "E",
+      "length": 292.8
+    },
+    {
+      "id": "e2_N_in_1",
+      "lane": "N_in_1",
+      "direction": "N",
+      "length": 292.8
+    },
+    {
+      "id": "e2_N_in_2",
+      "lane": "N_in_2",
+      "direction": "N",
+      "length": 292.8
+    },
+    {
+      "id": "e2_S_in_1",
+      "lane": "S_in_1",
+      "direction": "S",
+      "length": 292.8
+    },
+    {
+      "id": "e2_W_in_1",
+      "lane": "W_in_1",
+      "direction": "W",
+      "length": 289.6
+    }
+  ],
+  "definition": {
+    "speed_threshold": 0.1,
+    "time_threshold": 1.0,
+    "jam_gap": 10.0,
+    "directional_metres": "maximum lane jam length, never sum parallel lane lengths"
+  }
+}

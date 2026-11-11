@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<connections>
+  <connection from="W_in" to="link_E" fromLane="1" toLane="1" />
+  <connection from="link_E" to="E_out" fromLane="1" toLane="1" />
+  <connection from="E_in" to="link_W" fromLane="1" toLane="1" />
+  <connection from="link_W" to="W_out" fromLane="1" toLane="1" />
+  <connection from="N0_in" to="S0_out" fromLane="1" toLane="1" />
+  <connection from="S0_in" to="N0_out" fromLane="1" toLane="1" />
+  <connection from="N1_in" to="S1_out" fromLane="1" toLane="1" />
+  <connection from="S1_in" to="N1_out" fromLane="1" toLane="1" />
+  <crossing node="J0" edges="N0_in N0_out" width="3" priority="true" />
+  <crossing node="J0" edges="S0_in S0_out" width="3" priority="true" />
+  <crossing node="J0" edges="W_in W_out" width="3" priority="true" />
+  <crossing node="J0" edges="link_W link_E" width="3" priority="true" />
+  <crossing node="J1" edges="N1_in N1_out" width="3" priority="true" />
+  <crossing node="J1" edges="S1_in S1_out" width="3" priority="true" />
+  <crossing node="J1" edges="link_E link_W" width="3" priority="true" />
+  <crossing node="J1" edges="E_in E_out" width="3" priority="true" />
+</connections>

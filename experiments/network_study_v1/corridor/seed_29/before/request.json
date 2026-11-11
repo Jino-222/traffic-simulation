@@ -1,0 +1,106 @@
+{
+  "scenario": "before",
+  "seed": 29,
+  "warmup": 300,
+  "duration": 1800,
+  "drain": 600,
+  "step": 0.5,
+  "record": false,
+  "plan": {
+    "J0": {
+      "phases": [
+        {
+          "name": "NS_walk",
+          "duration": 3,
+          "state": "GrGrrGrG"
+        },
+        {
+          "name": "NS_clear",
+          "duration": 37,
+          "state": "GrGrrrrr"
+        },
+        {
+          "name": "NS_yellow",
+          "duration": 3,
+          "state": "yryrrrrr"
+        },
+        {
+          "name": "NS_allred",
+          "duration": 2,
+          "state": "rrrrrrrr"
+        },
+        {
+          "name": "EW_walk",
+          "duration": 3,
+          "state": "rGrGGrGr"
+        },
+        {
+          "name": "EW_clear",
+          "duration": 37,
+          "state": "rGrGrrrr"
+        },
+        {
+          "name": "EW_yellow",
+          "duration": 3,
+          "state": "ryryrrrr"
+        },
+        {
+          "name": "EW_allred",
+          "duration": 2,
+          "state": "rrrrrrrr"
+        }
+      ],
+      "offset": 0,
+      "cycle": 90
+    },
+    "J1": {
+      "phases": [
+        {
+          "name": "NS_walk",
+          "duration": 3,
+          "state": "GrGrrGrG"
+        },
+        {
+          "name": "NS_clear",
+          "duration": 37,
+          "state": "GrGrrrrr"
+        },
+        {
+          "name": "NS_yellow",
+          "duration": 3,
+          "state": "yryrrrrr"
+        },
+        {
+          "name": "NS_allred",
+          "duration": 2,
+          "state": "rrrrrrrr"
+        },
+        {
+          "name": "EW_walk",
+          "duration": 3,
+          "state": "rGrGGrGr"
+        },
+        {
+          "name": "EW_clear",
+          "duration": 37,
+          "state": "rGrGrrrr"
+        },
+        {
+          "name": "EW_yellow",
+          "duration": 3,
+          "state": "ryryrrrr"
+        },
+        {
+          "name": "EW_allred",
+          "duration": 2,
+          "state": "rrrrrrrr"
+        }
+      ],
+      "offset": 0,
+      "cycle": 90
+    }
+  },
+  "net_sha256": "c323636959bbac5aede60de67c4b1da9465233d88d7a28ef87bdd5bbe1b0d591",
+  "demand_sha256": "863c5ddc8ecf49660a5a22a8d521bf87dc8b730c747322583d45da70d1706c00",
+  "code_sha256": "2a62fcfb00583e9082c0f3fabda9ff0d1c7de15513000d11ca3729b62a2229f2"
+}

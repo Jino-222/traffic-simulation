@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+  <vType id="car" vClass="passenger" carFollowModel="Krauss" length="5" minGap="2.5" accel="2.6" decel="4.5" tau="1.0" sigma="0.0" speedFactor="1" speedDev="0" />
+  <vType id="bus" vClass="bus" carFollowModel="Krauss" length="12" minGap="2.5" accel="1.2" decel="4" tau="1.5" sigma="0.0" speedFactor="1" speedDev="0" />
+  <vType id="truck" vClass="truck" carFollowModel="Krauss" length="12" minGap="2.5" accel="1.0" decel="4" tau="1.5" sigma="0.0" speedFactor="1" speedDev="0" />
+  <vType id="walker" vClass="pedestrian" maxSpeed="0.7" speedFactor="1" speedDev="0" impatience="0" />
+  <route id="N" edges="N_in S_out" />
+  <route id="S" edges="S_in N_out" />
+  <route id="E" edges="E_in W_out" />
+  <route id="W" edges="W_in E_out" />
+  <person id="p_E_measure_0" type="walker" depart="30.00" departPos="82.20">
+    <walk edges="E_in E_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_N_measure_0" type="walker" depart="30.00" departPos="82.20">
+    <walk edges="N_in N_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_S_measure_0" type="walker" depart="30.00" departPos="82.20">
+    <walk edges="S_in S_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_W_measure_0" type="walker" depart="30.00" departPos="82.20">
+    <walk edges="W_in W_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <vehicle id="v_E_base_measure_0" type="car" route="E" depart="45.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_0" type="car" route="N" depart="45.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_0" type="car" route="S" depart="45.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_0" type="car" route="W" depart="45.00" departLane="free" departSpeed="max" />
+  <person id="p_E_measure_1" type="walker" depart="90.00" departPos="82.20">
+    <walk edges="E_in E_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_N_measure_1" type="walker" depart="90.00" departPos="82.20">
+    <walk edges="N_in N_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_S_measure_1" type="walker" depart="90.00" departPos="82.20">
+    <walk edges="S_in S_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_W_measure_1" type="walker" depart="90.00" departPos="82.20">
+    <walk edges="W_in W_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <vehicle id="v_E_base_measure_1" type="car" route="E" depart="135.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_1" type="car" route="N" depart="135.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_1" type="car" route="S" depart="135.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_1" type="car" route="W" depart="135.00" departLane="free" departSpeed="max" />
+  <person id="p_E_measure_2" type="walker" depart="150.00" departPos="82.20">
+    <walk edges="E_in E_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_N_measure_2" type="walker" depart="150.00" departPos="82.20">
+    <walk edges="N_in N_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_S_measure_2" type="walker" depart="150.00" departPos="82.20">
+    <walk edges="S_in S_out" arrivalPos="1" speed="0.7" />
+  </person>
+  <person id="p_W_measure_2" type="walker" depart="150.00" departPos="82.20">
+    <walk edges="W_in W_out" arrivalPos="1" speed="0.7" />
+  </person>
+</routes>

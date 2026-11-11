@@ -1,0 +1,36 @@
+{
+  "source_experiment": "selected_replay_701",
+  "comparison_hash": "b37c9bd2bbc0e3941d4d53b523ff79e85c45e34ea0194e282595b4315da68548",
+  "candidate": 49,
+  "seed": 701,
+  "synthetic": true,
+  "start": 900,
+  "simulation_seconds": 180,
+  "playback_seconds": 30,
+  "fps": 20,
+  "frames_written": 600,
+  "frames_decoded": 600,
+  "dimensions": [
+    1600,
+    960
+  ],
+  "metadata": {
+    "ffmpeg_version": "9.0.2-essentials_build-www.gyan.dev built with gcc 16.2.0 (Rev3, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "fps": 20.0,
+    "source_size": [
+      1600,
+      960
+    ],
+    "size": [
+      1600,
+      960
+    ],
+    "rotate": 0,
+    "duration": 30.0
+  },
+  "video_sha256": "d27b2dcb55213843bc89f322f344cd4befdbe2cee201520826d4c7b43d189be2",
+  "interpretation": "Actual FCD geometry and phases; display-only interpolation. Counts are raw telemetry including warmup.",
+  "matched": true
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "before",
+    "title": "입주 전",
+    "errors": [],
+    "rows": [
+      {
+        "direction": "N",
+        "label": "북측",
+        "volume": 0,
+        "capacity": 760.0,
+        "vc": 0.0,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "S",
+        "label": "남측",
+        "volume": 0,
+        "capacity": 760.0,
+        "vc": 0.0,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "E",
+        "label": "동측",
+        "volume": 0,
+        "capacity": 760.0,
+        "vc": 0.0,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "W",
+        "label": "서측",
+        "volume": 0,
+        "capacity": 760.0,
+        "vc": 0.0,
+        "green": 40,
+        "effective_green": 38
+      }
+    ]
+  },
+  {
+    "id": "after",
+    "title": "입주 후",
+    "errors": [],
+    "rows": [
+      {
+        "direction": "N",
+        "label": "북측",
+        "volume": 0,
+        "capacity": 760.0,
+        "vc": 0.0,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "S",
+        "label": "남측",
+        "volume": 0,
+        "capacity": 760.0,
+        "vc": 0.0,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "E",
+        "label": "동측",
+        "volume": 0,
+        "capacity": 760.0,
+        "vc": 0.0,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "W",
+        "label": "서측",
+        "volume": 0,
+        "capacity": 760.0,
+        "vc": 0.0,
+        "green": 40,
+        "effective_green": 38
+      }
+    ]
+  },
+  {
+    "id": "improved",
+    "title": "신호 개선 후보",
+    "errors": [],
+    "rows": [
+      {
+        "direction": "N",
+        "label": "북측",
+        "volume": 0,
+        "capacity": 960.0,
+        "vc": 0.0,
+        "green": 50,
+        "effective_green": 48
+      },
+      {
+        "direction": "S",
+        "label": "남측",
+        "volume": 0,
+        "capacity": 960.0,
+        "vc": 0.0,
+        "green": 50,
+        "effective_green": 48
+      },
+      {
+        "direction": "E",
+        "label": "동측",
+        "volume": 0,
+        "capacity": 560.0,
+        "vc": 0.0,
+        "green": 30,
+        "effective_green": 28
+      },
+      {
+        "direction": "W",
+        "label": "서측",
+        "volume": 0,
+        "capacity": 560.0,
+        "vc": 0.0,
+        "green": 30,
+        "effective_green": 28
+      }
+    ]
+  }
+]

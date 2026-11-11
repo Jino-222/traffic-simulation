@@ -1,0 +1,32 @@
+{
+  "departed": {
+    "v_E_base_measure_0": 45.5,
+    "v_N_base_measure_0": 45.5,
+    "v_S_base_measure_0": 45.5,
+    "v_W_base_measure_0": 45.5,
+    "v_E_base_measure_1": 135.5,
+    "v_N_base_measure_1": 135.5,
+    "v_S_base_measure_1": 135.5,
+    "v_W_base_measure_1": 135.5
+  },
+  "crossed": {
+    "v_E_base_measure_0": 54.0,
+    "v_W_base_measure_0": 54.0,
+    "v_N_base_measure_0": 99.0,
+    "v_S_base_measure_0": 99.0,
+    "v_E_base_measure_1": 144.5,
+    "v_W_base_measure_1": 144.5,
+    "v_N_base_measure_1": 193.0,
+    "v_S_base_measure_1": 193.0
+  },
+  "arrived": {
+    "v_E_base_measure_0": 60.0,
+    "v_W_base_measure_0": 60.0,
+    "v_N_base_measure_0": 105.0,
+    "v_S_base_measure_0": 105.0,
+    "v_E_base_measure_1": 150.5,
+    "v_W_base_measure_1": 150.5,
+    "v_N_base_measure_1": 199.0,
+    "v_S_base_measure_1": 199.0
+  }
+}

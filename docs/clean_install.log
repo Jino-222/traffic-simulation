@@ -1,0 +1,185 @@
+Collecting streamlit==1.67.0 (from -r requirements.txt (line 1))
+  Obtaining dependency information for streamlit==1.67.0 from https://files.pythonhosted.org/packages/58/c4/59f60e52e8f679488bf0caecbe3a8469af1d3d72c352bb0f306915a3e667/streamlit-1.67.0-py3-none-any.whl.metadata
+  Using cached streamlit-1.67.0-py3-none-any.whl.metadata (10 kB)
+Collecting plotly==7.1.0 (from -r requirements.txt (line 2))
+  Obtaining dependency information for plotly==7.1.0 from https://files.pythonhosted.org/packages/e5/7d/905a3a3d51087515719058c94cfbda2ff0fc14417c20d557ae3e82d8b250/plotly-7.1.0-py3-none-any.whl.metadata
+  Using cached plotly-7.1.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting pandas==3.1.1 (from -r requirements.txt (line 3))
+  Obtaining dependency information for pandas==3.1.1 from https://files.pythonhosted.org/packages/69/7c/8da507fc9ef7218aba9f6d66be872e3db09d3d4aa4b540ad27885ad89f02/pandas-3.1.1-cp311-cp311-win_amd64.whl.metadata
+  Using cached pandas-3.1.1-cp311-cp311-win_amd64.whl.metadata (16 kB)
+Collecting eclipse-sumo==1.28.0 (from -r requirements.txt (line 4))
+  Obtaining dependency information for eclipse-sumo==1.28.0 from https://files.pythonhosted.org/packages/b3/58/9f46c983b516d758065d99bcffe26ebd196f2529470c904f6835580a345a/eclipse_sumo-1.28.0-py3-none-win_amd64.whl.metadata
+  Using cached eclipse_sumo-1.28.0-py3-none-win_amd64.whl.metadata (6.4 kB)
+Collecting sumolib==1.28.0 (from -r requirements.txt (line 5))
+  Obtaining dependency information for sumolib==1.28.0 from https://files.pythonhosted.org/packages/97/3c/bb2ba08247793748be59bf93759d1452ed1201e6f143dc98fc51511c87d4/sumolib-1.28.0-py2.py3-none-any.whl.metadata
+  Using cached sumolib-1.28.0-py2.py3-none-any.whl.metadata (2.8 kB)
+Collecting traci==1.28.0 (from -r requirements.txt (line 6))
+  Obtaining dependency information for traci==1.28.0 from https://files.pythonhosted.org/packages/9a/a1/a95328ff82da409b46d5ed2723b70dff6a5445776ad95c34b5d1a84de7f2/traci-1.28.0-py2.py3-none-any.whl.metadata
+  Using cached traci-1.28.0-py2.py3-none-any.whl.metadata (3.2 kB)
+Collecting pytest==9.2.0 (from -r requirements.txt (line 7))
+  Obtaining dependency information for pytest==9.2.0 from https://files.pythonhosted.org/packages/51/39/1f5d8c8877a0fa327db959c19341d4be61660de1ab6b7391f9eb805bcd67/pytest-9.2.0-py3-none-any.whl.metadata
+  Using cached pytest-9.2.0-py3-none-any.whl.metadata (7.9 kB)
+Collecting imageio-ffmpeg==0.8.1 (from -r requirements.txt (line 8))
+  Obtaining dependency information for imageio-ffmpeg==0.8.1 from https://files.pythonhosted.org/packages/82/0c/a1d49f3dd2688bd750b4986f8e271ad11f8e729a896070ea25f587b44da8/imageio_ffmpeg-0.8.1-py3-none-win_amd64.whl.metadata
+  Using cached imageio_ffmpeg-0.8.1-py3-none-win_amd64.whl.metadata (1.5 kB)
+Collecting numpy==2.4.6 (from -r requirements.txt (line 9))
+  Obtaining dependency information for numpy==2.4.6 from https://files.pythonhosted.org/packages/c5/31/7fc6239c12bce7e931463251cca4426c465e1876ba3cc785402ef4dd8f4e/numpy-2.4.6-cp311-cp311-win_amd64.whl.metadata
+  Using cached numpy-2.4.6-cp311-cp311-win_amd64.whl.metadata (6.6 kB)
+Collecting Pillow==13.0.0 (from -r requirements.txt (line 10))
+  Obtaining dependency information for Pillow==13.0.0 from https://files.pythonhosted.org/packages/7d/f6/6e2d96413e4c9dbec12ea584d9e646d602877d4cce3ea669099f959deac6/pillow-13.0.0-cp311-cp311-win_amd64.whl.metadata
+  Using cached pillow-13.0.0-cp311-cp311-win_amd64.whl.metadata (9.3 kB)
+Collecting altair!=5.4.0,!=5.4.1,<7,>=5.0.0 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for altair!=5.4.0,!=5.4.1,<7,>=5.0.0 from https://files.pythonhosted.org/packages/ca/b9/10a8bb13a0462e0bc4e02c0b7b8237dc24ab590f5bb4be94bec5e8f1d532/altair-6.3.0-py3-none-any.whl.metadata
+  Using cached altair-6.3.0-py3-none-any.whl.metadata (11 kB)
+Collecting click<9,>=7.0 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for click<9,>=7.0 from https://files.pythonhosted.org/packages/31/7d/164b7ffc8624fe9efb4221bf9af485d5c1e41b9ae118045d2b6dc5457d8b/click-8.5.1-py3-none-any.whl.metadata
+  Using cached click-8.5.1-py3-none-any.whl.metadata (2.6 kB)
+Collecting packaging>=20 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for packaging>=20 from https://files.pythonhosted.org/packages/63/34/ba1c580383c9eada3711951fef0795c80b829a078d72188184bcab9dd527/packaging-26.3-py3-none-any.whl.metadata
+  Using cached packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting pydeck<1,>=0.8.0b4 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for pydeck<1,>=0.8.0b4 from https://files.pythonhosted.org/packages/6f/34/3998411437aff304a9ed4fa37a6fe1ef3132bcd2b5eac59851b80c86123c/pydeck-0.9.3-py2.py3-none-any.whl.metadata
+  Using cached pydeck-0.9.3-py2.py3-none-any.whl.metadata (4.2 kB)
+Collecting protobuf<8,>=5.26.1 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for protobuf<8,>=5.26.1 from https://files.pythonhosted.org/packages/8a/55/b77bda4e5e5f5971fb51b07663694690e9afdb9402136c16a522bd621cad/protobuf-7.36.2-cp310-abi3-win_amd64.whl.metadata
+  Using cached protobuf-7.36.2-cp310-abi3-win_amd64.whl.metadata (595 bytes)
+Collecting pyarrow!=25.0.0,<27,>=12.0.0 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for pyarrow!=25.0.0,<27,>=12.0.0 from https://files.pythonhosted.org/packages/bf/aa/afb7321eaed5f65332aa691fcd892bf67d0289e2ba884c8ce592d3188a26/pyarrow-26.0.1-cp311-cp311-win_amd64.whl.metadata
+  Using cached pyarrow-26.0.1-cp311-cp311-win_amd64.whl.metadata (3.0 kB)
+Collecting requests<3,>=2.27 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for requests<3,>=2.27 from https://files.pythonhosted.org/packages/a0/f4/c67b0b3f1b9245e8d266f0f112c500d50e5b4e83cb6f3b71b6528104182a/requests-2.34.2-py3-none-any.whl.metadata
+  Using cached requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+Collecting typing-extensions<5,>=4.10.0 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for typing-extensions<5,>=4.10.0 from https://files.pythonhosted.org/packages/49/d3/b8441a820a491ddfc024b0b0cf0393375b75ea13866d9c66727e54c2fc80/typing_extensions-4.16.0-py3-none-any.whl.metadata
+  Using cached typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting starlette<2,>=0.46.0 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for starlette<2,>=0.46.0 from https://files.pythonhosted.org/packages/88/2e/947cfe02def9371c07cd5bf5b6b61c829e9aecb9904db02a66cfafbc1eec/starlette-1.10.0-py3-none-any.whl.metadata
+  Using cached starlette-1.10.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting uvicorn<1,>=0.30.0 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for uvicorn<1,>=0.30.0 from https://files.pythonhosted.org/packages/38/0c/b54a4fdd7f90a3af8b02ebc9ce6712c2c208b7926a2f7bad95c33ebbe943/uvicorn-0.54.0-py3-none-any.whl.metadata
+  Using cached uvicorn-0.54.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting anyio<5,>=4.0.0 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for anyio<5,>=4.0.0 from https://files.pythonhosted.org/packages/a9/16/7757fb84c819accc7d7e9af5291b261e4abb8627ee040f99e7d35ef2457a/anyio-4.16.0-py3-none-any.whl.metadata
+  Using cached anyio-4.16.0-py3-none-any.whl.metadata (4.7 kB)
+Collecting python-multipart<1,>=0.0.10 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for python-multipart<1,>=0.0.10 from https://files.pythonhosted.org/packages/dd/1b/6b1b4164ec734cac911460ab599bfbe46afedd42c5c9627fe4235942c314/python_multipart-0.0.33-py3-none-any.whl.metadata
+  Using cached python_multipart-0.0.33-py3-none-any.whl.metadata (6.3 kB)
+Collecting websockets<18,>=12.0.0 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for websockets<18,>=12.0.0 from https://files.pythonhosted.org/packages/55/66/00ca8b75a634c9fcf70579f9a242b96a7f7a3abeb21a02e2380fff491d2c/websockets-17.4-cp311-cp311-win_amd64.whl.metadata
+  Using cached websockets-17.4-cp311-cp311-win_amd64.whl.metadata (6.5 kB)
+Collecting itsdangerous<3,>=2.1.2 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for itsdangerous<3,>=2.1.2 from https://files.pythonhosted.org/packages/04/96/92447566d16df59b2a776c0fb82dbc4d9e07cd95062562af01e408583fc4/itsdangerous-2.2.0-py3-none-any.whl.metadata
+  Using cached itsdangerous-2.2.0-py3-none-any.whl.metadata (1.9 kB)
+Collecting watchdog<8,>=2.1.5 (from streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for watchdog<8,>=2.1.5 from https://files.pythonhosted.org/packages/5a/bc/c04fbb2d6366afb0850e39c6d848f2d38066ff6dadccc886b3cb12c39e32/watchdog-7.1.0-py3-none-win_amd64.whl.metadata
+  Using cached watchdog-7.1.0-py3-none-win_amd64.whl.metadata (62 kB)
+Collecting narwhals>=1.15.1 (from plotly==7.1.0->-r requirements.txt (line 2))
+  Obtaining dependency information for narwhals>=1.15.1 from https://files.pythonhosted.org/packages/cf/82/8ef9c7e0f50493307a49c09cfa7f00c5a778b6d1921f7b2dabe1d3a5809e/narwhals-2.28.0-py3-none-any.whl.metadata
+  Using cached narwhals-2.28.0-py3-none-any.whl.metadata (15 kB)
+Collecting python-dateutil>=2.9.0 (from pandas==3.1.1->-r requirements.txt (line 3))
+  Obtaining dependency information for python-dateutil>=2.9.0 from https://files.pythonhosted.org/packages/2f/a9/52b89563d154433d79b51ed1eb4842bf7334cb2696891a7fe135618853d7/python_dateutil-4.0.0-py3-none-any.whl.metadata
+  Using cached python_dateutil-4.0.0-py3-none-any.whl.metadata (7.3 kB)
+Collecting tzdata (from pandas==3.1.1->-r requirements.txt (line 3))
+  Obtaining dependency information for tzdata from https://files.pythonhosted.org/packages/0a/66/9a06c2227fedfd4919f0eaaa8b94377d9730882a7e4f95823c9a331ab5e1/tzdata-2026.6-py2.py3-none-any.whl.metadata
+  Using cached tzdata-2026.6-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting sumo-data>=1.28.0 (from eclipse-sumo==1.28.0->-r requirements.txt (line 4))
+  Obtaining dependency information for sumo-data>=1.28.0 from https://files.pythonhosted.org/packages/9c/44/28876275739735594db402e23ff9d190fee6d30634e77ba47fe476135b30/sumo_data-1.28.0-py3-none-win_amd64.whl.metadata
+  Using cached sumo_data-1.28.0-py3-none-win_amd64.whl.metadata (6.3 kB)
+Collecting colorama>=0.4 (from pytest==9.2.0->-r requirements.txt (line 7))
+  Obtaining dependency information for colorama>=0.4 from https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl.metadata
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting iniconfig>=2 (from pytest==9.2.0->-r requirements.txt (line 7))
+  Obtaining dependency information for iniconfig>=2 from https://files.pythonhosted.org/packages/56/43/4ca9e49d27a1fcf6bece6f6aec0ea46bb9112489b93d4b688fb415457bdb/iniconfig-2.3.1-py3-none-any.whl.metadata
+  Using cached iniconfig-2.3.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting pluggy<2,>=1.6 (from pytest==9.2.0->-r requirements.txt (line 7))
+  Obtaining dependency information for pluggy<2,>=1.6 from https://files.pythonhosted.org/packages/40/9e/2b38731e0fc536806f16490e1a12d7f0dc2a1235aa8cc07bcc75416a7daa/pluggy-1.7.0-py3-none-any.whl.metadata
+  Using cached pluggy-1.7.0-py3-none-any.whl.metadata (5.0 kB)
+Collecting pygments>=2.15 (from pytest==9.2.0->-r requirements.txt (line 7))
+  Obtaining dependency information for pygments>=2.15 from https://files.pythonhosted.org/packages/71/46/17f022dd3e953bf20a04a028a21ec746d942f8d2af30fa0f124fa0e6a684/pygments-2.21.0-py3-none-any.whl.metadata
+  Using cached pygments-2.21.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting jinja2 (from altair!=5.4.0,!=5.4.1,<7,>=5.0.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for jinja2 from https://files.pythonhosted.org/packages/62/a1/3d680cbfd5f4b8f15abc1d571870c5fc3e594bb582bc3b64ea099db13e56/jinja2-3.1.6-py3-none-any.whl.metadata
+  Using cached jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting jsonschema>=3.0 (from altair!=5.4.0,!=5.4.1,<7,>=5.0.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for jsonschema>=3.0 from https://files.pythonhosted.org/packages/69/90/f63fb5873511e014207a475e2bb4e8b2e570d655b00ac19a9a0ca0a385ee/jsonschema-4.26.0-py3-none-any.whl.metadata
+  Using cached jsonschema-4.26.0-py3-none-any.whl.metadata (7.6 kB)
+Collecting idna>=2.8 (from anyio<5,>=4.0.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for idna>=2.8 from https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl.metadata
+  Using cached idna-3.20-py3-none-any.whl.metadata (7.2 kB)
+Collecting charset_normalizer<4,>=2 (from requests<3,>=2.27->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for charset_normalizer<4,>=2 from https://files.pythonhosted.org/packages/e8/fc/fdf8cf52ff21cd5bf158f20978991cf985325842f74283eb6df26c8a39d8/charset_normalizer-3.5.2-cp311-cp311-win_amd64.whl.metadata
+  Using cached charset_normalizer-3.5.2-cp311-cp311-win_amd64.whl.metadata (47 kB)
+Collecting urllib3<3,>=1.26 (from requests<3,>=2.27->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for urllib3<3,>=1.26 from https://files.pythonhosted.org/packages/92/9d/c4e665119135114480843e7ab388fa94d8480650450e6f8e26b70d323a4c/urllib3-2.8.0-py3-none-any.whl.metadata
+  Using cached urllib3-2.8.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting certifi>=2023.5.7 (from requests<3,>=2.27->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for certifi>=2023.5.7 from https://files.pythonhosted.org/packages/32/d1/a3652fe2c19134d0d15922177821d863cbd7e842d53a21bbe7e8e3a1b5ac/certifi-2026.10.23-py3-none-any.whl.metadata
+  Using cached certifi-2026.10.23-py3-none-any.whl.metadata (2.5 kB)
+Collecting h11>=0.8 (from uvicorn<1,>=0.30.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for h11>=0.8 from https://files.pythonhosted.org/packages/04/4b/29cac41a4d98d144bf5f6d33995617b185d14b22401f75ca86f384e87ff1/h11-0.16.0-py3-none-any.whl.metadata
+  Using cached h11-0.16.0-py3-none-any.whl.metadata (8.3 kB)
+Collecting MarkupSafe>=2.0 (from jinja2->altair!=5.4.0,!=5.4.1,<7,>=5.0.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/91/89/f2b509f7bf79352e40117824c1070dbeafd4df67031d3fa98165a3134228/markupsafe-3.0.4-cp311-cp311-win_amd64.whl.metadata
+  Using cached markupsafe-3.0.4-cp311-cp311-win_amd64.whl.metadata (2.8 kB)
+Collecting attrs>=22.2.0 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=5.0.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for attrs>=22.2.0 from https://files.pythonhosted.org/packages/64/b4/17d4b0b2a2dc85a6df63d1157e028ed19f90d4cd97c36717afef2bc2f395/attrs-26.1.0-py3-none-any.whl.metadata
+  Using cached attrs-26.1.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=5.0.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for jsonschema-specifications>=2023.03.6 from https://files.pythonhosted.org/packages/41/45/1a4ed80516f02155c51f51e8cedb3c1902296743db0bbc66608a0db2814f/jsonschema_specifications-2025.9.1-py3-none-any.whl.metadata
+  Using cached jsonschema_specifications-2025.9.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting referencing>=0.28.4 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=5.0.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for referencing>=0.28.4 from https://files.pythonhosted.org/packages/2c/58/ca301544e1fa93ed4f80d724bf5b194f6e4b945841c5bfd555878eea9fcb/referencing-0.37.0-py3-none-any.whl.metadata
+  Using cached referencing-0.37.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.25.0 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=5.0.0->streamlit==1.67.0->-r requirements.txt (line 1))
+  Obtaining dependency information for rpds-py>=0.25.0 from https://files.pythonhosted.org/packages/df/c9/384a9b62f8cd89c8e3e609b8c9052c140e8c01d807261e0517c904b8bf29/rpds_py-2026.9.1-cp311-cp311-win_amd64.whl.metadata
+  Using cached rpds_py-2026.9.1-cp311-cp311-win_amd64.whl.metadata (4.2 kB)
+Using cached streamlit-1.67.0-py3-none-any.whl (11.2 MB)
+Using cached plotly-7.1.0-py3-none-any.whl (9.7 MB)
+Using cached pandas-3.1.1-cp311-cp311-win_amd64.whl (11.0 MB)
+Using cached eclipse_sumo-1.28.0-py3-none-win_amd64.whl (158.0 MB)
+Using cached sumolib-1.28.0-py2.py3-none-any.whl (236 kB)
+Using cached traci-1.28.0-py2.py3-none-any.whl (139 kB)
+Using cached pytest-9.2.0-py3-none-any.whl (411 kB)
+Using cached imageio_ffmpeg-0.8.1-py3-none-win_amd64.whl (38.9 MB)
+Using cached numpy-2.4.6-cp311-cp311-win_amd64.whl (12.6 MB)
+Using cached pillow-13.0.0-cp311-cp311-win_amd64.whl (7.3 MB)
+Using cached altair-6.3.0-py3-none-any.whl (797 kB)
+Using cached anyio-4.16.0-py3-none-any.whl (134 kB)
+Using cached click-8.5.1-py3-none-any.whl (126 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Using cached iniconfig-2.3.1-py3-none-any.whl (7.6 kB)
+Using cached itsdangerous-2.2.0-py3-none-any.whl (16 kB)
+Using cached narwhals-2.28.0-py3-none-any.whl (490 kB)
+Using cached packaging-26.3-py3-none-any.whl (129 kB)
+Using cached pluggy-1.7.0-py3-none-any.whl (27 kB)
+Using cached protobuf-7.36.2-cp310-abi3-win_amd64.whl (456 kB)
+Using cached pyarrow-26.0.1-cp311-cp311-win_amd64.whl (29.0 MB)
+Using cached pydeck-0.9.3-py2.py3-none-any.whl (11.4 MB)
+Using cached pygments-2.21.0-py3-none-any.whl (1.3 MB)
+Using cached python_dateutil-4.0.0-py3-none-any.whl (92 kB)
+Using cached python_multipart-0.0.33-py3-none-any.whl (32 kB)
+Using cached requests-2.34.2-py3-none-any.whl (73 kB)
+Using cached starlette-1.10.0-py3-none-any.whl (80 kB)
+Using cached sumo_data-1.28.0-py3-none-win_amd64.whl (116.0 MB)
+Using cached typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Using cached uvicorn-0.54.0-py3-none-any.whl (87 kB)
+Using cached watchdog-7.1.0-py3-none-win_amd64.whl (103 kB)
+Using cached websockets-17.4-cp311-cp311-win_amd64.whl (219 kB)
+Using cached tzdata-2026.6-py2.py3-none-any.whl (348 kB)
+Using cached certifi-2026.10.23-py3-none-any.whl (135 kB)
+Using cached charset_normalizer-3.5.2-cp311-cp311-win_amd64.whl (214 kB)
+Using cached h11-0.16.0-py3-none-any.whl (37 kB)
+Using cached idna-3.20-py3-none-any.whl (69 kB)
+Using cached jinja2-3.1.6-py3-none-any.whl (134 kB)
+Using cached jsonschema-4.26.0-py3-none-any.whl (90 kB)
+Using cached urllib3-2.8.0-py3-none-any.whl (135 kB)
+Using cached attrs-26.1.0-py3-none-any.whl (67 kB)
+Using cached jsonschema_specifications-2025.9.1-py3-none-any.whl (18 kB)
+Using cached markupsafe-3.0.4-cp311-cp311-win_amd64.whl (14 kB)
+Using cached referencing-0.37.0-py3-none-any.whl (26 kB)
+Using cached rpds_py-2026.9.1-cp311-cp311-win_amd64.whl (226 kB)
+Installing collected packages: sumolib, sumo-data, websockets, watchdog, urllib3, tzdata, typing-extensions, traci, rpds-py, python-multipart, pygments, pyarrow, protobuf, pluggy, Pillow, packaging, numpy, narwhals, MarkupSafe, itsdangerous, iniconfig, imageio-ffmpeg, idna, h11, eclipse-sumo, colorama, click, charset_normalizer, certifi, attrs, uvicorn, requests, referencing, python-dateutil, pytest, plotly, jinja2, anyio, starlette, pydeck, pandas, jsonschema-specifications, jsonschema, altair, streamlit
+Successfully installed MarkupSafe-3.0.4 Pillow-13.0.0 altair-6.3.0 anyio-4.16.0 attrs-26.1.0 certifi-2026.10.23 charset_normalizer-3.5.2 click-8.5.1 colorama-0.4.6 eclipse-sumo-1.28.0 h11-0.16.0 idna-3.20 imageio-ffmpeg-0.8.1 iniconfig-2.3.1 itsdangerous-2.2.0 jinja2-3.1.6 jsonschema-4.26.0 jsonschema-specifications-2025.9.1 narwhals-2.28.0 numpy-2.4.6 packaging-26.3 pandas-3.1.1 plotly-7.1.0 pluggy-1.7.0 protobuf-7.36.2 pyarrow-26.0.1 pydeck-0.9.3 pygments-2.21.0 pytest-9.2.0 python-dateutil-4.0.0 python-multipart-0.0.33 referencing-0.37.0 requests-2.34.2 rpds-py-2026.9.1 starlette-1.10.0 streamlit-1.67.0 sumo-data-1.28.0 sumolib-1.28.0 traci-1.28.0 typing-extensions-4.16.0 tzdata-2026.6 urllib3-2.8.0 uvicorn-0.54.0 watchdog-7.1.0 websockets-17.4
+
+[notice] A new release of pip is available: 23.2.1 -> 26.3
+[notice] To update, run: C:\Users\kikik\AppData\Local\TrafficImpactLab\release-check-venv\Scripts\python.exe -m pip install --upgrade pip

@@ -1,0 +1,2402 @@
+[
+  {
+    "time": 0.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 30.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 33.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 35.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 38.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 85.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 88.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 90.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 93.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 120.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 123.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 125.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 128.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 175.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 178.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 180.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 183.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 210.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 213.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 215.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 218.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 265.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 268.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 270.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 273.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 300.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 303.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 305.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 308.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 355.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 358.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 360.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 363.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 390.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 393.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 395.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 398.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 445.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 448.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 450.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 453.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 480.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 483.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 485.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 488.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 535.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 538.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 540.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 543.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 570.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 573.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 575.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 578.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 625.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 628.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 630.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 633.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 660.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 663.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 665.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 668.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 715.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 718.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 720.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 723.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 750.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 753.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 755.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 758.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 805.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 808.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 810.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 813.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 840.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 843.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 845.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 848.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 895.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 898.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 900.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 903.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 930.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 933.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 935.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 938.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 985.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 988.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 990.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 993.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1020.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1023.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1025.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1028.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1075.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1078.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1080.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1083.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1110.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1113.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1115.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1118.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1165.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1168.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1170.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1173.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1200.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1203.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1205.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1208.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1255.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1258.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1260.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1263.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1290.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1293.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1295.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1298.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1345.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1348.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1350.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1353.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1380.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1383.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1385.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1388.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1435.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1438.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1440.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1443.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1470.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1473.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1475.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1478.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1525.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1528.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1530.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1533.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1560.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1563.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1565.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1568.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1615.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1618.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1620.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1623.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1650.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1653.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1655.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1658.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1705.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1708.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1710.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1713.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1740.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1743.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1745.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1748.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1795.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1798.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1800.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1803.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1830.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1833.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1835.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1838.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1885.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1888.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1890.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1893.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 1920.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 1923.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1925.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 1928.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 1975.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 1978.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 1980.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 1983.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2010.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2013.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2015.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2018.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2065.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2068.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2070.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2073.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2100.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2103.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2105.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2108.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2155.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2158.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2160.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2163.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2190.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2193.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2195.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2198.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2245.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2248.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2250.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2253.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2280.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2283.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2285.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2288.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2335.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2338.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2340.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2343.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2370.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2373.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2375.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2378.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2425.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2428.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2430.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2433.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2460.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2463.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2465.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2468.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2515.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2518.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2520.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2523.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2550.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2553.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2555.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2558.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2605.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2608.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2610.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2613.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2640.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2643.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2645.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2648.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2695.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2698.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2700.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2703.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2730.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2733.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2735.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2738.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2785.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2788.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2790.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2793.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2820.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2823.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2825.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2828.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2875.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2878.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2880.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2883.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 2910.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 2913.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2915.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 2918.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 2965.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 2968.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 2970.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 2973.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3000.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3003.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3005.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3008.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3055.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3058.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3060.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3063.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3090.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3093.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3095.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3098.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3145.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3148.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3150.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3153.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3180.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3183.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3185.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3188.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3235.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3238.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3240.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3243.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3270.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3273.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3275.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3278.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3325.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3328.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3330.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3333.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3360.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3363.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3365.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3368.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3415.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3418.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3420.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3423.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3450.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3453.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3455.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3458.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3505.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3508.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3510.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3513.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3540.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3543.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3545.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3548.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3595.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3598.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3600.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3603.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3630.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3633.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3635.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3638.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3685.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3688.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3690.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3693.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3720.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3723.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3725.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3728.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3775.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3778.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3780.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3783.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3810.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3813.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3815.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3818.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3865.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3868.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3870.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3873.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3900.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3903.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3905.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3908.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 3955.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 3958.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3960.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 3963.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 3990.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 3993.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 3995.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 3998.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4045.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4048.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4050.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4053.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4080.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4083.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4085.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4088.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4135.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4138.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4140.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4143.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4170.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4173.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4175.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4178.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4225.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4228.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4230.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4233.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4260.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4263.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4265.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4268.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4315.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4318.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4320.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4323.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4350.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4353.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4355.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4358.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4405.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4408.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4410.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4413.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4440.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4443.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4445.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4448.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4495.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4498.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4500.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4503.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4530.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4533.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4535.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4538.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4585.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4588.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4590.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4593.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4620.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4623.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4625.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4628.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4675.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4678.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4680.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4683.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4710.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4713.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4715.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4718.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4765.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4768.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4770.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4773.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4800.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4803.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4805.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4808.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4855.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4858.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4860.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4863.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4890.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4893.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4895.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4898.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 4945.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 4948.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4950.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 4953.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 4980.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 4983.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 4985.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 4988.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 5035.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 5038.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 5040.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 5043.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 5070.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 5073.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 5075.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 5078.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 5125.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 5128.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 5130.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 5133.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 5160.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 5163.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 5165.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 5168.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 5215.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 5218.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 5220.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 5223.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 5250.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 5253.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 5255.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 5258.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 5305.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 5308.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 5310.0,
+    "phase": 0,
+    "state": "GrGrrGrG"
+  },
+  {
+    "time": 5313.0,
+    "phase": 1,
+    "state": "GrGrrrrr"
+  },
+  {
+    "time": 5340.0,
+    "phase": 2,
+    "state": "yryrrrrr"
+  },
+  {
+    "time": 5343.0,
+    "phase": 3,
+    "state": "rrrrrrrr"
+  },
+  {
+    "time": 5345.0,
+    "phase": 4,
+    "state": "rGrGGrGr"
+  },
+  {
+    "time": 5348.0,
+    "phase": 5,
+    "state": "rGrGrrrr"
+  },
+  {
+    "time": 5395.0,
+    "phase": 6,
+    "state": "ryryrrrr"
+  },
+  {
+    "time": 5398.0,
+    "phase": 7,
+    "state": "rrrrrrrr"
+  }
+]

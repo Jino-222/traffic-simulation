@@ -1,0 +1,66 @@
+{
+  "approaches": {
+    "N": {
+      "lanes": 4,
+      "base": 40,
+      "extra": 0
+    },
+    "S": {
+      "lanes": 4,
+      "base": 40,
+      "extra": 0
+    },
+    "E": {
+      "lanes": 4,
+      "base": 40,
+      "extra": 0
+    },
+    "W": {
+      "lanes": 4,
+      "base": 40,
+      "extra": 0
+    }
+  },
+  "cycle": 94.0,
+  "yellow": 3,
+  "all_red": 2,
+  "before_ns": 42.0,
+  "before_ew": 42.0,
+  "improved_ns": 42.0,
+  "improved_ew": 42.0,
+  "saturation": 1800,
+  "start_loss": 2,
+  "crossing_length_ns": 20,
+  "crossing_length_ew": 20,
+  "pedestrian_speed": 0.7,
+  "pedestrian_walk": 3,
+  "pedestrian_margin": 2,
+  "pedestrian_budget_ns": 42.0,
+  "pedestrian_budget_ew": 42.0,
+  "pedestrian_rate": 60,
+  "road_length": 100,
+  "speed_kmh": 50,
+  "warmup": 0,
+  "duration": 180,
+  "drain": 180,
+  "seed": 42,
+  "stochastic": false,
+  "step_length": 0.5,
+  "demand_profile": [
+    1.0
+  ],
+  "vehicle_mix": {
+    "car": 1.0,
+    "bus": 0.0,
+    "truck": 0.0
+  },
+  "car_tau": 1.0,
+  "car_sigma": 0.0,
+  "record_trajectories": false,
+  "trajectory_period": 0.5,
+  "telemetry_period": 1.0,
+  "e2_enabled": true,
+  "e2_speed_threshold": 0.1,
+  "e2_time_threshold": 1.0,
+  "e2_jam_gap": 10.0
+}

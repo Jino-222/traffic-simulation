@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "method": "CUA visible UI observations; downloaded files verified separately by bytes. This is not an automated accessibility certification.",
+  "observed_local_date": "2026-11-11",
+  "observations": {
+    "network_pages": "Turning +1.16s not recommended; corridor 75m case 57.5m and 80 boundary samples; dynamic queue29/45/42/0m.",
+    "detail": "All detailed chart families rendered; heatmap, cumulative graph and actual signal timeline inspected.",
+    "candidate_scope": "Discovery31 and separate holdout section; validation runs removed from standalone candidate selector.",
+    "no_eligible": "Actual overloaded two-candidate experiment displayed no eligible candidate and no fairness-satisfying candidate.",
+    "ui_cancel_resume": "Clicked resume on a cancelled actual search; observed running4/31; clicked cancel, observed cancelled12/31; resumed and observed completed31/31.",
+    "replay_long_record": "930→4200s jump completed in793ms observed wall time; both frames4200.0s; keyboard Space start/pause at20x; both stopped at4373.0s.",
+    "replay_selection": "At930s same extra vehicle selected, left45.1km/h and right50.0km/h; same scheduled907s.",
+    "replay_events": "Observed peak900s, next phase903s, start0s. These match raw telemetry/phase records.",
+    "responsive": "390x844 replay controls fit; two panels stacked; sidebar collapsed; viewport reset. New event buttons wrap using same controls layout.",
+    "video": "duration30s,readyState4; played0.0173→4.994s, stopped11.7899s, no media error; moving frames visually inspected.",
+    "logs": "No browser console errors observed at completion of each UI inspection."
+  },
+  "downloads": {
+    "zip_files": 92,
+    "all_bytes_identical": true,
+    "compressed_fcd_files": 3,
+    "report_identical": true,
+    "config_identical": true
+  },
+  "screenshots": {
+    "turning-ui.png": "bc91c2cf774d31ca2c96b3cd854db019855783512a757cdf9b2010942f313960",
+    "corridor-ui.png": "e0c00c18fda455d9ce59b33385e8882649420490e6194c3219327e81ace3d0fa",
+    "queue-ui.png": "9ffd0f907c1ae6a5231b0925cf3bf9575770553cd0c447932d92c7b02057271d",
+    "detail-ui.png": "5c92716d8b39b59d47b011d38f15346a139849438f3a679505dae7939d0862e7",
+    "search-ui.png": "b0b1ed9cfac75d1f590a7d453e571bd3238435a78b49bbb9d513760f7da4af3c",
+    "no-eligible-ui.png": "d3327b9a3ef6f473efaa50fa4c6bddec32dc5f38f9cdab7b0ccd89faf6107f57",
+    "replay-final-ui.png": "9779cb4c427bdd2ddf8277a8e04db3c933439dabb55d313e703bcfd2525a9492",
+    "replay-mobile-ui.png": "a28df84a85810c1b3665f6f6a82783d59355411d766a6f7c9c266d2a73f5385e",
+    "video-playback-ui.png": "534ce4a16f167f1113e6369d232ecba1388882c02f2b9008adcecedafd38bc3e"
+  },
+  "ui_resume_status_hash": "7e570aa514a37c48faa2282f8146399f047c16e37077cf7660ddd4961e7daa2b"
+}

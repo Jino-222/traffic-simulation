@@ -1,0 +1,24 @@
+Loading net-file from '../../network/beomeo.net.xml' ... done (124ms).
+Loading additional-files from 'measurements.add.xml' ... done (4ms).
+Loading additional-files from '../../network/beomeo.poly.xml' ... done (75ms).
+Loading route-files incrementally from '../../data/after.rou.xml'
+Loading done.
+Simulation version 1.28.0 started with time: 0.00.
+Simulation ended at time: 2100.00.
+Reason: The final simulation step has been reached.
+Performance:
+ Duration: 6.86s
+ Real time factor: 306.033
+ UPS: 124472.748470
+Vehicles:
+ Inserted: 1232 (Loaded: 1355)
+ Running: 146
+ Waiting: 123
+Statistics (avg of 1232):
+ RouteLength: 1367.53
+ Speed: 7.55
+ Duration: 346.64
+ WaitingTime: 197.65
+ TimeLoss: 260.20
+ DepartDelay: 64.42
+ DepartDelayWaiting: 810.72

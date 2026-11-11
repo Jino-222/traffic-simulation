@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "trace_checks": 220,
+  "shared_heatmap_max": 5.35,
+  "directions": 4,
+  "situations": 3,
+  "candidates": 31,
+  "baseline_hash": "4e75d454ab2cf24618100568305c733954ad9a66fd3b28e8cc27cb21aacb0b60",
+  "plotted_source_hash": "c87a33d5105bc90ae0fd3271d2361b51cf6bb56d8febce203a1d6057cfc022b0"
+}

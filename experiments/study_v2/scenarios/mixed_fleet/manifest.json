@@ -1,0 +1,61 @@
+{
+  "schema_version": 2,
+  "model_version": "2.0.0-dev",
+  "synthetic": true,
+  "source_hash": "cf629b14311a18d074e7f6cc8b3b4ee40afd50ca76622e93ddfda13f4aae339d",
+  "experiment_id": "mixed_fleet",
+  "created_utc": "2026-11-10T16:35:46.166729+00:00",
+  "input_hash": "b23e834d721bd6fb",
+  "python": "3.11.6",
+  "packages": {
+    "eclipse-sumo": "1.28.0",
+    "traci": "1.28.0",
+    "sumolib": "1.28.0",
+    "streamlit": "1.67.0",
+    "plotly": "7.1.0"
+  },
+  "network_hash": "ae90529ead0461c341458d191f6ea60e28638b7ac8c7ce8ece24abb02a4e6f4b",
+  "demand_hashes": {
+    "before": "43050de5cf769bd80dfcfac1c34557618e19947999d6f2fc7d47f72ea7f46535",
+    "after": "86b0ca4547f55dd2b8002296f7084ca30562c15a43eb0905709086cab97fa115"
+  },
+  "vehicle_parameters": {
+    "length": 5,
+    "minGap": 2.5,
+    "accel": 2.6,
+    "decel": 4.5,
+    "tau": 1.0,
+    "sigma": 0.0,
+    "speedFactor": 1
+  },
+  "vehicle_mix": {
+    "car": 0.85,
+    "bus": 0.05,
+    "truck": 0.1
+  },
+  "demand_profile": [
+    1.0
+  ],
+  "telemetry_period": 1.0,
+  "trajectory_period": null,
+  "e2": {
+    "enabled": true,
+    "speed": 0.1,
+    "time": 1.0,
+    "gap": 10.0
+  },
+  "demand_method": "fixed rounded count; seeded uniform arrival times",
+  "measured_cohort": "scheduled departures in [900, 4500) seconds",
+  "observation_window": "[900, 4500) seconds",
+  "end_time": 5400,
+  "geometry_crossing_lengths": {
+    "ns": 6.4,
+    "ew": 6.4
+  },
+  "warnings": [
+    "합성 데이터 결과이며 현장 교통영향평가·안전 판단용이 아님",
+    "공식 기반 포화교통류율·손실시간과 SUMO 차량 동작은 별개 가정",
+    "시간 지표는 완료 차량에 한정; 미완료·미진입 차량과 함께 해석",
+    "정지 차량 대수는 대기행렬 길이(m)가 아님"
+  ]
+}

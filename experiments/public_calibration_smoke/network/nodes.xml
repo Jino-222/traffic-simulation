@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nodes>
+  <node id="a110" x="0" y="0" type="dead_end" />
+  <node id="b110" x="5000" y="0" type="dead_end" />
+</nodes>

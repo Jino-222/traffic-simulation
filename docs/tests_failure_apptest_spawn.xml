@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="5" skipped="0" tests="71" time="53.540" timestamp="2026-11-11T00:54:29.645474+09:00" hostname="SMRL_JIWON_PhD"><testcase classname="tests.test_app" name="test_app_default_load" time="1.091" /><testcase classname="tests.test_app" name="test_signal_warning_and_recovery" time="0.585" /><testcase classname="tests.test_app" name="test_pedestrian_error" time="0.366" /><testcase classname="tests.test_app" name="test_one_click_launches_only_once" time="3.821" /><testcase classname="tests.test_app" name="test_reset_updates_visible_and_computed_values" time="0.557" /><testcase classname="tests.test_app" name="test_profile_and_mixed_fleet_presets_apply_to_widgets" time="0.671" /><testcase classname="tests.test_app" name="test_detail_and_search_pages_render_saved_results" time="0.967" /><testcase classname="tests.test_dashboard" name="test_overview_plots_match_saved_full_baseline" time="0.175" /><testcase classname="tests.test_dashboard" name="test_search_plot_preserves_candidate_values" time="0.035" /><testcase classname="tests.test_io" name="test_atomic_write_retries_transient_lock" time="0.076" /><testcase classname="tests.test_model" name="test_reference_values" time="0.002" /><testcase classname="tests.test_model" name="test_zero_extra_preserves_before" time="0.001" /><testcase classname="tests.test_model" name="test_same_signal_preserves_after" time="0.001" /><testcase classname="tests.test_model" name="test_double_lanes_double_capacity" time="0.001" /><testcase classname="tests.test_model" name="test_demand_changes_only_ratio" time="0.001" /><testcase classname="tests.test_model" name="test_transfer_has_opposite_effects" time="0.001" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[cycle-0]" time="0.001" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[cycle-91]" time="0.002" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[pedestrian_speed-0]" time="0.002" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[pedestrian_speed-nan]" time="0.002" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[start_loss--1]" time="0.002" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[saturation-inf]" time="0.002" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[before_ns-2]" time="0.001" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[pedestrian_budget_ns-22]" time="0.001" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[improved_ew-20]" time="0.001" /><testcase classname="tests.test_model" name="test_bad_inputs_block_calculation[step_length-0]" time="0.001" /><testcase classname="tests.test_model" name="test_generated_geometry_is_checked" time="0.001" /><testcase classname="tests.test_model" name="test_zero_volume" time="0.001" /><testcase classname="tests.test_model" name="test_candidates_obey_constraints" time="0.005" /><testcase classname="tests.test_model" name="test_roundtrip_and_hash" time="0.001" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[baseline]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[extra_0]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[extra_0p5]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[extra_1p5]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[extra_2]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[ns_focus]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[ew_focus]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[high_1p25]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[high_1p5]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[slow_pedestrian]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[fast_pedestrian]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[north_two_lanes]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[irregular]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[peak_profile]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[mixed_fleet]" time="0.003" /><testcase classname="tests.test_research_data" name="test_named_scenarios_are_valid_and_independent[zero_demand]" time="0.003" /><testcase classname="tests.test_research_data" name="test_profile_preserves_total_and_time_bounds[False]" time="0.002" /><testcase classname="tests.test_research_data" name="test_profile_preserves_total_and_time_bounds[True]" time="0.003" /><testcase classname="tests.test_research_data" name="test_invalid_new_assumptions_are_rejected[changes0]" time="0.001" /><testcase classname="tests.test_research_data" name="test_invalid_new_assumptions_are_rejected[changes1]" time="0.001" /><testcase classname="tests.test_research_data" name="test_invalid_new_assumptions_are_rejected[changes2]" time="0.001" /><testcase classname="tests.test_research_data" name="test_invalid_new_assumptions_are_rejected[changes3]" time="0.002" /><testcase classname="tests.test_research_data" name="test_invalid_new_assumptions_are_rejected[changes4]" time="0.002" /><testcase classname="tests.test_research_data" name="test_invalid_new_assumptions_are_rejected[changes5]" time="0.001" /><testcase classname="tests.test_research_data" name="test_recorded_positions_match_independent_live_probes" time="13.346" /><testcase classname="tests.test_research_data" name="test_raw_tripinfo_and_exported_statistics_agree" time="0.027" /><testcase classname="tests.test_research_data" name="test_telemetry_conserves_vehicles_and_separates_queue_units" time="0.132" /><testcase classname="tests.test_search" name="test_paired_search_and_reuse" time="4.513"><failure message="assert (0 == 6)&#10; +  where 0 = len([])">study = (WindowsPath('C:/Users/kikik/AppData/Local/Temp/pytest-of-kikik/pytest-10/search0'), Config(approaches={'N': Approach(...e seeds valid with complete scheduled observation cohorts; then compare mean time loss or worst-direction mean.', ...})
+
+    def test_paired_search_and_reuse(study):
+        root,c,r=study
+&gt;       assert len(r["records"])==6 and not r["failed"]
+E       assert (0 == 6)
+E        +  where 0 = len([])
+
+tests\test_search.py:18: AssertionError</failure></testcase><testcase classname="tests.test_search" name="test_missing_or_invalid_reference_cannot_recommend" time="0.001"><failure message="assert False&#10; +  where False = all(&lt;generator object test_missing_or_invalid_reference_cannot_recommend.&lt;locals&gt;.&lt;genexpr&gt; at 0x0000013158BC7E60&gt;)">study = (WindowsPath('C:/Users/kikik/AppData/Local/Temp/pytest-of-kikik/pytest-10/search0'), Config(approaches={'N': Approach(...e seeds valid with complete scheduled observation cohorts; then compare mean time loss or worst-direction mean.', ...})
+
+    def test_missing_or_invalid_reference_cannot_recommend(study):
+        records=deepcopy(study[2]["records"])
+        for row in records:
+            if row["reference"] and row["seed"]==202:row["valid"]=False
+        r=aggregate(records,[101,202],[35,45])
+        assert r["overall_best"] is None and all(not x["eligible"] for x in r["candidates"])
+&gt;       assert all("reference" in x["reason"] for x in r["candidates"])
+E       assert False
+E        +  where False = all(&lt;generator object test_missing_or_invalid_reference_cannot_recommend.&lt;locals&gt;.&lt;genexpr&gt; at 0x0000013158BC7E60&gt;)
+
+tests\test_search.py:34: AssertionError</failure></testcase><testcase classname="tests.test_search" name="test_incomplete_cohort_cannot_win_and_directions_match_by_id" time="0.002"><failure message="assert None == 45">study = (WindowsPath('C:/Users/kikik/AppData/Local/Temp/pytest-of-kikik/pytest-10/search0'), Config(approaches={'N': Approach(...e seeds valid with complete scheduled observation cohorts; then compare mean time loss or worst-direction mean.', ...})
+
+    def test_incomplete_cohort_cannot_win_and_directions_match_by_id(study):
+        records=deepcopy(study[2]["records"])
+        for row in records:
+            if row["ns"]==35:
+                row["metrics"]["unfinished"]=1
+                row["result"]["rows"].reverse()
+        result=aggregate(records,[101,202],[35,45])
+&gt;       assert result["overall_best"]==45
+E       assert None == 45
+
+tests\test_search.py:43: AssertionError</failure></testcase><testcase classname="tests.test_search" name="test_holdout_is_frozen_and_uses_unseen_seeds" time="0.040"><failure message="AssertionError: Regex pattern did not match.&#10;  Expected regex: 'unseen'&#10;  Actual message: 'Training search is not complete'">study = (WindowsPath('C:/Users/kikik/AppData/Local/Temp/pytest-of-kikik/pytest-10/search0'), Config(approaches={'N': Approach(...e seeds valid with complete scheduled observation cohorts; then compare mean time loss or worst-direction mean.', ...})
+tmp_path = WindowsPath('C:/Users/kikik/AppData/Local/Temp/pytest-of-kikik/pytest-10/test_holdout_is_frozen_and_use0')
+
+    def test_holdout_is_frozen_and_uses_unseen_seeds(study,tmp_path):
+        root,_,r=study
+&gt;       with pytest.raises(ValueError,match="unseen"):
+E       AssertionError: Regex pattern did not match.
+E         Expected regex: 'unseen'
+E         Actual message: 'Training search is not complete'
+
+tests\test_search.py:49: AssertionError</failure></testcase><testcase classname="tests.test_search" name="test_cancel_and_resume" time="3.307" /><testcase classname="tests.test_search" name="test_failed_candidate_retries_preserving_attempt" time="0.001"><failure message="FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\kikik\\AppData\\Local\\Temp\\pytest-of-kikik\\pytest-10\\search0\\seed_101\\candidate_35\\search_result.json'">study = (WindowsPath('C:/Users/kikik/AppData/Local/Temp/pytest-of-kikik/pytest-10/search0'), Config(approaches={'N': Approach(...e seeds valid with complete scheduled observation cohorts; then compare mean time loss or worst-direction mean.', ...})
+
+    def test_failed_candidate_retries_preserving_attempt(study):
+        root,c,_=study
+        path=root/"seed_101"/"candidate_35"/"search_result.json"
+&gt;       data=json.loads(path.read_text(encoding="utf-8"));data["valid"]=False
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+tests\test_search.py:68: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+C:\Users\kikik\AppData\Local\Programs\Python\Python311\Lib\pathlib.py:1058: in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = WindowsPath('C:/Users/kikik/AppData/Local/Temp/pytest-of-kikik/pytest-10/search0/seed_101/candidate_35/search_result.json')
+mode = 'r', buffering = -1, encoding = 'utf-8', errors = None, newline = None
+
+    def open(self, mode='r', buffering=-1, encoding=None,
+             errors=None, newline=None):
+        """
+        Open the file pointed by this path and return a file object, as
+        the built-in open() function does.
+        """
+        if "b" not in mode:
+            encoding = io.text_encoding(encoding)
+&gt;       return io.open(self, mode, buffering, encoding, errors, newline)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\kikik\\AppData\\Local\\Temp\\pytest-of-kikik\\pytest-10\\search0\\seed_101\\candidate_35\\search_result.json'
+
+C:\Users\kikik\AppData\Local\Programs\Python\Python311\Lib\pathlib.py:1044: FileNotFoundError</failure></testcase><testcase classname="tests.test_sumo" name="test_vehicle_connections_and_sidewalks" time="0.214" /><testcase classname="tests.test_sumo" name="test_same_base_vehicles_and_exact_counts" time="0.347" /><testcase classname="tests.test_sumo" name="test_signals_no_conflicting_greens" time="0.204" /><testcase classname="tests.test_sumo" name="test_actual_signal_and_pedestrian_behavior" time="7.484" /><testcase classname="tests.test_sumo" name="test_cohort_accounting" time="0.001" /><testcase classname="tests.test_sumo" name="test_same_signal_reproducible" time="5.547" /><testcase classname="tests.test_sumo" name="test_fractional_clearance_runs" time="5.702" /><testcase classname="tests.test_sumo" name="test_cancel_status" time="0.285" /></testsuite></testsuites>

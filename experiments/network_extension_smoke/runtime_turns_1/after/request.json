@@ -1,0 +1,90 @@
+{
+  "scenario": "after",
+  "seed": 17,
+  "warmup": 0,
+  "duration": 600,
+  "drain": 300,
+  "step": 0.5,
+  "record": false,
+  "plan": {
+    "C": {
+      "phases": [
+        {
+          "name": "N_protected",
+          "duration": 18,
+          "state": "GGGrrrrrrrrrrrrr"
+        },
+        {
+          "name": "N_yellow",
+          "duration": 3,
+          "state": "yyyrrrrrrrrrrrrr"
+        },
+        {
+          "name": "N_allred",
+          "duration": 5,
+          "state": "rrrrrrrrrrrrrrrr"
+        },
+        {
+          "name": "E_protected",
+          "duration": 18,
+          "state": "rrrGGGrrrrrrrrrr"
+        },
+        {
+          "name": "E_yellow",
+          "duration": 3,
+          "state": "rrryyyrrrrrrrrrr"
+        },
+        {
+          "name": "E_allred",
+          "duration": 5,
+          "state": "rrrrrrrrrrrrrrrr"
+        },
+        {
+          "name": "S_protected",
+          "duration": 18,
+          "state": "rrrrrrGGGrrrrrrr"
+        },
+        {
+          "name": "S_yellow",
+          "duration": 3,
+          "state": "rrrrrryyyrrrrrrr"
+        },
+        {
+          "name": "S_allred",
+          "duration": 5,
+          "state": "rrrrrrrrrrrrrrrr"
+        },
+        {
+          "name": "W_protected",
+          "duration": 18,
+          "state": "rrrrrrrrrGGGrrrr"
+        },
+        {
+          "name": "W_yellow",
+          "duration": 3,
+          "state": "rrrrrrrrryyyrrrr"
+        },
+        {
+          "name": "W_allred",
+          "duration": 5,
+          "state": "rrrrrrrrrrrrrrrr"
+        },
+        {
+          "name": "ped_walk",
+          "duration": 3,
+          "state": "rrrrrrrrrrrrGGGG"
+        },
+        {
+          "name": "ped_clearance",
+          "duration": 21.5,
+          "state": "rrrrrrrrrrrrrrrr"
+        }
+      ],
+      "offset": 0,
+      "cycle": 128.5
+    }
+  },
+  "net_sha256": "84d71c63b63bcb22ae49fe9179ea30e74f5f9ba1c5d5039157a03430be3e179b",
+  "demand_sha256": "b07f6438530dffaa46161c3fd381132692b8f4bda604c04020d58bb6ea62f4c2",
+  "code_sha256": "50272b12ba526bb6fa6cfe1ffce2bf234a036f70859ae934138d20f1caa625b7"
+}

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Local environments, generated web replay copies and per-machine credentials.
+venv/
+runtime/
+static/replays/
+.env
+.env.*
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+

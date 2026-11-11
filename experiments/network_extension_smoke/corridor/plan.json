@@ -1,0 +1,94 @@
+{
+  "J0": {
+    "phases": [
+      {
+        "name": "NS_walk",
+        "duration": 3,
+        "state": "GrGrrGrG"
+      },
+      {
+        "name": "NS_clear",
+        "duration": 37,
+        "state": "GrGrrrrr"
+      },
+      {
+        "name": "NS_yellow",
+        "duration": 3,
+        "state": "yryrrrrr"
+      },
+      {
+        "name": "NS_allred",
+        "duration": 2,
+        "state": "rrrrrrrr"
+      },
+      {
+        "name": "EW_walk",
+        "duration": 3,
+        "state": "rGrGGrGr"
+      },
+      {
+        "name": "EW_clear",
+        "duration": 37,
+        "state": "rGrGrrrr"
+      },
+      {
+        "name": "EW_yellow",
+        "duration": 3,
+        "state": "ryryrrrr"
+      },
+      {
+        "name": "EW_allred",
+        "duration": 2,
+        "state": "rrrrrrrr"
+      }
+    ],
+    "offset": 0,
+    "cycle": 90
+  },
+  "J1": {
+    "phases": [
+      {
+        "name": "NS_walk",
+        "duration": 3,
+        "state": "GrGrrGrG"
+      },
+      {
+        "name": "NS_clear",
+        "duration": 37,
+        "state": "GrGrrrrr"
+      },
+      {
+        "name": "NS_yellow",
+        "duration": 3,
+        "state": "yryrrrrr"
+      },
+      {
+        "name": "NS_allred",
+        "duration": 2,
+        "state": "rrrrrrrr"
+      },
+      {
+        "name": "EW_walk",
+        "duration": 3,
+        "state": "rGrGGrGr"
+      },
+      {
+        "name": "EW_clear",
+        "duration": 37,
+        "state": "rGrGrrrr"
+      },
+      {
+        "name": "EW_yellow",
+        "duration": 3,
+        "state": "ryryrrrr"
+      },
+      {
+        "name": "EW_allred",
+        "duration": 2,
+        "state": "rrrrrrrr"
+      }
+    ],
+    "offset": 0,
+    "cycle": 90
+  }
+}

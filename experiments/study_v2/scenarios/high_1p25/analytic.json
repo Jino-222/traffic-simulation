@@ -1,0 +1,131 @@
+[
+  {
+    "id": "before",
+    "title": "입주 전",
+    "errors": [],
+    "rows": [
+      {
+        "direction": "N",
+        "label": "북측",
+        "volume": 812.5,
+        "capacity": 760.0,
+        "vc": 1.069078947368421,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "S",
+        "label": "남측",
+        "volume": 687.5,
+        "capacity": 760.0,
+        "vc": 0.9046052631578947,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "E",
+        "label": "동측",
+        "volume": 562.5,
+        "capacity": 760.0,
+        "vc": 0.7401315789473685,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "W",
+        "label": "서측",
+        "volume": 437.5,
+        "capacity": 760.0,
+        "vc": 0.5756578947368421,
+        "green": 40,
+        "effective_green": 38
+      }
+    ]
+  },
+  {
+    "id": "after",
+    "title": "입주 후",
+    "errors": [],
+    "rows": [
+      {
+        "direction": "N",
+        "label": "북측",
+        "volume": 1125.0,
+        "capacity": 760.0,
+        "vc": 1.480263157894737,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "S",
+        "label": "남측",
+        "volume": 875.0,
+        "capacity": 760.0,
+        "vc": 1.1513157894736843,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "E",
+        "label": "동측",
+        "volume": 687.5,
+        "capacity": 760.0,
+        "vc": 0.9046052631578947,
+        "green": 40,
+        "effective_green": 38
+      },
+      {
+        "direction": "W",
+        "label": "서측",
+        "volume": 562.5,
+        "capacity": 760.0,
+        "vc": 0.7401315789473685,
+        "green": 40,
+        "effective_green": 38
+      }
+    ]
+  },
+  {
+    "id": "improved",
+    "title": "신호 개선 후보",
+    "errors": [],
+    "rows": [
+      {
+        "direction": "N",
+        "label": "북측",
+        "volume": 1125.0,
+        "capacity": 960.0,
+        "vc": 1.171875,
+        "green": 50,
+        "effective_green": 48
+      },
+      {
+        "direction": "S",
+        "label": "남측",
+        "volume": 875.0,
+        "capacity": 960.0,
+        "vc": 0.9114583333333334,
+        "green": 50,
+        "effective_green": 48
+      },
+      {
+        "direction": "E",
+        "label": "동측",
+        "volume": 687.5,
+        "capacity": 560.0,
+        "vc": 1.2276785714285714,
+        "green": 30,
+        "effective_green": 28
+      },
+      {
+        "direction": "W",
+        "label": "서측",
+        "volume": 562.5,
+        "capacity": 560.0,
+        "vc": 1.0044642857142858,
+        "green": 30,
+        "effective_green": 28
+      }
+    ]
+  }
+]

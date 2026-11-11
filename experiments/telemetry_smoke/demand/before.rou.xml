@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+  <vType id="car" vClass="passenger" carFollowModel="Krauss" length="5" minGap="2.5" accel="2.6" decel="4.5" tau="1.0" sigma="0.0" speedFactor="1" speedDev="0" />
+  <vType id="bus" vClass="bus" carFollowModel="Krauss" length="12" minGap="2.5" accel="1.2" decel="4" tau="1.5" sigma="0.0" speedFactor="1" speedDev="0" />
+  <vType id="truck" vClass="truck" carFollowModel="Krauss" length="12" minGap="2.5" accel="1.0" decel="4" tau="1.5" sigma="0.0" speedFactor="1" speedDev="0" />
+  <vType id="walker" vClass="pedestrian" maxSpeed="1" speedFactor="1" speedDev="0" impatience="0" />
+  <route id="N" edges="N_in S_out" />
+  <route id="S" edges="S_in N_out" />
+  <route id="E" edges="E_in W_out" />
+  <route id="W" edges="W_in E_out" />
+  <vehicle id="v_N_base_measure_0" type="car" route="N" depart="2.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_0" type="car" route="S" depart="3.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_0" type="car" route="E" depart="3.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_0" type="car" route="W" depart="5.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_1" type="car" route="N" depart="8.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_1" type="car" route="S" depart="9.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_1" type="car" route="E" depart="11.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_2" type="car" route="N" depart="13.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_1" type="car" route="W" depart="15.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_2" type="car" route="S" depart="16.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_3" type="car" route="N" depart="19.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_2" type="car" route="E" depart="19.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_3" type="car" route="S" depart="22.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_4" type="car" route="N" depart="24.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_2" type="car" route="W" depart="25.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_3" type="car" route="E" depart="27.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_4" type="car" route="S" depart="28.50" departLane="free" departSpeed="max" />
+  <person id="p_E_measure_0" type="walker" depart="30.00" departPos="291.80">
+    <walk edges="E_in E_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_N_measure_0" type="walker" depart="30.00" departPos="291.80">
+    <walk edges="N_in N_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_S_measure_0" type="walker" depart="30.00" departPos="291.80">
+    <walk edges="S_in S_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_W_measure_0" type="walker" depart="30.00" departPos="291.80">
+    <walk edges="W_in W_out" arrivalPos="1" speed="1" />
+  </person>
+  <vehicle id="v_N_base_measure_5" type="car" route="N" depart="30.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_4" type="car" route="E" depart="35.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_6" type="car" route="N" depart="35.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_5" type="car" route="S" depart="35.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_3" type="car" route="W" depart="35.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_7" type="car" route="N" depart="40.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_6" type="car" route="S" depart="41.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_5" type="car" route="E" depart="43.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_4" type="car" route="W" depart="45.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_8" type="car" route="N" depart="46.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_7" type="car" route="S" depart="48.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_6" type="car" route="E" depart="50.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_9" type="car" route="N" depart="51.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_8" type="car" route="S" depart="54.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_5" type="car" route="W" depart="55.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_10" type="car" route="N" depart="57.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_7" type="car" route="E" depart="58.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_9" type="car" route="S" depart="61.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_11" type="car" route="N" depart="62.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_6" type="car" route="W" depart="65.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_8" type="car" route="E" depart="66.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_10" type="car" route="S" depart="67.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_12" type="car" route="N" depart="68.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_13" type="car" route="N" depart="73.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_11" type="car" route="S" depart="73.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_9" type="car" route="E" depart="74.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_7" type="car" route="W" depart="75.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_14" type="car" route="N" depart="79.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_12" type="car" route="S" depart="80.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_10" type="car" route="E" depart="82.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_15" type="car" route="N" depart="84.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_8" type="car" route="W" depart="85.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_13" type="car" route="S" depart="86.50" departLane="free" departSpeed="max" />
+  <person id="p_E_measure_1" type="walker" depart="90.00" departPos="291.80">
+    <walk edges="E_in E_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_N_measure_1" type="walker" depart="90.00" departPos="291.80">
+    <walk edges="N_in N_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_S_measure_1" type="walker" depart="90.00" departPos="291.80">
+    <walk edges="S_in S_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_W_measure_1" type="walker" depart="90.00" departPos="291.80">
+    <walk edges="W_in W_out" arrivalPos="1" speed="1" />
+  </person>
+  <vehicle id="v_E_base_measure_11" type="car" route="E" depart="90.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_16" type="car" route="N" depart="90.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_14" type="car" route="S" depart="93.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_17" type="car" route="N" depart="95.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_9" type="car" route="W" depart="95.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_12" type="car" route="E" depart="97.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_15" type="car" route="S" depart="99.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_18" type="car" route="N" depart="100.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_10" type="car" route="W" depart="105.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_13" type="car" route="E" depart="105.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_19" type="car" route="N" depart="106.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_16" type="car" route="S" depart="106.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_20" type="car" route="N" depart="111.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_17" type="car" route="S" depart="112.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_14" type="car" route="E" depart="113.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_11" type="car" route="W" depart="115.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_21" type="car" route="N" depart="117.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_18" type="car" route="S" depart="118.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_15" type="car" route="E" depart="121.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_22" type="car" route="N" depart="122.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_19" type="car" route="S" depart="125.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_12" type="car" route="W" depart="125.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_23" type="car" route="N" depart="128.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_16" type="car" route="E" depart="129.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_20" type="car" route="S" depart="131.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_24" type="car" route="N" depart="133.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_13" type="car" route="W" depart="135.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_17" type="car" route="E" depart="136.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_21" type="car" route="S" depart="138.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_25" type="car" route="N" depart="139.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_18" type="car" route="E" depart="144.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_26" type="car" route="N" depart="144.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_22" type="car" route="S" depart="144.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_14" type="car" route="W" depart="145.00" departLane="free" departSpeed="max" />
+  <person id="p_E_measure_2" type="walker" depart="150.00" departPos="291.80">
+    <walk edges="E_in E_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_N_measure_2" type="walker" depart="150.00" departPos="291.80">
+    <walk edges="N_in N_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_S_measure_2" type="walker" depart="150.00" departPos="291.80">
+    <walk edges="S_in S_out" arrivalPos="1" speed="1" />
+  </person>
+  <person id="p_W_measure_2" type="walker" depart="150.00" departPos="291.80">
+    <walk edges="W_in W_out" arrivalPos="1" speed="1" />
+  </person>
+  <vehicle id="v_N_base_measure_27" type="car" route="N" depart="150.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_23" type="car" route="S" depart="151.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_19" type="car" route="E" depart="152.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_28" type="car" route="N" depart="155.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_15" type="car" route="W" depart="155.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_24" type="car" route="S" depart="157.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_20" type="car" route="E" depart="160.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_29" type="car" route="N" depart="160.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_25" type="car" route="S" depart="163.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_16" type="car" route="W" depart="165.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_30" type="car" route="N" depart="166.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_21" type="car" route="E" depart="168.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_26" type="car" route="S" depart="170.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_31" type="car" route="N" depart="171.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_W_base_measure_17" type="car" route="W" depart="175.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_E_base_measure_22" type="car" route="E" depart="176.00" departLane="free" departSpeed="max" />
+  <vehicle id="v_S_base_measure_27" type="car" route="S" depart="176.50" departLane="free" departSpeed="max" />
+  <vehicle id="v_N_base_measure_32" type="car" route="N" depart="177.00" departLane="free" departSpeed="max" />
+</routes>

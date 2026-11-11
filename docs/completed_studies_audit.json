@@ -1,0 +1,864 @@
+{
+  "passed": true,
+  "scenario_presets": 16,
+  "scenario_sumo_runs": 48,
+  "records": [
+    {
+      "experiment": "baseline",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 22.72464615384615,
+          "waiting_time": 15.550576923076923,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.866244444444476,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 19.38876538461539,
+          "waiting_time": 13.224807692307692,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.54387272727274,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "225c913f87b9534f3b05ea14313def4e4db94fe4b47fa1ec176da470543f97d3"
+    },
+    {
+      "experiment": "ew_focus",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 20.80646538461539,
+          "waiting_time": 14.357692307692307,
+          "depart_delay": 0.12307692307692308,
+          "worst_direction_time_loss": 23.157600000000006,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 31.944142307692285,
+          "waiting_time": 22.702884615384615,
+          "depart_delay": 3.070961538461539,
+          "worst_direction_time_loss": 68.59261333333329,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "935d785e42eb75ca3b15558e6ba0f73fe936b93798d209d741d301d2b6689000"
+    },
+    {
+      "experiment": "extra_0",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 17.607244999999967,
+          "waiting_time": 12.48925,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 25.578555555555557,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "da2f7ca30d98a97bb1b7cf8c59f07e9d2d8244efe98f47d886006241a0cedcad"
+    },
+    {
+      "experiment": "extra_0p5",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2300,
+          "completed": 2300,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 19.879734782608697,
+          "waiting_time": 13.795217391304348,
+          "depart_delay": 0.10695652173913044,
+          "worst_direction_time_loss": 22.650670967741963,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2300,
+          "completed": 2300,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.22104347826086,
+          "waiting_time": 12.676521739130434,
+          "depart_delay": 0.10695652173913044,
+          "worst_direction_time_loss": 25.919119999999996,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "2fe2ca3544520f626705ba8102bb8658be0e325d6af5a6ccc17fe1dd1ee30945"
+    },
+    {
+      "experiment": "extra_1p5",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2900,
+          "completed": 2900,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 34.37386206896551,
+          "waiting_time": 22.932586206896552,
+          "depart_delay": 5.628275862068966,
+          "worst_direction_time_loss": 59.20397073170726,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2900,
+          "completed": 2900,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 21.17787931034485,
+          "waiting_time": 14.276896551724137,
+          "depart_delay": 0.15,
+          "worst_direction_time_loss": 32.33566666666669,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "59ceedfb2bf67c232e32b628d60eb2876009e8375af606dc5cedf6b4528f1e76"
+    },
+    {
+      "experiment": "extra_2",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 3200,
+          "completed": 3200,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 41.99690937499999,
+          "waiting_time": 27.54125,
+          "depart_delay": 104.5353125,
+          "worst_direction_time_loss": 77.74800869565212,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 3200,
+          "completed": 3200,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 25.15401875000004,
+          "waiting_time": 16.64875,
+          "depart_delay": 0.4740625,
+          "worst_direction_time_loss": 40.93370769230775,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "9fa3f084302c13cec6663f03f9284962366b24b23b1297ba3d26cd62a20ae8c2"
+    },
+    {
+      "experiment": "fast_pedestrian",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 22.72464615384615,
+          "waiting_time": 15.550576923076923,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.866244444444476,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 19.38876538461539,
+          "waiting_time": 13.224807692307692,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.54387272727274,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "0290de9083c00af5b42c61537bda0a83ef8ac35734518dae6e9eedea9ab3a809"
+    },
+    {
+      "experiment": "high_1p25",
+      "metrics": {
+        "before": {
+          "requested": 2502,
+          "completed": 2502,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 20.77652677857714,
+          "waiting_time": 14.255395683453237,
+          "depart_delay": 0.11211031175059952,
+          "worst_direction_time_loss": 23.68318573185736,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 3253,
+          "completed": 3253,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 41.47167230249003,
+          "waiting_time": 27.124193052566863,
+          "depart_delay": 77.81002151859822,
+          "worst_direction_time_loss": 77.58237122557729,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 3253,
+          "completed": 3253,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 30.562425453427633,
+          "waiting_time": 20.47709806332616,
+          "depart_delay": 0.709652628343068,
+          "worst_direction_time_loss": 61.545668604651205,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "23fc65db6bffd459d5b370be4aed23423abadeff013e931aa2d9dd51e2029e3f"
+    },
+    {
+      "experiment": "high_1p5",
+      "metrics": {
+        "before": {
+          "requested": 3000,
+          "completed": 3000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 26.320976666666674,
+          "waiting_time": 17.5855,
+          "depart_delay": 0.298,
+          "worst_direction_time_loss": 36.106769230769245,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 3900,
+          "completed": 3754,
+          "completion_rate": 0.9625641025641025,
+          "pending": 107,
+          "unfinished": 39,
+          "time_loss": 51.115732551944554,
+          "waiting_time": 33.309669685668624,
+          "depart_delay": 231.82418753329782,
+          "worst_direction_time_loss": 77.58812292358792,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 3900,
+          "completed": 3900,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 57.182656410256435,
+          "waiting_time": 37.43333333333333,
+          "depart_delay": 67.32192307692307,
+          "worst_direction_time_loss": 121.96653333333337,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "66bd7f6a6b24d658a90b32e481ed3f70d1f40fa6b56468d7a59de47104ea1f84"
+    },
+    {
+      "experiment": "irregular",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 22.72464615384615,
+          "waiting_time": 15.550576923076923,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.866244444444476,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 19.38876538461539,
+          "waiting_time": 13.224807692307692,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.54387272727274,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "5da5777e3af2338391f970624600c57f2ed54801ca73596d00be51727353269e"
+    },
+    {
+      "experiment": "mixed_fleet",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 20.971035,
+          "waiting_time": 13.52575,
+          "depart_delay": 0.11025,
+          "worst_direction_time_loss": 23.329169230769253,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 42.71511153846158,
+          "waiting_time": 26.527115384615385,
+          "depart_delay": 32.69673076923077,
+          "worst_direction_time_loss": 80.63170000000008,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 24.021003846153853,
+          "waiting_time": 14.804807692307692,
+          "depart_delay": 0.1819230769230769,
+          "worst_direction_time_loss": 38.014563636363604,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "49165f5a79911ba15595c630ac7116c144fa809ccce84ecbd11e77e629dec4d2"
+    },
+    {
+      "experiment": "north_two_lanes",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 17.64286999999999,
+          "waiting_time": 12.84625,
+          "depart_delay": 0.05125,
+          "worst_direction_time_loss": 19.25736363636362,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.87037692307694,
+          "waiting_time": 13.432307692307692,
+          "depart_delay": 0.06615384615384616,
+          "worst_direction_time_loss": 21.153728571428587,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 17.954988461538463,
+          "waiting_time": 12.747115384615384,
+          "depart_delay": 0.06615384615384616,
+          "worst_direction_time_loss": 28.54387272727274,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "70586eb446d1f0cdf214de20734fe5e2eba62758135098c483b6f08f716fe046"
+    },
+    {
+      "experiment": "ns_focus",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 26.22289230769232,
+          "waiting_time": 17.829807692307693,
+          "depart_delay": 0.38134615384615383,
+          "worst_direction_time_loss": 37.84615789473688,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.906561538461542,
+          "waiting_time": 12.755192307692308,
+          "depart_delay": 0.13173076923076923,
+          "worst_direction_time_loss": 26.136960784313725,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "88760b1bd7304a84211fae17dfcddc066b30dc6319bd8596c9c24b345873a997"
+    },
+    {
+      "experiment": "peak_profile",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 19.98292499999999,
+          "waiting_time": 14.1135,
+          "depart_delay": 0.09425,
+          "worst_direction_time_loss": 22.029230769230793,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 29.048580769230792,
+          "waiting_time": 19.633076923076924,
+          "depart_delay": 2.8048076923076923,
+          "worst_direction_time_loss": 41.167355555555616,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 25.41922692307695,
+          "waiting_time": 17.50019230769231,
+          "depart_delay": 0.34365384615384614,
+          "worst_direction_time_loss": 47.44472727272731,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "b336482c7afd7ac40eaf479d5acaae12a83b319022b3434ac97b775e0485e9d0"
+    },
+    {
+      "experiment": "slow_pedestrian",
+      "metrics": {
+        "before": {
+          "requested": 2000,
+          "completed": 2000,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 18.851599999999987,
+          "waiting_time": 13.34275,
+          "depart_delay": 0.091,
+          "worst_direction_time_loss": 20.489538461538483,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 22.72464615384615,
+          "waiting_time": 15.550576923076923,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 28.866244444444476,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 2600,
+          "completed": 2600,
+          "completion_rate": 1.0,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": 19.92270384615385,
+          "waiting_time": 13.525192307692308,
+          "depart_delay": 0.12923076923076923,
+          "worst_direction_time_loss": 23.670509090909082,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "827a04379d551e5bf1cda5d3269bbf535e79eeca4eaefb69aaf7687927d8c11d"
+    },
+    {
+      "experiment": "zero_demand",
+      "metrics": {
+        "before": {
+          "requested": 0,
+          "completed": 0,
+          "completion_rate": null,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": null,
+          "waiting_time": null,
+          "depart_delay": null,
+          "worst_direction_time_loss": null,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "after": {
+          "requested": 0,
+          "completed": 0,
+          "completion_rate": null,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": null,
+          "waiting_time": null,
+          "depart_delay": null,
+          "worst_direction_time_loss": null,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        },
+        "improved": {
+          "requested": 0,
+          "completed": 0,
+          "completion_rate": null,
+          "pending": 0,
+          "unfinished": 0,
+          "time_loss": null,
+          "waiting_time": null,
+          "depart_delay": null,
+          "worst_direction_time_loss": null,
+          "anomaly_count": 0,
+          "collisions": 0,
+          "teleports": 0
+        }
+      },
+      "all_integrity_checks_passed": true,
+      "comparison_sha256": "98b6aa782a5018a7e2fd98f2ad529bbadfdea5f119cb2ae1ee04b484514cdbef"
+    }
+  ],
+  "batch_note": "All 16 presets ran with stochastic=True and seed=407. baseline and irregular are duplicate configs in this batch, not independent evidence.",
+  "regular_arrival_control": {
+    "experiment": "arrival_control_regular",
+    "metrics": {
+      "before": {
+        "requested": 2000,
+        "completed": 2000,
+        "completion_rate": 1.0,
+        "pending": 0,
+        "unfinished": 0,
+        "time_loss": 18.306699999999974,
+        "waiting_time": 13.3825,
+        "depart_delay": 0.0,
+        "worst_direction_time_loss": 19.75815384615384,
+        "anomaly_count": 0,
+        "collisions": 0,
+        "teleports": 0
+      },
+      "after": {
+        "requested": 2600,
+        "completed": 2600,
+        "completion_rate": 1.0,
+        "pending": 0,
+        "unfinished": 0,
+        "time_loss": 20.410576923076913,
+        "waiting_time": 14.348076923076922,
+        "depart_delay": 0.038461538461538464,
+        "worst_direction_time_loss": 23.211888888888907,
+        "anomaly_count": 0,
+        "collisions": 0,
+        "teleports": 0
+      },
+      "improved": {
+        "requested": 2600,
+        "completed": 2600,
+        "completion_rate": 1.0,
+        "pending": 0,
+        "unfinished": 0,
+        "time_loss": 18.379961538461544,
+        "waiting_time": 12.967307692307692,
+        "depart_delay": 0.038461538461538464,
+        "worst_direction_time_loss": 26.879454545454497,
+        "anomaly_count": 0,
+        "collisions": 0,
+        "teleports": 0
+      }
+    },
+    "all_integrity_checks_passed": true,
+    "comparison_sha256": "7df34a0b8dcddc2faff4a1cb1146595278e1746030e20aee6d88b6066da13b70"
+  },
+  "arrival_control_changed_fields": [
+    "stochastic"
+  ],
+  "distinct_configs_including_control": 16,
+  "public": {
+    "candidates": 24,
+    "train_trajectories": 11,
+    "validation_trajectories": 10,
+    "selected_parameters": {
+      "tau": 1.0,
+      "minGap": 2.5,
+      "accel": 2.6
+    },
+    "selected_baseline": true,
+    "validation_speed_rmse_mps": 1.2531202279983478,
+    "validation_gap_rmse_m": 3.569642140774589,
+    "leader_position_max_error_m": 3.979039320256561e-13
+  },
+  "pedestrian": {
+    "geometry_boundary_cases": 8,
+    "sumo_runs": 9,
+    "passed": true
+  }
+}

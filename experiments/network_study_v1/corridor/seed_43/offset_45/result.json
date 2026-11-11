@@ -1,0 +1,277 @@
+{
+  "request": {
+    "scenario": "after",
+    "seed": 43,
+    "warmup": 300,
+    "duration": 1800,
+    "drain": 600,
+    "step": 0.5,
+    "record": false,
+    "plan": {
+      "J0": {
+        "phases": [
+          {
+            "name": "NS_walk",
+            "duration": 3,
+            "state": "GrGrrGrG"
+          },
+          {
+            "name": "NS_clear",
+            "duration": 37,
+            "state": "GrGrrrrr"
+          },
+          {
+            "name": "NS_yellow",
+            "duration": 3,
+            "state": "yryrrrrr"
+          },
+          {
+            "name": "NS_allred",
+            "duration": 2,
+            "state": "rrrrrrrr"
+          },
+          {
+            "name": "EW_walk",
+            "duration": 3,
+            "state": "rGrGGrGr"
+          },
+          {
+            "name": "EW_clear",
+            "duration": 37,
+            "state": "rGrGrrrr"
+          },
+          {
+            "name": "EW_yellow",
+            "duration": 3,
+            "state": "ryryrrrr"
+          },
+          {
+            "name": "EW_allred",
+            "duration": 2,
+            "state": "rrrrrrrr"
+          }
+        ],
+        "offset": 0,
+        "cycle": 90
+      },
+      "J1": {
+        "phases": [
+          {
+            "name": "NS_walk",
+            "duration": 3,
+            "state": "GrGrrGrG"
+          },
+          {
+            "name": "NS_clear",
+            "duration": 37,
+            "state": "GrGrrrrr"
+          },
+          {
+            "name": "NS_yellow",
+            "duration": 3,
+            "state": "yryrrrrr"
+          },
+          {
+            "name": "NS_allred",
+            "duration": 2,
+            "state": "rrrrrrrr"
+          },
+          {
+            "name": "EW_walk",
+            "duration": 3,
+            "state": "rGrGGrGr"
+          },
+          {
+            "name": "EW_clear",
+            "duration": 37,
+            "state": "rGrGrrrr"
+          },
+          {
+            "name": "EW_yellow",
+            "duration": 3,
+            "state": "ryryrrrr"
+          },
+          {
+            "name": "EW_allred",
+            "duration": 2,
+            "state": "rrrrrrrr"
+          }
+        ],
+        "offset": 45,
+        "cycle": 90
+      }
+    },
+    "net_sha256": "c323636959bbac5aede60de67c4b1da9465233d88d7a28ef87bdd5bbe1b0d591",
+    "demand_sha256": "fa9f1a8f350d42527052b29648fc022286715f5fa7fb4ad2894278d4f6cec01d",
+    "code_sha256": "2a62fcfb00583e9082c0f3fabda9ff0d1c7de15513000d11ca3729b62a2229f2"
+  },
+  "rows": [
+    {
+      "movement": "WE",
+      "direction": "W",
+      "requested": 350,
+      "completed": 350,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 89.2773714285715,
+      "depart_delay": 0.10571428571428572
+    },
+    {
+      "movement": "EW",
+      "direction": "E",
+      "requested": 175,
+      "completed": 175,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 48.28805714285717,
+      "depart_delay": 0.08571428571428572
+    },
+    {
+      "movement": "N0",
+      "direction": "N",
+      "requested": 60,
+      "completed": 60,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 15.431333333333335,
+      "depart_delay": 0.016666666666666666
+    },
+    {
+      "movement": "S0",
+      "direction": "S",
+      "requested": 60,
+      "completed": 60,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 17.23416666666667,
+      "depart_delay": 0.0
+    },
+    {
+      "movement": "N1",
+      "direction": "N",
+      "requested": 60,
+      "completed": 60,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 14.462,
+      "depart_delay": 0.025
+    },
+    {
+      "movement": "S1",
+      "direction": "S",
+      "requested": 60,
+      "completed": 60,
+      "pending": 0,
+      "unfinished": 0,
+      "time_loss": 15.501999999999999,
+      "depart_delay": 0.016666666666666666
+    }
+  ],
+  "requested": 765,
+  "completed": 765,
+  "pending": 0,
+  "unfinished": 0,
+  "mean_time_loss": 56.804261437908536,
+  "mean_depart_delay": 0.07254901960784314,
+  "collisions": 0,
+  "teleports": 0,
+  "anomaly_count": 0,
+  "anomalies": [],
+  "movement_entries": {
+    "WE": 818,
+    "EW": 408,
+    "N0": 70,
+    "S0": 70,
+    "N1": 70,
+    "S1": 70
+  },
+  "edge_stats": {
+    "E_in": {
+      "mean_halting": 1.3277777777777777,
+      "max_geometric_queue_m": 57.5123278725427,
+      "boundary_occupied_samples": 0
+    },
+    "E_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "N0_in": {
+      "mean_halting": 0.37777777777777777,
+      "max_geometric_queue_m": 12.50810491071428,
+      "boundary_occupied_samples": 0
+    },
+    "N0_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "N1_in": {
+      "mean_halting": 0.4305555555555556,
+      "max_geometric_queue_m": 20.003717279885393,
+      "boundary_occupied_samples": 0
+    },
+    "N1_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "S0_in": {
+      "mean_halting": 0.4305555555555556,
+      "max_geometric_queue_m": 35.00802401584349,
+      "boundary_occupied_samples": 0
+    },
+    "S0_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "S1_in": {
+      "mean_halting": 0.40555555555555556,
+      "max_geometric_queue_m": 27.50385582076632,
+      "boundary_occupied_samples": 0
+    },
+    "S1_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "W_in": {
+      "mean_halting": 7.963888888888889,
+      "max_geometric_queue_m": 207.5377706211114,
+      "boundary_occupied_samples": 0
+    },
+    "W_out": {
+      "mean_halting": 0.0,
+      "max_geometric_queue_m": 0,
+      "boundary_occupied_samples": 0
+    },
+    "link_E": {
+      "mean_halting": 4.397222222222222,
+      "max_geometric_queue_m": 125.05419132384988,
+      "boundary_occupied_samples": 74
+    },
+    "link_W": {
+      "mean_halting": 2.102777777777778,
+      "max_geometric_queue_m": 110.02445590101289,
+      "boundary_occupied_samples": 2
+    }
+  },
+  "pedestrian_seen": 144,
+  "pedestrian_completed": 144,
+  "crossings_used": [
+    ":J0_c0",
+    ":J0_c1",
+    ":J0_c2",
+    ":J0_c3",
+    ":J1_c0",
+    ":J1_c1",
+    ":J1_c2",
+    ":J1_c3"
+  ],
+  "steps": 5400,
+  "elapsed_seconds": 14.953000000001339,
+  "integrity_passed": true,
+  "scope": "Scheduled-departure observation cohort; time means only completed vehicles. Edge series sampled every 5 s; includes warmup/drain with observation flag.",
+  "queue_definition": "Longest contiguous group with speed<0.1m/s for >1s and bumper gap<=10m, maximum across lanes. Boundary flag is observed truncation risk, not proof of spillback."
+}

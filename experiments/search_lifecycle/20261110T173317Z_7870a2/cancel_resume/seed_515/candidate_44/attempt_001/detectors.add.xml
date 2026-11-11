@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <laneAreaDetector id="e2_E_in_1" lane="E_in_1" pos="0" endPos="292.8" period="1.0" file="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\search_lifecycle\20261110T173317Z_7870a2\cancel_resume\seed_515\candidate_44\attempt_001\e2.xml" speedThreshold="0.1" timeThreshold="1.0" jamThreshold="10.0" />
+  <laneAreaDetector id="e2_N_in_1" lane="N_in_1" pos="0" endPos="292.8" period="1.0" file="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\search_lifecycle\20261110T173317Z_7870a2\cancel_resume\seed_515\candidate_44\attempt_001\e2.xml" speedThreshold="0.1" timeThreshold="1.0" jamThreshold="10.0" />
+  <laneAreaDetector id="e2_S_in_1" lane="S_in_1" pos="0" endPos="292.8" period="1.0" file="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\search_lifecycle\20261110T173317Z_7870a2\cancel_resume\seed_515\candidate_44\attempt_001\e2.xml" speedThreshold="0.1" timeThreshold="1.0" jamThreshold="10.0" />
+  <laneAreaDetector id="e2_W_in_1" lane="W_in_1" pos="0" endPos="292.8" period="1.0" file="C:\Users\kikik\OneDrive\Lab ( 2025.4.14 ~ )\서울대 박사과정\기타작업\진호SK가자\traffic-impact-research\experiments\search_lifecycle\20261110T173317Z_7870a2\cancel_resume\seed_515\candidate_44\attempt_001\e2.xml" speedThreshold="0.1" timeThreshold="1.0" jamThreshold="10.0" />
+</additional>

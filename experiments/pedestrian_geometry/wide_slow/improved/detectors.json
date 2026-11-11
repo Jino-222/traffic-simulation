@@ -1,0 +1,106 @@
+{
+  "detectors": [
+    {
+      "id": "e2_E_in_1",
+      "lane": "E_in_1",
+      "direction": "E",
+      "length": 83.2
+    },
+    {
+      "id": "e2_E_in_2",
+      "lane": "E_in_2",
+      "direction": "E",
+      "length": 83.2
+    },
+    {
+      "id": "e2_E_in_3",
+      "lane": "E_in_3",
+      "direction": "E",
+      "length": 83.2
+    },
+    {
+      "id": "e2_E_in_4",
+      "lane": "E_in_4",
+      "direction": "E",
+      "length": 83.2
+    },
+    {
+      "id": "e2_N_in_1",
+      "lane": "N_in_1",
+      "direction": "N",
+      "length": 83.2
+    },
+    {
+      "id": "e2_N_in_2",
+      "lane": "N_in_2",
+      "direction": "N",
+      "length": 83.2
+    },
+    {
+      "id": "e2_N_in_3",
+      "lane": "N_in_3",
+      "direction": "N",
+      "length": 83.2
+    },
+    {
+      "id": "e2_N_in_4",
+      "lane": "N_in_4",
+      "direction": "N",
+      "length": 83.2
+    },
+    {
+      "id": "e2_S_in_1",
+      "lane": "S_in_1",
+      "direction": "S",
+      "length": 83.2
+    },
+    {
+      "id": "e2_S_in_2",
+      "lane": "S_in_2",
+      "direction": "S",
+      "length": 83.2
+    },
+    {
+      "id": "e2_S_in_3",
+      "lane": "S_in_3",
+      "direction": "S",
+      "length": 83.2
+    },
+    {
+      "id": "e2_S_in_4",
+      "lane": "S_in_4",
+      "direction": "S",
+      "length": 83.2
+    },
+    {
+      "id": "e2_W_in_1",
+      "lane": "W_in_1",
+      "direction": "W",
+      "length": 83.2
+    },
+    {
+      "id": "e2_W_in_2",
+      "lane": "W_in_2",
+      "direction": "W",
+      "length": 83.2
+    },
+    {
+      "id": "e2_W_in_3",
+      "lane": "W_in_3",
+      "direction": "W",
+      "length": 83.2
+    },
+    {
+      "id": "e2_W_in_4",
+      "lane": "W_in_4",
+      "direction": "W",
+      "length": 83.2
+    }
+  ],
+  "definition": {
+    "speed_threshold": 0.1,
+    "time_threshold": 1.0,
+    "jam_gap": 10.0,
+    "directional_metres": "maximum lane jam length, never sum parallel lane lengths"
+  }
+}

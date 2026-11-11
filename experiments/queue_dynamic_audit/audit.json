@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "time": 2,
+      "queue_m": 29,
+      "boundary": false,
+      "case": "Separated groups: max(25,15,29), not their sum",
+      "actual_queue_m": 29.0,
+      "actual_boundary": false,
+      "passed": true
+    },
+    {
+      "time": 6,
+      "queue_m": 45,
+      "boundary": false,
+      "case": "Five joined vehicles in lane 1",
+      "actual_queue_m": 45.0,
+      "actual_boundary": false,
+      "passed": true
+    },
+    {
+      "time": 10,
+      "queue_m": 42,
+      "boundary": true,
+      "case": "Rear extends upstream; length clipped at observation boundary",
+      "actual_queue_m": 42.0,
+      "actual_boundary": true,
+      "passed": true
+    },
+    {
+      "time": 14,
+      "queue_m": 0,
+      "boundary": false,
+      "case": "All cars resume at 1 m/s; stop qualification resets",
+      "actual_queue_m": 0.0,
+      "actual_boundary": false,
+      "passed": true
+    }
+  ],
+  "raw_e2": [
+    {
+      "time": 2.0,
+      "lanes": {
+        "N_in_1": 165.0,
+        "N_in_2": 29.0
+      }
+    },
+    {
+      "time": 6.0,
+      "lanes": {
+        "N_in_1": 45.0,
+        "N_in_2": 29.0
+      }
+    },
+    {
+      "time": 10.0,
+      "lanes": {
+        "N_in_1": 42.0,
+        "N_in_2": 29.0
+      }
+    },
+    {
+      "time": 14.0,
+      "lanes": {
+        "N_in_1": 0.0,
+        "N_in_2": 0.0
+      }
+    }
+  ],
+  "fcd_point_checks": 256,
+  "fcd_max_position_error_m": 0,
+  "fcd_max_speed_error_mps": 0,
+  "reconstruction": {
+    "source_hash": "52baf8f018ef69b0926eb31184248dc8de71897b885e4cd922b0325e12669086",
+    "samples": 68,
+    "definition": "Longest contiguous stopped group per lane, then maximum across parallel lanes; front-to-tail length, clipped to detector bounds.",
+    "stopped_speed_lt_mps": 0.1,
+    "stopped_duration_gt_s": 1.0,
+    "maximum_bumper_gap_m": 10.0,
+    "recording_step": 0.5,
+    "inclusion": "Vehicle front is on an incoming motor lane in FCD. This differs from E2 partial-body membership.",
+    "precision": "FCD positions/speeds are rounded; sample-period stop duration, not sub-sample inference.",
+    "e2_status": "Raw E2 values preserved. Controlled separated-group audit did not agree; do not label E2 queue as validated.",
+    "upstream_limit": "A qualified stopped vehicle rear is within the gap threshold of the upstream observation boundary; potential truncation, not proof of spillback."
+  },
+  "interpretation": "Known controlled layouts validate the geometric definition. Raw E2 separated-group values differ and remain separate.",
+  "limitations": "Sampled and rounded FCD, strict speed/duration threshold, front-on-lane membership. Boundary flag is possible truncation, not proven network spillback."
+}

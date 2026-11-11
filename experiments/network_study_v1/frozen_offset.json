@@ -1,0 +1,7 @@
+{
+  "offset_seconds": 11,
+  "selected_case": "offset_11",
+  "criterion": "Among fully processed and integrity-passing offset cases minimize equal-seed mean timeLoss; freeze then validate unseen seeds",
+  "discovery_sha256": "aa602306b5976f2f61df6026e50baa0d8b85c59398b054e449ed1cb3379f2154",
+  "selected_before_validation": true
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ns_walk",
+    "duration": 3,
+    "state": "GGrGrrGrG"
+  },
+  {
+    "name": "ns_clear",
+    "duration": 37,
+    "state": "GGrGrrrrr"
+  },
+  {
+    "name": "ns_yellow",
+    "duration": 3,
+    "state": "yyryrrrrr"
+  },
+  {
+    "name": "ns_all_red",
+    "duration": 2,
+    "state": "rrrrrrrrr"
+  },
+  {
+    "name": "ew_walk",
+    "duration": 3,
+    "state": "rrGrGGrGr"
+  },
+  {
+    "name": "ew_clear",
+    "duration": 37,
+    "state": "rrGrGrrrr"
+  },
+  {
+    "name": "ew_yellow",
+    "duration": 3,
+    "state": "rryryrrrr"
+  },
+  {
+    "name": "ew_all_red",
+    "duration": 2,
+    "state": "rrrrrrrrr"
+  }
+]

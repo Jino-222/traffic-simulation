@@ -1,0 +1,13 @@
+﻿scenario,direction,requested,inserted,completed,crossed_cohort,pending,unfinished,completion_rate,crossed_in_window,waiting_time,time_loss,depart_delay,travel_time,mean_halting,max_halting,time_loss_p90,time_loss_median,max_queue_m
+before,N,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+before,S,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+before,E,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+before,W,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+after,N,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+after,S,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+after,E,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+after,W,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+improved,N,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+improved,S,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+improved,E,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0
+improved,W,0,0,0,0,0,0,,0,,,,,0.0,0,,,0.0

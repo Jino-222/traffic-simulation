@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <tlLogic id="J0" type="static" programID="research" offset="0">
+    <phase duration="3" state="GrGrrGrG" name="NS_walk" />
+    <phase duration="37" state="GrGrrrrr" name="NS_clear" />
+    <phase duration="3" state="yryrrrrr" name="NS_yellow" />
+    <phase duration="2" state="rrrrrrrr" name="NS_allred" />
+    <phase duration="3" state="rGrGGrGr" name="EW_walk" />
+    <phase duration="37" state="rGrGrrrr" name="EW_clear" />
+    <phase duration="3" state="ryryrrrr" name="EW_yellow" />
+    <phase duration="2" state="rrrrrrrr" name="EW_allred" />
+  </tlLogic>
+  <tlLogic id="J1" type="static" programID="research" offset="0">
+    <phase duration="3" state="GrGrrGrG" name="NS_walk" />
+    <phase duration="62" state="GrGrrrrr" name="NS_clear" />
+    <phase duration="3" state="yryrrrrr" name="NS_yellow" />
+    <phase duration="2" state="rrrrrrrr" name="NS_allred" />
+    <phase duration="3" state="rGrGGrGr" name="EW_walk" />
+    <phase duration="12" state="rGrGrrrr" name="EW_clear" />
+    <phase duration="3" state="ryryrrrr" name="EW_yellow" />
+    <phase duration="2" state="rrrrrrrr" name="EW_allred" />
+  </tlLogic>
+</additional>

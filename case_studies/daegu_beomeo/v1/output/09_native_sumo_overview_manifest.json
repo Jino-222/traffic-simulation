@@ -1,0 +1,9 @@
+[
+  {
+    "file": "figures/09_native_sumo_overview.png",
+    "simulation_time_s": 900.5,
+    "boundary_radius_m": 850,
+    "schema": "real world",
+    "note": "Native SUMO GUI screenshot; vehicle colors are scheme defaults, not speed colors."
+  }
+]

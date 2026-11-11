@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "copied_path": "C:\\Users\\kikik\\AppData\\Local\\TrafficImpactLab\\release-verification\\20261110T174307Z\\traffic-impact-research",
+  "tested_runtime_files": 35,
+  "runtime_differences": [],
+  "visible_default_max_vc": [
+    0.855,
+    1.184,
+    0.982
+  ],
+  "visible_replay_time": 900,
+  "visible_replay_vehicle_counts": [
+    43,
+    42
+  ],
+  "static_assets_regenerated": true,
+  "browser_console_errors": [],
+  "screenshot": "docs/release-web-ui.png",
+  "method": "CUA rendered UI inspection on localhost8503 with clean installed Python; test-only server stopped afterward"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 2,
+  "model_version": "2.0.0-dev",
+  "synthetic": true,
+  "source_hash": "31822cd452ed46e84778e6275141ab8da0afc46fe535fc507314f4ca59e09f6a",
+  "experiment_id": "north_two_lanes",
+  "created_utc": "2026-11-10T16:31:38.709122+00:00",
+  "input_hash": "8f2cc539f63f7c4b",
+  "python": "3.11.6",
+  "packages": {
+    "eclipse-sumo": "1.28.0",
+    "traci": "1.28.0",
+    "sumolib": "1.28.0",
+    "streamlit": "1.67.0",
+    "plotly": "7.1.0"
+  },
+  "network_hash": "c5f048cac7cbd07c4fb9225a46b0bfbf7f56097ed3646dda6b24e3cf01fe0ecb",
+  "demand_hashes": {
+    "before": "47847bcffeb6c843ec7ebefbc2ab001c9e9fd8a4dc626b1ae117897d8a6419dd",
+    "after": "32feb7b5100470154e923413270b3eff30f786fac04a6066b5f9dd1576f06699"
+  },
+  "vehicle_parameters": {
+    "length": 5,
+    "minGap": 2.5,
+    "accel": 2.6,
+    "decel": 4.5,
+    "tau": 1.0,
+    "sigma": 0.0,
+    "speedFactor": 1
+  },
+  "vehicle_mix": {
+    "car": 1.0,
+    "bus": 0.0,
+    "truck": 0.0
+  },
+  "demand_profile": [
+    1.0
+  ],
+  "telemetry_period": 1.0,
+  "trajectory_period": null,
+  "e2": {
+    "enabled": true,
+    "speed": 0.1,
+    "time": 1.0,
+    "gap": 10.0
+  },
+  "demand_method": "fixed rounded count; seeded uniform arrival times",
+  "measured_cohort": "scheduled departures in [900, 4500) seconds",
+  "observation_window": "[900, 4500) seconds",
+  "end_time": 5400,
+  "geometry_crossing_lengths": {
+    "ns": 6.4,
+    "ew": 9.6
+  },
+  "warnings": [
+    "합성 데이터 결과이며 현장 교통영향평가·안전 판단용이 아님",
+    "공식 기반 포화교통류율·손실시간과 SUMO 차량 동작은 별개 가정",
+    "시간 지표는 완료 차량에 한정; 미완료·미진입 차량과 함께 해석",
+    "정지 차량 대수는 대기행렬 길이(m)가 아님"
+  ]
+}

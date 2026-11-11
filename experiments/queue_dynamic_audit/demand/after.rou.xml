@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+  <vType id="test" length="5" minGap="2.5" sigma="0" />
+  <route id="north" edges="N_in S_out" />
+  <vehicle id="v1_0" type="test" route="north" depart="0" departPos="250" departLane="1" departSpeed="0" />
+  <vehicle id="v1_1" type="test" route="north" depart="0" departPos="240" departLane="1" departSpeed="0" />
+  <vehicle id="v1_2" type="test" route="north" depart="0" departPos="230" departLane="1" departSpeed="0" />
+  <vehicle id="v1_3" type="test" route="north" depart="0" departPos="100" departLane="1" departSpeed="0" />
+  <vehicle id="v1_4" type="test" route="north" depart="0" departPos="90" departLane="1" departSpeed="0" />
+  <vehicle id="v2_0" type="test" route="north" depart="0" departPos="270" departLane="2" departSpeed="0" />
+  <vehicle id="v2_1" type="test" route="north" depart="0" departPos="258" departLane="2" departSpeed="0" />
+  <vehicle id="v2_2" type="test" route="north" depart="0" departPos="246" departLane="2" departSpeed="0" />
+</routes>

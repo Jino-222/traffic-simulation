@@ -1,0 +1,3544 @@
+{
+  "tls": {
+    "C": {
+      "links": {
+        "3": {
+          "index": 3,
+          "kind": "vehicle",
+          "from_edge": "E_in",
+          "to_edge": "N_out",
+          "via": ":C_3_0",
+          "internal_chain": [
+            ":C_3_0",
+            ":C_14_0"
+          ],
+          "request": 3,
+          "turn": "r",
+          "from_lane": "1",
+          "to_lane": "1"
+        },
+        "4": {
+          "index": 4,
+          "kind": "vehicle",
+          "from_edge": "E_in",
+          "to_edge": "W_out",
+          "via": ":C_4_0",
+          "internal_chain": [
+            ":C_4_0"
+          ],
+          "request": 4,
+          "turn": "s",
+          "from_lane": "2",
+          "to_lane": "2"
+        },
+        "5": {
+          "index": 5,
+          "kind": "vehicle",
+          "from_edge": "E_in",
+          "to_edge": "S_out",
+          "via": ":C_5_0",
+          "internal_chain": [
+            ":C_5_0",
+            ":C_15_0"
+          ],
+          "request": 5,
+          "turn": "l",
+          "from_lane": "3",
+          "to_lane": "3"
+        },
+        "0": {
+          "index": 0,
+          "kind": "vehicle",
+          "from_edge": "N_in",
+          "to_edge": "W_out",
+          "via": ":C_0_0",
+          "internal_chain": [
+            ":C_0_0",
+            ":C_12_0"
+          ],
+          "request": 0,
+          "turn": "r",
+          "from_lane": "1",
+          "to_lane": "1"
+        },
+        "1": {
+          "index": 1,
+          "kind": "vehicle",
+          "from_edge": "N_in",
+          "to_edge": "S_out",
+          "via": ":C_1_0",
+          "internal_chain": [
+            ":C_1_0"
+          ],
+          "request": 1,
+          "turn": "s",
+          "from_lane": "2",
+          "to_lane": "2"
+        },
+        "2": {
+          "index": 2,
+          "kind": "vehicle",
+          "from_edge": "N_in",
+          "to_edge": "E_out",
+          "via": ":C_2_0",
+          "internal_chain": [
+            ":C_2_0",
+            ":C_13_0"
+          ],
+          "request": 2,
+          "turn": "l",
+          "from_lane": "3",
+          "to_lane": "3"
+        },
+        "6": {
+          "index": 6,
+          "kind": "vehicle",
+          "from_edge": "S_in",
+          "to_edge": "E_out",
+          "via": ":C_6_0",
+          "internal_chain": [
+            ":C_6_0",
+            ":C_16_0"
+          ],
+          "request": 6,
+          "turn": "r",
+          "from_lane": "1",
+          "to_lane": "1"
+        },
+        "7": {
+          "index": 7,
+          "kind": "vehicle",
+          "from_edge": "S_in",
+          "to_edge": "N_out",
+          "via": ":C_7_0",
+          "internal_chain": [
+            ":C_7_0"
+          ],
+          "request": 7,
+          "turn": "s",
+          "from_lane": "2",
+          "to_lane": "2"
+        },
+        "8": {
+          "index": 8,
+          "kind": "vehicle",
+          "from_edge": "S_in",
+          "to_edge": "W_out",
+          "via": ":C_8_0",
+          "internal_chain": [
+            ":C_8_0",
+            ":C_17_0"
+          ],
+          "request": 8,
+          "turn": "l",
+          "from_lane": "3",
+          "to_lane": "3"
+        },
+        "9": {
+          "index": 9,
+          "kind": "vehicle",
+          "from_edge": "W_in",
+          "to_edge": "S_out",
+          "via": ":C_9_0",
+          "internal_chain": [
+            ":C_9_0",
+            ":C_18_0"
+          ],
+          "request": 9,
+          "turn": "r",
+          "from_lane": "1",
+          "to_lane": "1"
+        },
+        "10": {
+          "index": 10,
+          "kind": "vehicle",
+          "from_edge": "W_in",
+          "to_edge": "E_out",
+          "via": ":C_10_0",
+          "internal_chain": [
+            ":C_10_0"
+          ],
+          "request": 10,
+          "turn": "s",
+          "from_lane": "2",
+          "to_lane": "2"
+        },
+        "11": {
+          "index": 11,
+          "kind": "vehicle",
+          "from_edge": "W_in",
+          "to_edge": "N_out",
+          "via": ":C_11_0",
+          "internal_chain": [
+            ":C_11_0",
+            ":C_19_0"
+          ],
+          "request": 11,
+          "turn": "l",
+          "from_lane": "3",
+          "to_lane": "3"
+        },
+        "15": {
+          "index": 15,
+          "kind": "pedestrian",
+          "from_edge": ":C_w0",
+          "to_edge": ":C_c3",
+          "via": ":C_c3_0",
+          "internal_chain": [
+            ":C_c3_0"
+          ],
+          "request": 15,
+          "turn": "s",
+          "from_lane": "0",
+          "to_lane": "0"
+        },
+        "12": {
+          "index": 12,
+          "kind": "pedestrian",
+          "from_edge": ":C_w1",
+          "to_edge": ":C_c0",
+          "via": ":C_c0_0",
+          "internal_chain": [
+            ":C_c0_0"
+          ],
+          "request": 12,
+          "turn": "s",
+          "from_lane": "0",
+          "to_lane": "0"
+        },
+        "13": {
+          "index": 13,
+          "kind": "pedestrian",
+          "from_edge": ":C_w2",
+          "to_edge": ":C_c1",
+          "via": ":C_c1_0",
+          "internal_chain": [
+            ":C_c1_0"
+          ],
+          "request": 13,
+          "turn": "s",
+          "from_lane": "0",
+          "to_lane": "0"
+        },
+        "14": {
+          "index": 14,
+          "kind": "pedestrian",
+          "from_edge": ":C_w3",
+          "to_edge": ":C_c2",
+          "via": ":C_c2_0",
+          "internal_chain": [
+            ":C_c2_0"
+          ],
+          "request": 14,
+          "turn": "s",
+          "from_lane": "0",
+          "to_lane": "0"
+        }
+      },
+      "requests": {
+        "0": "0000000000001001",
+        "1": "0000100010111010",
+        "2": "0000110100011100",
+        "3": "0000000000001100",
+        "4": "0110000100010101",
+        "5": "0010000110100110",
+        "6": "0000000000000110",
+        "7": "0010110000101010",
+        "8": "0100010000110011",
+        "9": "0000000000000011",
+        "10": "0100010110000101",
+        "11": "0110100010001001",
+        "12": "1111000100010000",
+        "13": "0011111000100000",
+        "14": "0100011111000000",
+        "15": "1000100011110000"
+      },
+      "internal_lanes": [
+        ":C_12_0",
+        ":C_1_0",
+        ":C_13_0",
+        ":C_14_0",
+        ":C_4_0",
+        ":C_15_0",
+        ":C_16_0",
+        ":C_7_0",
+        ":C_17_0",
+        ":C_18_0",
+        ":C_10_0",
+        ":C_19_0",
+        ":C_c0_0",
+        ":C_c1_0",
+        ":C_c2_0",
+        ":C_c3_0"
+      ],
+      "signal_count": 16,
+      "foes": {
+        "3": [
+          12,
+          13
+        ],
+        "4": [
+          1,
+          2,
+          7,
+          11,
+          15,
+          13
+        ],
+        "5": [
+          2,
+          7,
+          8,
+          10,
+          13,
+          14
+        ],
+        "0": [
+          15,
+          12
+        ],
+        "1": [
+          4,
+          8,
+          10,
+          11,
+          12,
+          14
+        ],
+        "2": [
+          4,
+          5,
+          7,
+          11,
+          12,
+          13
+        ],
+        "6": [
+          13,
+          14
+        ],
+        "7": [
+          4,
+          5,
+          2,
+          10,
+          12,
+          14
+        ],
+        "8": [
+          5,
+          1,
+          10,
+          11,
+          15,
+          14
+        ],
+        "9": [
+          15,
+          14
+        ],
+        "10": [
+          5,
+          1,
+          7,
+          8,
+          15,
+          13
+        ],
+        "11": [
+          4,
+          1,
+          2,
+          8,
+          15,
+          12
+        ],
+        "15": [
+          4,
+          0,
+          8,
+          9,
+          10,
+          11
+        ],
+        "12": [
+          3,
+          0,
+          1,
+          2,
+          7,
+          11
+        ],
+        "13": [
+          3,
+          4,
+          5,
+          2,
+          6,
+          10
+        ],
+        "14": [
+          5,
+          1,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  "crossings": {
+    ":C_c0": {
+      "tls": "C",
+      "edges": [
+        "N_out",
+        "N_in"
+      ],
+      "length": 19.2,
+      "lane": ":C_c0_0"
+    },
+    ":C_c1": {
+      "tls": "C",
+      "edges": [
+        "E_out",
+        "E_in"
+      ],
+      "length": 19.2,
+      "lane": ":C_c1_0"
+    },
+    ":C_c2": {
+      "tls": "C",
+      "edges": [
+        "S_out",
+        "S_in"
+      ],
+      "length": 19.2,
+      "lane": ":C_c2_0"
+    },
+    ":C_c3": {
+      "tls": "C",
+      "edges": [
+        "W_out",
+        "W_in"
+      ],
+      "length": 19.2,
+      "lane": ":C_c3_0"
+    }
+  },
+  "lanes": {
+    ":C_0_0": {
+      "id": ":C_0_0",
+      "edge": ":C_0",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 5.92,
+      "width": 3.2,
+      "shape": [
+        [
+          292.0,
+          313.6
+        ],
+        [
+          291.65,
+          311.15
+        ],
+        [
+          290.6,
+          309.4
+        ],
+        [
+          289.4,
+          308.68
+        ]
+      ]
+    },
+    ":C_1_0": {
+      "id": ":C_1_0",
+      "edge": ":C_1",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 27.2,
+      "width": 3.2,
+      "shape": [
+        [
+          295.2,
+          313.6
+        ],
+        [
+          295.2,
+          286.4
+        ]
+      ]
+    },
+    ":C_2_0": {
+      "id": ":C_2_0",
+      "edge": ":C_2",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 12.07,
+      "width": 3.2,
+      "shape": [
+        [
+          298.4,
+          313.6
+        ],
+        [
+          299.35,
+          306.95
+        ],
+        [
+          302.1,
+          302.36
+        ]
+      ]
+    },
+    ":C_12_0": {
+      "id": ":C_12_0",
+      "edge": ":C_12",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 3.12,
+      "width": 3.2,
+      "shape": [
+        [
+          289.4,
+          308.68
+        ],
+        [
+          288.85,
+          308.35
+        ],
+        [
+          286.4,
+          308.0
+        ]
+      ]
+    },
+    ":C_13_0": {
+      "id": ":C_13_0",
+      "edge": ":C_13",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 12.44,
+      "width": 3.2,
+      "shape": [
+        [
+          302.1,
+          302.36
+        ],
+        [
+          302.2,
+          302.2
+        ],
+        [
+          306.95,
+          299.35
+        ],
+        [
+          313.6,
+          298.4
+        ]
+      ]
+    },
+    ":C_3_0": {
+      "id": ":C_3_0",
+      "edge": ":C_3",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 5.92,
+      "width": 3.2,
+      "shape": [
+        [
+          313.6,
+          308.0
+        ],
+        [
+          311.15,
+          308.35
+        ],
+        [
+          309.4,
+          309.4
+        ],
+        [
+          308.68,
+          310.6
+        ]
+      ]
+    },
+    ":C_4_0": {
+      "id": ":C_4_0",
+      "edge": ":C_4",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 27.2,
+      "width": 3.2,
+      "shape": [
+        [
+          313.6,
+          304.8
+        ],
+        [
+          286.4,
+          304.8
+        ]
+      ]
+    },
+    ":C_5_0": {
+      "id": ":C_5_0",
+      "edge": ":C_5",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 12.07,
+      "width": 3.2,
+      "shape": [
+        [
+          313.6,
+          301.6
+        ],
+        [
+          306.95,
+          300.65
+        ],
+        [
+          302.36,
+          297.9
+        ]
+      ]
+    },
+    ":C_14_0": {
+      "id": ":C_14_0",
+      "edge": ":C_14",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 3.12,
+      "width": 3.2,
+      "shape": [
+        [
+          308.68,
+          310.6
+        ],
+        [
+          308.35,
+          311.15
+        ],
+        [
+          308.0,
+          313.6
+        ]
+      ]
+    },
+    ":C_15_0": {
+      "id": ":C_15_0",
+      "edge": ":C_15",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 12.44,
+      "width": 3.2,
+      "shape": [
+        [
+          302.36,
+          297.9
+        ],
+        [
+          302.2,
+          297.8
+        ],
+        [
+          299.35,
+          293.05
+        ],
+        [
+          298.4,
+          286.4
+        ]
+      ]
+    },
+    ":C_6_0": {
+      "id": ":C_6_0",
+      "edge": ":C_6",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 5.92,
+      "width": 3.2,
+      "shape": [
+        [
+          308.0,
+          286.4
+        ],
+        [
+          308.35,
+          288.85
+        ],
+        [
+          309.4,
+          290.6
+        ],
+        [
+          310.6,
+          291.32
+        ]
+      ]
+    },
+    ":C_7_0": {
+      "id": ":C_7_0",
+      "edge": ":C_7",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 27.2,
+      "width": 3.2,
+      "shape": [
+        [
+          304.8,
+          286.4
+        ],
+        [
+          304.8,
+          313.6
+        ]
+      ]
+    },
+    ":C_8_0": {
+      "id": ":C_8_0",
+      "edge": ":C_8",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 12.07,
+      "width": 3.2,
+      "shape": [
+        [
+          301.6,
+          286.4
+        ],
+        [
+          300.65,
+          293.05
+        ],
+        [
+          297.9,
+          297.64
+        ]
+      ]
+    },
+    ":C_16_0": {
+      "id": ":C_16_0",
+      "edge": ":C_16",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 3.12,
+      "width": 3.2,
+      "shape": [
+        [
+          310.6,
+          291.32
+        ],
+        [
+          311.15,
+          291.65
+        ],
+        [
+          313.6,
+          292.0
+        ]
+      ]
+    },
+    ":C_17_0": {
+      "id": ":C_17_0",
+      "edge": ":C_17",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 12.44,
+      "width": 3.2,
+      "shape": [
+        [
+          297.9,
+          297.64
+        ],
+        [
+          297.8,
+          297.8
+        ],
+        [
+          293.05,
+          300.65
+        ],
+        [
+          286.4,
+          301.6
+        ]
+      ]
+    },
+    ":C_9_0": {
+      "id": ":C_9_0",
+      "edge": ":C_9",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 5.92,
+      "width": 3.2,
+      "shape": [
+        [
+          286.4,
+          292.0
+        ],
+        [
+          288.85,
+          291.65
+        ],
+        [
+          290.6,
+          290.6
+        ],
+        [
+          291.32,
+          289.4
+        ]
+      ]
+    },
+    ":C_10_0": {
+      "id": ":C_10_0",
+      "edge": ":C_10",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 27.2,
+      "width": 3.2,
+      "shape": [
+        [
+          286.4,
+          295.2
+        ],
+        [
+          313.6,
+          295.2
+        ]
+      ]
+    },
+    ":C_11_0": {
+      "id": ":C_11_0",
+      "edge": ":C_11",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 12.07,
+      "width": 3.2,
+      "shape": [
+        [
+          286.4,
+          298.4
+        ],
+        [
+          293.05,
+          299.35
+        ],
+        [
+          297.64,
+          302.1
+        ]
+      ]
+    },
+    ":C_18_0": {
+      "id": ":C_18_0",
+      "edge": ":C_18",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 3.12,
+      "width": 3.2,
+      "shape": [
+        [
+          291.32,
+          289.4
+        ],
+        [
+          291.65,
+          288.85
+        ],
+        [
+          292.0,
+          286.4
+        ]
+      ]
+    },
+    ":C_19_0": {
+      "id": ":C_19_0",
+      "edge": ":C_19",
+      "kind": "internal",
+      "pedestrian": false,
+      "length": 12.44,
+      "width": 3.2,
+      "shape": [
+        [
+          297.64,
+          302.1
+        ],
+        [
+          297.8,
+          302.2
+        ],
+        [
+          300.65,
+          306.95
+        ],
+        [
+          301.6,
+          313.6
+        ]
+      ]
+    },
+    ":C_c0_0": {
+      "id": ":C_c0_0",
+      "edge": ":C_c0",
+      "kind": "crossing",
+      "pedestrian": true,
+      "length": 19.2,
+      "width": 3.0,
+      "shape": [
+        [
+          309.6,
+          312.1
+        ],
+        [
+          290.4,
+          312.1
+        ]
+      ]
+    },
+    ":C_c1_0": {
+      "id": ":C_c1_0",
+      "edge": ":C_c1",
+      "kind": "crossing",
+      "pedestrian": true,
+      "length": 19.2,
+      "width": 3.0,
+      "shape": [
+        [
+          312.1,
+          290.4
+        ],
+        [
+          312.1,
+          309.6
+        ]
+      ]
+    },
+    ":C_c2_0": {
+      "id": ":C_c2_0",
+      "edge": ":C_c2",
+      "kind": "crossing",
+      "pedestrian": true,
+      "length": 19.2,
+      "width": 3.0,
+      "shape": [
+        [
+          290.4,
+          287.9
+        ],
+        [
+          309.6,
+          287.9
+        ]
+      ]
+    },
+    ":C_c3_0": {
+      "id": ":C_c3_0",
+      "edge": ":C_c3",
+      "kind": "crossing",
+      "pedestrian": true,
+      "length": 19.2,
+      "width": 3.0,
+      "shape": [
+        [
+          287.9,
+          309.6
+        ],
+        [
+          287.9,
+          290.4
+        ]
+      ]
+    },
+    ":C_w0_0": {
+      "id": ":C_w0_0",
+      "edge": ":C_w0",
+      "kind": "walkingarea",
+      "pedestrian": true,
+      "length": 3.32,
+      "width": 3.0,
+      "shape": [
+        [
+          286.4,
+          309.6
+        ],
+        [
+          286.4,
+          311.6
+        ],
+        [
+          288.4,
+          313.6
+        ],
+        [
+          290.4,
+          313.6
+        ],
+        [
+          290.29,
+          312.38
+        ],
+        [
+          289.96,
+          311.38
+        ],
+        [
+          289.4,
+          310.6
+        ],
+        [
+          288.62,
+          310.04
+        ],
+        [
+          287.62,
+          309.71
+        ]
+      ]
+    },
+    ":C_w1_0": {
+      "id": ":C_w1_0",
+      "edge": ":C_w1",
+      "kind": "walkingarea",
+      "pedestrian": true,
+      "length": 3.32,
+      "width": 3.0,
+      "shape": [
+        [
+          309.6,
+          313.6
+        ],
+        [
+          311.6,
+          313.6
+        ],
+        [
+          313.6,
+          311.6
+        ],
+        [
+          313.6,
+          309.6
+        ],
+        [
+          312.38,
+          309.71
+        ],
+        [
+          311.38,
+          310.04
+        ],
+        [
+          310.6,
+          310.6
+        ],
+        [
+          310.04,
+          311.38
+        ],
+        [
+          309.71,
+          312.38
+        ]
+      ]
+    },
+    ":C_w2_0": {
+      "id": ":C_w2_0",
+      "edge": ":C_w2",
+      "kind": "walkingarea",
+      "pedestrian": true,
+      "length": 3.32,
+      "width": 3.0,
+      "shape": [
+        [
+          313.6,
+          290.4
+        ],
+        [
+          313.6,
+          288.4
+        ],
+        [
+          311.6,
+          286.4
+        ],
+        [
+          309.6,
+          286.4
+        ],
+        [
+          309.71,
+          287.62
+        ],
+        [
+          310.04,
+          288.62
+        ],
+        [
+          310.6,
+          289.4
+        ],
+        [
+          311.38,
+          289.96
+        ],
+        [
+          312.38,
+          290.29
+        ]
+      ]
+    },
+    ":C_w3_0": {
+      "id": ":C_w3_0",
+      "edge": ":C_w3",
+      "kind": "walkingarea",
+      "pedestrian": true,
+      "length": 3.32,
+      "width": 3.0,
+      "shape": [
+        [
+          290.4,
+          286.4
+        ],
+        [
+          288.4,
+          286.4
+        ],
+        [
+          286.4,
+          288.4
+        ],
+        [
+          286.4,
+          290.4
+        ],
+        [
+          287.62,
+          290.29
+        ],
+        [
+          288.62,
+          289.96
+        ],
+        [
+          289.4,
+          289.4
+        ],
+        [
+          289.96,
+          288.62
+        ],
+        [
+          290.29,
+          287.62
+        ]
+      ]
+    },
+    ":E_w0_0": {
+      "id": ":E_w0_0",
+      "edge": ":E_w0",
+      "kind": "walkingarea",
+      "pedestrian": true,
+      "length": 21.2,
+      "width": 2.0,
+      "shape": [
+        [
+          600.0,
+          309.6
+        ],
+        [
+          600.0,
+          311.6
+        ],
+        [
+          600.0,
+          288.4
+        ],
+        [
+          600.0,
+          290.4
+        ]
+      ]
+    },
+    ":N_w0_0": {
+      "id": ":N_w0_0",
+      "edge": ":N_w0",
+      "kind": "walkingarea",
+      "pedestrian": true,
+      "length": 21.2,
+      "width": 2.0,
+      "shape": [
+        [
+          290.4,
+          600.0
+        ],
+        [
+          288.4,
+          600.0
+        ],
+        [
+          311.6,
+          600.0
+        ],
+        [
+          309.6,
+          600.0
+        ]
+      ]
+    },
+    ":S_w0_0": {
+      "id": ":S_w0_0",
+      "edge": ":S_w0",
+      "kind": "walkingarea",
+      "pedestrian": true,
+      "length": 21.2,
+      "width": 2.0,
+      "shape": [
+        [
+          309.6,
+          0.0
+        ],
+        [
+          311.6,
+          0.0
+        ],
+        [
+          288.4,
+          0.0
+        ],
+        [
+          290.4,
+          0.0
+        ]
+      ]
+    },
+    ":W_w0_0": {
+      "id": ":W_w0_0",
+      "edge": ":W_w0",
+      "kind": "walkingarea",
+      "pedestrian": true,
+      "length": 21.2,
+      "width": 2.0,
+      "shape": [
+        [
+          0.0,
+          290.4
+        ],
+        [
+          0.0,
+          288.4
+        ],
+        [
+          0.0,
+          311.6
+        ],
+        [
+          0.0,
+          309.6
+        ]
+      ]
+    },
+    "E_in_0": {
+      "id": "E_in_0",
+      "edge": "E_in",
+      "kind": "road",
+      "pedestrian": true,
+      "length": 286.4,
+      "width": 2.0,
+      "shape": [
+        [
+          600.0,
+          310.6
+        ],
+        [
+          313.6,
+          310.6
+        ]
+      ]
+    },
+    "E_in_1": {
+      "id": "E_in_1",
+      "edge": "E_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          600.0,
+          308.0
+        ],
+        [
+          313.6,
+          308.0
+        ]
+      ]
+    },
+    "E_in_2": {
+      "id": "E_in_2",
+      "edge": "E_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          600.0,
+          304.8
+        ],
+        [
+          313.6,
+          304.8
+        ]
+      ]
+    },
+    "E_in_3": {
+      "id": "E_in_3",
+      "edge": "E_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          600.0,
+          301.6
+        ],
+        [
+          313.6,
+          301.6
+        ]
+      ]
+    },
+    "E_out_0": {
+      "id": "E_out_0",
+      "edge": "E_out",
+      "kind": "road",
+      "pedestrian": true,
+      "length": 286.4,
+      "width": 2.0,
+      "shape": [
+        [
+          313.6,
+          289.4
+        ],
+        [
+          600.0,
+          289.4
+        ]
+      ]
+    },
+    "E_out_1": {
+      "id": "E_out_1",
+      "edge": "E_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          313.6,
+          292.0
+        ],
+        [
+          600.0,
+          292.0
+        ]
+      ]
+    },
+    "E_out_2": {
+      "id": "E_out_2",
+      "edge": "E_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          313.6,
+          295.2
+        ],
+        [
+          600.0,
+          295.2
+        ]
+      ]
+    },
+    "E_out_3": {
+      "id": "E_out_3",
+      "edge": "E_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          313.6,
+          298.4
+        ],
+        [
+          600.0,
+          298.4
+        ]
+      ]
+    },
+    "N_in_0": {
+      "id": "N_in_0",
+      "edge": "N_in",
+      "kind": "road",
+      "pedestrian": true,
+      "length": 286.4,
+      "width": 2.0,
+      "shape": [
+        [
+          289.4,
+          600.0
+        ],
+        [
+          289.4,
+          313.6
+        ]
+      ]
+    },
+    "N_in_1": {
+      "id": "N_in_1",
+      "edge": "N_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          292.0,
+          600.0
+        ],
+        [
+          292.0,
+          313.6
+        ]
+      ]
+    },
+    "N_in_2": {
+      "id": "N_in_2",
+      "edge": "N_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          295.2,
+          600.0
+        ],
+        [
+          295.2,
+          313.6
+        ]
+      ]
+    },
+    "N_in_3": {
+      "id": "N_in_3",
+      "edge": "N_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          298.4,
+          600.0
+        ],
+        [
+          298.4,
+          313.6
+        ]
+      ]
+    },
+    "N_out_0": {
+      "id": "N_out_0",
+      "edge": "N_out",
+      "kind": "road",
+      "pedestrian": true,
+      "length": 286.4,
+      "width": 2.0,
+      "shape": [
+        [
+          310.6,
+          313.6
+        ],
+        [
+          310.6,
+          600.0
+        ]
+      ]
+    },
+    "N_out_1": {
+      "id": "N_out_1",
+      "edge": "N_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          308.0,
+          313.6
+        ],
+        [
+          308.0,
+          600.0
+        ]
+      ]
+    },
+    "N_out_2": {
+      "id": "N_out_2",
+      "edge": "N_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          304.8,
+          313.6
+        ],
+        [
+          304.8,
+          600.0
+        ]
+      ]
+    },
+    "N_out_3": {
+      "id": "N_out_3",
+      "edge": "N_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          301.6,
+          313.6
+        ],
+        [
+          301.6,
+          600.0
+        ]
+      ]
+    },
+    "S_in_0": {
+      "id": "S_in_0",
+      "edge": "S_in",
+      "kind": "road",
+      "pedestrian": true,
+      "length": 286.4,
+      "width": 2.0,
+      "shape": [
+        [
+          310.6,
+          0.0
+        ],
+        [
+          310.6,
+          286.4
+        ]
+      ]
+    },
+    "S_in_1": {
+      "id": "S_in_1",
+      "edge": "S_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          308.0,
+          0.0
+        ],
+        [
+          308.0,
+          286.4
+        ]
+      ]
+    },
+    "S_in_2": {
+      "id": "S_in_2",
+      "edge": "S_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          304.8,
+          0.0
+        ],
+        [
+          304.8,
+          286.4
+        ]
+      ]
+    },
+    "S_in_3": {
+      "id": "S_in_3",
+      "edge": "S_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          301.6,
+          0.0
+        ],
+        [
+          301.6,
+          286.4
+        ]
+      ]
+    },
+    "S_out_0": {
+      "id": "S_out_0",
+      "edge": "S_out",
+      "kind": "road",
+      "pedestrian": true,
+      "length": 286.4,
+      "width": 2.0,
+      "shape": [
+        [
+          289.4,
+          286.4
+        ],
+        [
+          289.4,
+          0.0
+        ]
+      ]
+    },
+    "S_out_1": {
+      "id": "S_out_1",
+      "edge": "S_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          292.0,
+          286.4
+        ],
+        [
+          292.0,
+          0.0
+        ]
+      ]
+    },
+    "S_out_2": {
+      "id": "S_out_2",
+      "edge": "S_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          295.2,
+          286.4
+        ],
+        [
+          295.2,
+          0.0
+        ]
+      ]
+    },
+    "S_out_3": {
+      "id": "S_out_3",
+      "edge": "S_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          298.4,
+          286.4
+        ],
+        [
+          298.4,
+          0.0
+        ]
+      ]
+    },
+    "W_in_0": {
+      "id": "W_in_0",
+      "edge": "W_in",
+      "kind": "road",
+      "pedestrian": true,
+      "length": 286.4,
+      "width": 2.0,
+      "shape": [
+        [
+          0.0,
+          289.4
+        ],
+        [
+          286.4,
+          289.4
+        ]
+      ]
+    },
+    "W_in_1": {
+      "id": "W_in_1",
+      "edge": "W_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          0.0,
+          292.0
+        ],
+        [
+          286.4,
+          292.0
+        ]
+      ]
+    },
+    "W_in_2": {
+      "id": "W_in_2",
+      "edge": "W_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          0.0,
+          295.2
+        ],
+        [
+          286.4,
+          295.2
+        ]
+      ]
+    },
+    "W_in_3": {
+      "id": "W_in_3",
+      "edge": "W_in",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          0.0,
+          298.4
+        ],
+        [
+          286.4,
+          298.4
+        ]
+      ]
+    },
+    "W_out_0": {
+      "id": "W_out_0",
+      "edge": "W_out",
+      "kind": "road",
+      "pedestrian": true,
+      "length": 286.4,
+      "width": 2.0,
+      "shape": [
+        [
+          286.4,
+          310.6
+        ],
+        [
+          0.0,
+          310.6
+        ]
+      ]
+    },
+    "W_out_1": {
+      "id": "W_out_1",
+      "edge": "W_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          286.4,
+          308.0
+        ],
+        [
+          0.0,
+          308.0
+        ]
+      ]
+    },
+    "W_out_2": {
+      "id": "W_out_2",
+      "edge": "W_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          286.4,
+          304.8
+        ],
+        [
+          0.0,
+          304.8
+        ]
+      ]
+    },
+    "W_out_3": {
+      "id": "W_out_3",
+      "edge": "W_out",
+      "kind": "road",
+      "pedestrian": false,
+      "length": 286.4,
+      "width": 3.2,
+      "shape": [
+        [
+          286.4,
+          301.6
+        ],
+        [
+          0.0,
+          301.6
+        ]
+      ]
+    }
+  },
+  "flows": {
+    "N_R": {
+      "edges": [
+        "N_in",
+        "W_out"
+      ],
+      "direction": "N",
+      "turn": "R",
+      "depart_lane": 1
+    },
+    "N_S": {
+      "edges": [
+        "N_in",
+        "S_out"
+      ],
+      "direction": "N",
+      "turn": "S",
+      "depart_lane": 2
+    },
+    "N_L": {
+      "edges": [
+        "N_in",
+        "E_out"
+      ],
+      "direction": "N",
+      "turn": "L",
+      "depart_lane": 3
+    },
+    "E_R": {
+      "edges": [
+        "E_in",
+        "N_out"
+      ],
+      "direction": "E",
+      "turn": "R",
+      "depart_lane": 1
+    },
+    "E_S": {
+      "edges": [
+        "E_in",
+        "W_out"
+      ],
+      "direction": "E",
+      "turn": "S",
+      "depart_lane": 2
+    },
+    "E_L": {
+      "edges": [
+        "E_in",
+        "S_out"
+      ],
+      "direction": "E",
+      "turn": "L",
+      "depart_lane": 3
+    },
+    "S_R": {
+      "edges": [
+        "S_in",
+        "E_out"
+      ],
+      "direction": "S",
+      "turn": "R",
+      "depart_lane": 1
+    },
+    "S_S": {
+      "edges": [
+        "S_in",
+        "N_out"
+      ],
+      "direction": "S",
+      "turn": "S",
+      "depart_lane": 2
+    },
+    "S_L": {
+      "edges": [
+        "S_in",
+        "W_out"
+      ],
+      "direction": "S",
+      "turn": "L",
+      "depart_lane": 3
+    },
+    "W_R": {
+      "edges": [
+        "W_in",
+        "S_out"
+      ],
+      "direction": "W",
+      "turn": "R",
+      "depart_lane": 1
+    },
+    "W_S": {
+      "edges": [
+        "W_in",
+        "E_out"
+      ],
+      "direction": "W",
+      "turn": "S",
+      "depart_lane": 2
+    },
+    "W_L": {
+      "edges": [
+        "W_in",
+        "N_out"
+      ],
+      "direction": "W",
+      "turn": "L",
+      "depart_lane": 3
+    }
+  },
+  "ped_routes": [
+    {
+      "id": "N",
+      "tls": "C",
+      "side": "N",
+      "from": "N_in",
+      "to": "N_out",
+      "depart_pos": 285.4
+    },
+    {
+      "id": "E",
+      "tls": "C",
+      "side": "E",
+      "from": "E_in",
+      "to": "E_out",
+      "depart_pos": 285.4
+    },
+    {
+      "id": "S",
+      "tls": "C",
+      "side": "S",
+      "from": "S_in",
+      "to": "S_out",
+      "depart_pos": 285.4
+    },
+    {
+      "id": "W",
+      "tls": "C",
+      "side": "W",
+      "from": "W_in",
+      "to": "W_out",
+      "depart_pos": 285.4
+    }
+  ],
+  "geometry": {
+    "lanes": [
+      {
+        "id": ":C_0_0",
+        "edge": ":C_0",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 5.92,
+        "width": 3.2,
+        "shape": [
+          [
+            292.0,
+            313.6
+          ],
+          [
+            291.65,
+            311.15
+          ],
+          [
+            290.6,
+            309.4
+          ],
+          [
+            289.4,
+            308.68
+          ]
+        ]
+      },
+      {
+        "id": ":C_1_0",
+        "edge": ":C_1",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 27.2,
+        "width": 3.2,
+        "shape": [
+          [
+            295.2,
+            313.6
+          ],
+          [
+            295.2,
+            286.4
+          ]
+        ]
+      },
+      {
+        "id": ":C_2_0",
+        "edge": ":C_2",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 12.07,
+        "width": 3.2,
+        "shape": [
+          [
+            298.4,
+            313.6
+          ],
+          [
+            299.35,
+            306.95
+          ],
+          [
+            302.1,
+            302.36
+          ]
+        ]
+      },
+      {
+        "id": ":C_12_0",
+        "edge": ":C_12",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 3.12,
+        "width": 3.2,
+        "shape": [
+          [
+            289.4,
+            308.68
+          ],
+          [
+            288.85,
+            308.35
+          ],
+          [
+            286.4,
+            308.0
+          ]
+        ]
+      },
+      {
+        "id": ":C_13_0",
+        "edge": ":C_13",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 12.44,
+        "width": 3.2,
+        "shape": [
+          [
+            302.1,
+            302.36
+          ],
+          [
+            302.2,
+            302.2
+          ],
+          [
+            306.95,
+            299.35
+          ],
+          [
+            313.6,
+            298.4
+          ]
+        ]
+      },
+      {
+        "id": ":C_3_0",
+        "edge": ":C_3",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 5.92,
+        "width": 3.2,
+        "shape": [
+          [
+            313.6,
+            308.0
+          ],
+          [
+            311.15,
+            308.35
+          ],
+          [
+            309.4,
+            309.4
+          ],
+          [
+            308.68,
+            310.6
+          ]
+        ]
+      },
+      {
+        "id": ":C_4_0",
+        "edge": ":C_4",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 27.2,
+        "width": 3.2,
+        "shape": [
+          [
+            313.6,
+            304.8
+          ],
+          [
+            286.4,
+            304.8
+          ]
+        ]
+      },
+      {
+        "id": ":C_5_0",
+        "edge": ":C_5",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 12.07,
+        "width": 3.2,
+        "shape": [
+          [
+            313.6,
+            301.6
+          ],
+          [
+            306.95,
+            300.65
+          ],
+          [
+            302.36,
+            297.9
+          ]
+        ]
+      },
+      {
+        "id": ":C_14_0",
+        "edge": ":C_14",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 3.12,
+        "width": 3.2,
+        "shape": [
+          [
+            308.68,
+            310.6
+          ],
+          [
+            308.35,
+            311.15
+          ],
+          [
+            308.0,
+            313.6
+          ]
+        ]
+      },
+      {
+        "id": ":C_15_0",
+        "edge": ":C_15",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 12.44,
+        "width": 3.2,
+        "shape": [
+          [
+            302.36,
+            297.9
+          ],
+          [
+            302.2,
+            297.8
+          ],
+          [
+            299.35,
+            293.05
+          ],
+          [
+            298.4,
+            286.4
+          ]
+        ]
+      },
+      {
+        "id": ":C_6_0",
+        "edge": ":C_6",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 5.92,
+        "width": 3.2,
+        "shape": [
+          [
+            308.0,
+            286.4
+          ],
+          [
+            308.35,
+            288.85
+          ],
+          [
+            309.4,
+            290.6
+          ],
+          [
+            310.6,
+            291.32
+          ]
+        ]
+      },
+      {
+        "id": ":C_7_0",
+        "edge": ":C_7",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 27.2,
+        "width": 3.2,
+        "shape": [
+          [
+            304.8,
+            286.4
+          ],
+          [
+            304.8,
+            313.6
+          ]
+        ]
+      },
+      {
+        "id": ":C_8_0",
+        "edge": ":C_8",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 12.07,
+        "width": 3.2,
+        "shape": [
+          [
+            301.6,
+            286.4
+          ],
+          [
+            300.65,
+            293.05
+          ],
+          [
+            297.9,
+            297.64
+          ]
+        ]
+      },
+      {
+        "id": ":C_16_0",
+        "edge": ":C_16",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 3.12,
+        "width": 3.2,
+        "shape": [
+          [
+            310.6,
+            291.32
+          ],
+          [
+            311.15,
+            291.65
+          ],
+          [
+            313.6,
+            292.0
+          ]
+        ]
+      },
+      {
+        "id": ":C_17_0",
+        "edge": ":C_17",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 12.44,
+        "width": 3.2,
+        "shape": [
+          [
+            297.9,
+            297.64
+          ],
+          [
+            297.8,
+            297.8
+          ],
+          [
+            293.05,
+            300.65
+          ],
+          [
+            286.4,
+            301.6
+          ]
+        ]
+      },
+      {
+        "id": ":C_9_0",
+        "edge": ":C_9",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 5.92,
+        "width": 3.2,
+        "shape": [
+          [
+            286.4,
+            292.0
+          ],
+          [
+            288.85,
+            291.65
+          ],
+          [
+            290.6,
+            290.6
+          ],
+          [
+            291.32,
+            289.4
+          ]
+        ]
+      },
+      {
+        "id": ":C_10_0",
+        "edge": ":C_10",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 27.2,
+        "width": 3.2,
+        "shape": [
+          [
+            286.4,
+            295.2
+          ],
+          [
+            313.6,
+            295.2
+          ]
+        ]
+      },
+      {
+        "id": ":C_11_0",
+        "edge": ":C_11",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 12.07,
+        "width": 3.2,
+        "shape": [
+          [
+            286.4,
+            298.4
+          ],
+          [
+            293.05,
+            299.35
+          ],
+          [
+            297.64,
+            302.1
+          ]
+        ]
+      },
+      {
+        "id": ":C_18_0",
+        "edge": ":C_18",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 3.12,
+        "width": 3.2,
+        "shape": [
+          [
+            291.32,
+            289.4
+          ],
+          [
+            291.65,
+            288.85
+          ],
+          [
+            292.0,
+            286.4
+          ]
+        ]
+      },
+      {
+        "id": ":C_19_0",
+        "edge": ":C_19",
+        "kind": "internal",
+        "pedestrian": false,
+        "length": 12.44,
+        "width": 3.2,
+        "shape": [
+          [
+            297.64,
+            302.1
+          ],
+          [
+            297.8,
+            302.2
+          ],
+          [
+            300.65,
+            306.95
+          ],
+          [
+            301.6,
+            313.6
+          ]
+        ]
+      },
+      {
+        "id": ":C_c0_0",
+        "edge": ":C_c0",
+        "kind": "crossing",
+        "pedestrian": true,
+        "length": 19.2,
+        "width": 3.0,
+        "shape": [
+          [
+            309.6,
+            312.1
+          ],
+          [
+            290.4,
+            312.1
+          ]
+        ]
+      },
+      {
+        "id": ":C_c1_0",
+        "edge": ":C_c1",
+        "kind": "crossing",
+        "pedestrian": true,
+        "length": 19.2,
+        "width": 3.0,
+        "shape": [
+          [
+            312.1,
+            290.4
+          ],
+          [
+            312.1,
+            309.6
+          ]
+        ]
+      },
+      {
+        "id": ":C_c2_0",
+        "edge": ":C_c2",
+        "kind": "crossing",
+        "pedestrian": true,
+        "length": 19.2,
+        "width": 3.0,
+        "shape": [
+          [
+            290.4,
+            287.9
+          ],
+          [
+            309.6,
+            287.9
+          ]
+        ]
+      },
+      {
+        "id": ":C_c3_0",
+        "edge": ":C_c3",
+        "kind": "crossing",
+        "pedestrian": true,
+        "length": 19.2,
+        "width": 3.0,
+        "shape": [
+          [
+            287.9,
+            309.6
+          ],
+          [
+            287.9,
+            290.4
+          ]
+        ]
+      },
+      {
+        "id": ":C_w0_0",
+        "edge": ":C_w0",
+        "kind": "walkingarea",
+        "pedestrian": true,
+        "length": 3.32,
+        "width": 3.0,
+        "shape": [
+          [
+            286.4,
+            309.6
+          ],
+          [
+            286.4,
+            311.6
+          ],
+          [
+            288.4,
+            313.6
+          ],
+          [
+            290.4,
+            313.6
+          ],
+          [
+            290.29,
+            312.38
+          ],
+          [
+            289.96,
+            311.38
+          ],
+          [
+            289.4,
+            310.6
+          ],
+          [
+            288.62,
+            310.04
+          ],
+          [
+            287.62,
+            309.71
+          ]
+        ]
+      },
+      {
+        "id": ":C_w1_0",
+        "edge": ":C_w1",
+        "kind": "walkingarea",
+        "pedestrian": true,
+        "length": 3.32,
+        "width": 3.0,
+        "shape": [
+          [
+            309.6,
+            313.6
+          ],
+          [
+            311.6,
+            313.6
+          ],
+          [
+            313.6,
+            311.6
+          ],
+          [
+            313.6,
+            309.6
+          ],
+          [
+            312.38,
+            309.71
+          ],
+          [
+            311.38,
+            310.04
+          ],
+          [
+            310.6,
+            310.6
+          ],
+          [
+            310.04,
+            311.38
+          ],
+          [
+            309.71,
+            312.38
+          ]
+        ]
+      },
+      {
+        "id": ":C_w2_0",
+        "edge": ":C_w2",
+        "kind": "walkingarea",
+        "pedestrian": true,
+        "length": 3.32,
+        "width": 3.0,
+        "shape": [
+          [
+            313.6,
+            290.4
+          ],
+          [
+            313.6,
+            288.4
+          ],
+          [
+            311.6,
+            286.4
+          ],
+          [
+            309.6,
+            286.4
+          ],
+          [
+            309.71,
+            287.62
+          ],
+          [
+            310.04,
+            288.62
+          ],
+          [
+            310.6,
+            289.4
+          ],
+          [
+            311.38,
+            289.96
+          ],
+          [
+            312.38,
+            290.29
+          ]
+        ]
+      },
+      {
+        "id": ":C_w3_0",
+        "edge": ":C_w3",
+        "kind": "walkingarea",
+        "pedestrian": true,
+        "length": 3.32,
+        "width": 3.0,
+        "shape": [
+          [
+            290.4,
+            286.4
+          ],
+          [
+            288.4,
+            286.4
+          ],
+          [
+            286.4,
+            288.4
+          ],
+          [
+            286.4,
+            290.4
+          ],
+          [
+            287.62,
+            290.29
+          ],
+          [
+            288.62,
+            289.96
+          ],
+          [
+            289.4,
+            289.4
+          ],
+          [
+            289.96,
+            288.62
+          ],
+          [
+            290.29,
+            287.62
+          ]
+        ]
+      },
+      {
+        "id": ":E_w0_0",
+        "edge": ":E_w0",
+        "kind": "walkingarea",
+        "pedestrian": true,
+        "length": 21.2,
+        "width": 2.0,
+        "shape": [
+          [
+            600.0,
+            309.6
+          ],
+          [
+            600.0,
+            311.6
+          ],
+          [
+            600.0,
+            288.4
+          ],
+          [
+            600.0,
+            290.4
+          ]
+        ]
+      },
+      {
+        "id": ":N_w0_0",
+        "edge": ":N_w0",
+        "kind": "walkingarea",
+        "pedestrian": true,
+        "length": 21.2,
+        "width": 2.0,
+        "shape": [
+          [
+            290.4,
+            600.0
+          ],
+          [
+            288.4,
+            600.0
+          ],
+          [
+            311.6,
+            600.0
+          ],
+          [
+            309.6,
+            600.0
+          ]
+        ]
+      },
+      {
+        "id": ":S_w0_0",
+        "edge": ":S_w0",
+        "kind": "walkingarea",
+        "pedestrian": true,
+        "length": 21.2,
+        "width": 2.0,
+        "shape": [
+          [
+            309.6,
+            0.0
+          ],
+          [
+            311.6,
+            0.0
+          ],
+          [
+            288.4,
+            0.0
+          ],
+          [
+            290.4,
+            0.0
+          ]
+        ]
+      },
+      {
+        "id": ":W_w0_0",
+        "edge": ":W_w0",
+        "kind": "walkingarea",
+        "pedestrian": true,
+        "length": 21.2,
+        "width": 2.0,
+        "shape": [
+          [
+            0.0,
+            290.4
+          ],
+          [
+            0.0,
+            288.4
+          ],
+          [
+            0.0,
+            311.6
+          ],
+          [
+            0.0,
+            309.6
+          ]
+        ]
+      },
+      {
+        "id": "E_in_0",
+        "edge": "E_in",
+        "kind": "road",
+        "pedestrian": true,
+        "length": 286.4,
+        "width": 2.0,
+        "shape": [
+          [
+            600.0,
+            310.6
+          ],
+          [
+            313.6,
+            310.6
+          ]
+        ]
+      },
+      {
+        "id": "E_in_1",
+        "edge": "E_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            600.0,
+            308.0
+          ],
+          [
+            313.6,
+            308.0
+          ]
+        ]
+      },
+      {
+        "id": "E_in_2",
+        "edge": "E_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            600.0,
+            304.8
+          ],
+          [
+            313.6,
+            304.8
+          ]
+        ]
+      },
+      {
+        "id": "E_in_3",
+        "edge": "E_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            600.0,
+            301.6
+          ],
+          [
+            313.6,
+            301.6
+          ]
+        ]
+      },
+      {
+        "id": "E_out_0",
+        "edge": "E_out",
+        "kind": "road",
+        "pedestrian": true,
+        "length": 286.4,
+        "width": 2.0,
+        "shape": [
+          [
+            313.6,
+            289.4
+          ],
+          [
+            600.0,
+            289.4
+          ]
+        ]
+      },
+      {
+        "id": "E_out_1",
+        "edge": "E_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            313.6,
+            292.0
+          ],
+          [
+            600.0,
+            292.0
+          ]
+        ]
+      },
+      {
+        "id": "E_out_2",
+        "edge": "E_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            313.6,
+            295.2
+          ],
+          [
+            600.0,
+            295.2
+          ]
+        ]
+      },
+      {
+        "id": "E_out_3",
+        "edge": "E_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            313.6,
+            298.4
+          ],
+          [
+            600.0,
+            298.4
+          ]
+        ]
+      },
+      {
+        "id": "N_in_0",
+        "edge": "N_in",
+        "kind": "road",
+        "pedestrian": true,
+        "length": 286.4,
+        "width": 2.0,
+        "shape": [
+          [
+            289.4,
+            600.0
+          ],
+          [
+            289.4,
+            313.6
+          ]
+        ]
+      },
+      {
+        "id": "N_in_1",
+        "edge": "N_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            292.0,
+            600.0
+          ],
+          [
+            292.0,
+            313.6
+          ]
+        ]
+      },
+      {
+        "id": "N_in_2",
+        "edge": "N_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            295.2,
+            600.0
+          ],
+          [
+            295.2,
+            313.6
+          ]
+        ]
+      },
+      {
+        "id": "N_in_3",
+        "edge": "N_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            298.4,
+            600.0
+          ],
+          [
+            298.4,
+            313.6
+          ]
+        ]
+      },
+      {
+        "id": "N_out_0",
+        "edge": "N_out",
+        "kind": "road",
+        "pedestrian": true,
+        "length": 286.4,
+        "width": 2.0,
+        "shape": [
+          [
+            310.6,
+            313.6
+          ],
+          [
+            310.6,
+            600.0
+          ]
+        ]
+      },
+      {
+        "id": "N_out_1",
+        "edge": "N_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            308.0,
+            313.6
+          ],
+          [
+            308.0,
+            600.0
+          ]
+        ]
+      },
+      {
+        "id": "N_out_2",
+        "edge": "N_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            304.8,
+            313.6
+          ],
+          [
+            304.8,
+            600.0
+          ]
+        ]
+      },
+      {
+        "id": "N_out_3",
+        "edge": "N_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            301.6,
+            313.6
+          ],
+          [
+            301.6,
+            600.0
+          ]
+        ]
+      },
+      {
+        "id": "S_in_0",
+        "edge": "S_in",
+        "kind": "road",
+        "pedestrian": true,
+        "length": 286.4,
+        "width": 2.0,
+        "shape": [
+          [
+            310.6,
+            0.0
+          ],
+          [
+            310.6,
+            286.4
+          ]
+        ]
+      },
+      {
+        "id": "S_in_1",
+        "edge": "S_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            308.0,
+            0.0
+          ],
+          [
+            308.0,
+            286.4
+          ]
+        ]
+      },
+      {
+        "id": "S_in_2",
+        "edge": "S_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            304.8,
+            0.0
+          ],
+          [
+            304.8,
+            286.4
+          ]
+        ]
+      },
+      {
+        "id": "S_in_3",
+        "edge": "S_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            301.6,
+            0.0
+          ],
+          [
+            301.6,
+            286.4
+          ]
+        ]
+      },
+      {
+        "id": "S_out_0",
+        "edge": "S_out",
+        "kind": "road",
+        "pedestrian": true,
+        "length": 286.4,
+        "width": 2.0,
+        "shape": [
+          [
+            289.4,
+            286.4
+          ],
+          [
+            289.4,
+            0.0
+          ]
+        ]
+      },
+      {
+        "id": "S_out_1",
+        "edge": "S_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            292.0,
+            286.4
+          ],
+          [
+            292.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "id": "S_out_2",
+        "edge": "S_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            295.2,
+            286.4
+          ],
+          [
+            295.2,
+            0.0
+          ]
+        ]
+      },
+      {
+        "id": "S_out_3",
+        "edge": "S_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            298.4,
+            286.4
+          ],
+          [
+            298.4,
+            0.0
+          ]
+        ]
+      },
+      {
+        "id": "W_in_0",
+        "edge": "W_in",
+        "kind": "road",
+        "pedestrian": true,
+        "length": 286.4,
+        "width": 2.0,
+        "shape": [
+          [
+            0.0,
+            289.4
+          ],
+          [
+            286.4,
+            289.4
+          ]
+        ]
+      },
+      {
+        "id": "W_in_1",
+        "edge": "W_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            0.0,
+            292.0
+          ],
+          [
+            286.4,
+            292.0
+          ]
+        ]
+      },
+      {
+        "id": "W_in_2",
+        "edge": "W_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            0.0,
+            295.2
+          ],
+          [
+            286.4,
+            295.2
+          ]
+        ]
+      },
+      {
+        "id": "W_in_3",
+        "edge": "W_in",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            0.0,
+            298.4
+          ],
+          [
+            286.4,
+            298.4
+          ]
+        ]
+      },
+      {
+        "id": "W_out_0",
+        "edge": "W_out",
+        "kind": "road",
+        "pedestrian": true,
+        "length": 286.4,
+        "width": 2.0,
+        "shape": [
+          [
+            286.4,
+            310.6
+          ],
+          [
+            0.0,
+            310.6
+          ]
+        ]
+      },
+      {
+        "id": "W_out_1",
+        "edge": "W_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            286.4,
+            308.0
+          ],
+          [
+            0.0,
+            308.0
+          ]
+        ]
+      },
+      {
+        "id": "W_out_2",
+        "edge": "W_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            286.4,
+            304.8
+          ],
+          [
+            0.0,
+            304.8
+          ]
+        ]
+      },
+      {
+        "id": "W_out_3",
+        "edge": "W_out",
+        "kind": "road",
+        "pedestrian": false,
+        "length": 286.4,
+        "width": 3.2,
+        "shape": [
+          [
+            286.4,
+            301.6
+          ],
+          [
+            0.0,
+            301.6
+          ]
+        ]
+      }
+    ],
+    "junctions": [
+      {
+        "id": "C",
+        "x": 300.0,
+        "y": 300.0,
+        "shape": [
+          [
+            288.4,
+            313.6
+          ],
+          [
+            311.6,
+            313.6
+          ],
+          [
+            311.82,
+            312.49
+          ],
+          [
+            312.1,
+            312.1
+          ],
+          [
+            312.49,
+            311.82
+          ],
+          [
+            312.99,
+            311.66
+          ],
+          [
+            313.6,
+            311.6
+          ],
+          [
+            313.6,
+            288.4
+          ],
+          [
+            312.49,
+            288.18
+          ],
+          [
+            312.1,
+            287.9
+          ],
+          [
+            311.82,
+            287.51
+          ],
+          [
+            311.66,
+            287.01
+          ],
+          [
+            311.6,
+            286.4
+          ],
+          [
+            288.4,
+            286.4
+          ],
+          [
+            288.18,
+            287.51
+          ],
+          [
+            287.9,
+            287.9
+          ],
+          [
+            287.51,
+            288.18
+          ],
+          [
+            287.01,
+            288.34
+          ],
+          [
+            286.4,
+            288.4
+          ],
+          [
+            286.4,
+            311.6
+          ],
+          [
+            287.51,
+            311.82
+          ],
+          [
+            287.9,
+            312.1
+          ],
+          [
+            288.18,
+            312.49
+          ],
+          [
+            288.34,
+            312.99
+          ]
+        ]
+      },
+      {
+        "id": "E",
+        "x": 600.0,
+        "y": 300.0,
+        "shape": [
+          [
+            600.0,
+            300.0
+          ],
+          [
+            600.0,
+            288.4
+          ],
+          [
+            600.0,
+            300.0
+          ]
+        ]
+      },
+      {
+        "id": "N",
+        "x": 300.0,
+        "y": 600.0,
+        "shape": [
+          [
+            300.0,
+            600.0
+          ],
+          [
+            311.6,
+            600.0
+          ],
+          [
+            300.0,
+            600.0
+          ]
+        ]
+      },
+      {
+        "id": "S",
+        "x": 300.0,
+        "y": 0.0,
+        "shape": [
+          [
+            300.0,
+            0.0
+          ],
+          [
+            288.4,
+            0.0
+          ],
+          [
+            300.0,
+            0.0
+          ]
+        ]
+      },
+      {
+        "id": "W",
+        "x": 0.0,
+        "y": 300.0,
+        "shape": [
+          [
+            0.0,
+            300.0
+          ],
+          [
+            0.0,
+            311.6
+          ],
+          [
+            0.0,
+            300.0
+          ]
+        ]
+      }
+    ]
+  }
+}

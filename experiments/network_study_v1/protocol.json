@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "engine_sha256": "2a62fcfb00583e9082c0f3fabda9ff0d1c7de15513000d11ca3729b62a2229f2",
+  "study_code_sha256": "cbc2eb5ed45224444b817047b2b252be517b19c82c4c4087e25bcce75394fbd9",
+  "sumo_version": "1.28.0",
+  "discovery_seeds": [
+    17,
+    29,
+    43
+  ],
+  "validation_seeds": [
+    71,
+    83,
+    97
+  ],
+  "offsets": [
+    0,
+    11,
+    22,
+    45,
+    67
+  ],
+  "warmup": 300,
+  "duration": 1800,
+  "drain": 600,
+  "turning": {
+    "base_per_origin": 250,
+    "extra": {
+      "N": 150,
+      "S": 100,
+      "E": 50,
+      "W": 50
+    },
+    "shares": {
+      "R": 0.2,
+      "S": 0.6,
+      "L": 0.2
+    },
+    "phase_order": [
+      "N",
+      "E",
+      "S",
+      "W"
+    ],
+    "equal_greens": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "candidate_greens": [
+      24,
+      14,
+      20,
+      14
+    ],
+    "yellow": 3,
+    "allred": 5,
+    "exclusive_pedestrian_phase": true
+  },
+  "corridor": {
+    "base": {
+      "WE": 500,
+      "EW": 250,
+      "N0": 120,
+      "S0": 120,
+      "N1": 120,
+      "S1": 120
+    },
+    "extra": {
+      "WE": 200,
+      "EW": 100
+    },
+    "separation_m": [
+      150,
+      75
+    ],
+    "cycle": 90,
+    "normal_ew_green": 40,
+    "bottleneck_ew_green": 15,
+    "offset_definition": "Delay J1 cycle start relative to J0; phase position=(simulation time-offset) mod cycle"
+  },
+  "selection": "Among fully processed and integrity-passing offset cases minimize equal-seed mean timeLoss; freeze then validate unseen seeds",
+  "synthetic": true,
+  "limitations": [
+    "Protected origin turns plus exclusive pedestrians are a simplified research layout, not an optimized field signal plan.",
+    "Two straight-only intersections and fixed-speed pedestrians; no external network calibration.",
+    "Boundary occupancy indicates a stopped group near the observation boundary. It alone does not establish spillback.",
+    "Shorter connecting road also changes travel time and progression; the storage comparison is not a pure isolated storage experiment."
+  ]
+}

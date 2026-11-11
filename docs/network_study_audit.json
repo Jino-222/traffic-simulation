@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "runs": 39,
+  "input_hash_checks": 39,
+  "complete_path_checks": 3946,
+  "recorded_cases": [
+    {
+      "path": "turning\\seed_17\\adjusted",
+      "completed_paths": 788,
+      "matched": true
+    },
+    {
+      "path": "turning\\seed_17\\after",
+      "completed_paths": 788,
+      "matched": true
+    },
+    {
+      "path": "turning\\seed_17\\before",
+      "completed_paths": 584,
+      "matched": true
+    },
+    {
+      "path": "validation\\seed_71\\offset_00",
+      "completed_paths": 893,
+      "matched": true
+    },
+    {
+      "path": "validation\\seed_71\\offset_11",
+      "completed_paths": 893,
+      "matched": true
+    }
+  ],
+  "crossings_per_family": {
+    "turning": 4,
+    "corridor": 8
+  },
+  "all_phase_route_pedestrian_checks_passed": true,
+  "frozen_offset": 11,
+  "validation_pairs": [
+    {
+      "seed": 71,
+      "reference_loss": 22.11037908496731,
+      "selected_loss": 20.45330718954247,
+      "delta": -1.6570718954248385
+    },
+    {
+      "seed": 83,
+      "reference_loss": 22.710496732026144,
+      "selected_loss": 21.379477124182998,
+      "delta": -1.331019607843146
+    },
+    {
+      "seed": 97,
+      "reference_loss": 22.54220915032679,
+      "selected_loss": 20.423477124182995,
+      "delta": -2.118732026143796
+    }
+  ],
+  "paired_delta_mean": -1.702274509803927,
+  "note": "Integrity passing includes overloaded runs; it does not make incomplete-vehicle mean travel statistics representative of all demand."
+}

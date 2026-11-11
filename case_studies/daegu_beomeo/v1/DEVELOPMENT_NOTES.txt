@@ -1,0 +1,40 @@
+Observed issues, corrections and remaining limitations
+=====================================================
+
+1. OSM import warnings
+netconvert reported incomplete lane/turn/stop relations and signal construction warnings.
+Logs are preserved in network/. Public transport stops/routes are not modelled.
+The imported topology is a research example, not a field-verified digital twin.
+
+2. Joined signal identification
+A joined traffic-light controller ID is not necessarily a junction node ID.
+Initial node-ID proximity sorting missed the central joined controller.
+Selection was corrected to the nearest controlled incoming-lane endpoint.
+
+3. Duplicate signal program
+An additional tlLogic using programID=0 collided with the network's program.
+The failed run log is output/first_signal_load_failure.log.
+The new program uses ID=candidate. The exported TLS record verifies the active program.
+
+4. Unfinished traffic
+The post-occupancy experiment had 123 vehicles not inserted and 146 still running at t=2100.
+These were retained and reported, not deleted. The adjustment reduced pending demand,
+but completed-vehicle timeLoss rose. This is reported as a trade-off, not suppressed.
+
+5. 3D render occlusion
+Matplotlib 3D collection sorting initially drew road collections over buildings.
+The final 2.5D image uses explicit painter ordering and clipped road segments.
+Buildings may occlude vehicles; switch off buildings in the web viewer to inspect trajectories.
+Building height is unverified and includes explicit assumptions (README/data export).
+
+6. Native GUI capture
+TraCI stepping SUMO GUI required --start in this Windows session.
+Queued screenshots taken while rapidly changing the viewport initially showed the same close-up.
+Each final view is captured in an isolated GUI process; overview and close-up were visually checked.
+Native scheme vehicle colors are defaults, not the custom speed legend.
+
+7. Remaining research
+Only one synthetic demand seed, one green-split candidate, no calibration or pedestrian model.
+No learning-based AI controller, globally optimal plan or safety validation is claimed.
+The apparent extra-wide imported lanes on some approaches should be checked against OSM and field data.
+An urban extension is separate from the validated scope of the earlier single-intersection project.

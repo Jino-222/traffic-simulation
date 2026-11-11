@@ -1,0 +1,3 @@
+﻿ns,ew,seed_count,expected_seeds,eligible,requested,completed,pending,unfinished,mean_time_loss,worst_direction_time_loss,paired_delta_mean,paired_delta_sd,worst_paired_direction_delta,reason,pareto
+35,45,2,2,True,266,266,0,0,23.352180451127822,35.12869565217392,2.2709022556391005,2.4006541050900303,12.890217391304361,eligible,False
+45,35,2,2,True,266,266,0,0,19.968082706766914,23.53001207729468,-1.1131954887218036,0.5576573705162151,3.9049999999999994,eligible,True

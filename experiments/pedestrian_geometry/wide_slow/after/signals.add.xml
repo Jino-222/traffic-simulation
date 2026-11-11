@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <tlLogic id="C" type="static" programID="study" offset="0">
+    <phase name="ns_walk" duration="3" state="GGGGrrrrGGGGrrrrrGrG" />
+    <phase name="ns_clear" duration="39.0" state="GGGGrrrrGGGGrrrrrrrr" />
+    <phase name="ns_yellow" duration="3" state="yyyyrrrryyyyrrrrrrrr" />
+    <phase name="ns_all_red" duration="2" state="rrrrrrrrrrrrrrrrrrrr" />
+    <phase name="ew_walk" duration="3" state="rrrrGGGGrrrrGGGGGrGr" />
+    <phase name="ew_clear" duration="39.0" state="rrrrGGGGrrrrGGGGrrrr" />
+    <phase name="ew_yellow" duration="3" state="rrrryyyyrrrryyyyrrrr" />
+    <phase name="ew_all_red" duration="2" state="rrrrrrrrrrrrrrrrrrrr" />
+  </tlLogic>
+</additional>

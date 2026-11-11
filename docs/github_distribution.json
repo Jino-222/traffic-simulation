@@ -1,0 +1,16 @@
+{
+  "source_version": "v3-daegu",
+  "copied_files": 6239,
+  "copied_bytes": 836518723,
+  "omitted_raw_files": 802,
+  "omitted_raw_bytes": 2994512594,
+  "full_archive": {
+    "name": "traffic-impact-research-v3-daegu.zip",
+    "bytes": 411733901,
+    "sha256": "80322c8f3312bf91cbc008df8228b43a2150c2967456496e7d3d7feda6e2ae18",
+    "url": "https://github.com/Jino-222/traffic-simulation/releases/tag/v3.0.0-daegu"
+  },
+  "omission_rule": "Only experiments/** e2.xml, summary.xml, tripinfo.xml and fcd.xml.gz omitted; processed results, charts, replay frames and complete frozen city case retained.",
+  "original_project_modified": false,
+  "frozen_city_files_modified": false
+}

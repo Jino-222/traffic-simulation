@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<additional>
+  <tlLogic id="joinedS_7122702217_7122702219_7122702222_cluster_3076899982_3114874170_3781617604_3781617605_#4more" type="static" programID="candidate" offset="0">
+    <phase duration="16" state="GGGGGGGGGGGGGGrrrrrrrrrrrrrrrrrrrrrrrGGGGGGrrrrrrrrrrrrrrr" />
+    <phase duration="6" state="yGGGGGGGyyyyyyrrrrrrrrrrrrrrrrrrrrrrryyyyyyrrrrrrrrrrrrrrr" />
+    <phase duration="12" state="rGGGGGGGrrrrrrGGGrrrrrrGGrrrrrrGGGGGGrrrrrrrrrrrrrrrrrrrrr" />
+    <phase duration="6" state="ryyGGGGGrrrrrryyyrrrrrryyrrrrrryyyyyyrrrrrrrrrrrrrrrrrrrrr" />
+    <phase duration="21" state="rrrGGGGGrrrrrrrrrGGGGGGrrrrrrrrrrrrrrGGGGGGGGGGGGGGGGrrrrr" />
+    <phase duration="6" state="rrryyyyyrrrrrrrrryyyyyyrrrrrrrrrrrrrryyyyyyyyyyyyyyyyrrrrr" />
+    <phase duration="17" state="rGGrrrrrrrrrrrGGGrrrrrrrrGgGGGGrrrrrrrrrrrrrrrrrrrrrrGGGGG" />
+    <phase duration="6" state="rGGrrrrrrrrrrryyyrrrrrrrryyyyyyrrrrrrrrrrrrrrrrrrrrrryyyyy" />
+  </tlLogic>
+  <edgeData id="edges" file="edges.xml" period="60" begin="300" end="1500" excludeEmpty="true" />
+  <timedEvent type="SaveTLSStates" dest="tls.xml.gz" />
+</additional>
