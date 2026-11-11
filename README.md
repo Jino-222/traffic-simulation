@@ -23,7 +23,7 @@
 | `traffic/city.py`, `traffic/ui_city.py` | 범어네거리의 집단별 집계와 화면 |
 | `frontend/replay.js`, `frontend/city.js` | 실제 기록 기반 궤적 재생과 지도 |
 | `tests/` | 계산·실행·화면·집계 확인 방법 |
-| `docs/contributions.md` | 기여 범위와 지원자의 직접 확인 사항 |
+| `docs/contributions.md` | 개발 도구·외부 지원·검토 범위 |
 
 <img src="docs/integration/city_workspace.png" alt="통합 시뮬레이터의 대구 범어네거리 실제 화면" width="600">
 
@@ -103,7 +103,7 @@ python -m traffic.research.network_study --output experiments/new_network_study
 - `experiments`: 입력·처리된 결과·검사·실패 기록. Git에서 생략한 대용량 원시 출력은 전체 Release ZIP에 보존합니다.
 - `docs/research_report.md`, `advanced_research.md`, `network_research.md`, `profile_mix_research.md`: 결과·가정·한계.
 - `docs/requirements.json`: 원래 계획의 항목별 상태와 근거. 파일 존재만으로 완료를 판정하지 않습니다.
-- `docs/contributions.md`: 확인된 기여와 동생의 추가 직접 검토 기록 안내.
+- `docs/contributions.md`: 개발 도구, 외부 지원과 검증 범위.
 - `data/public/ngsim/ATTRIBUTION.md`: US DOT/FHWA NGSIM 표본의 출처·추출·변환·CC BY-SA3.0 조건. 파생 자료를 공유할 때 함께 제공합니다.
 - `docs/demo/traffic_comparison.mp4`: 실제 궤적 180초를 6배속으로 재생한 30초 시연.
 
@@ -111,7 +111,7 @@ python -m traffic.research.network_study --output experiments/new_network_study
 
 전체 배포 ZIP을 재생성할 때는 원시 출력이 모두 있는 전체 Release 사본을 사용해야 합니다. Git checkout에서 위 패키징 명령을 실행해도 생략된 원시 자료가 복원되지는 않습니다. 새 실험은 새 출력 폴더에 저장하세요.
 
-## 도시 사례와 화면 통합 (2026-11-11)
+## 도시 사례와 화면 통합
 
 - 왼쪽 작업 메뉴와 지도 중심 화면 구성의 디자인 참고: [CARTO Builder](https://docs.carto.com/carto-user-manual/maps). 로고·브랜드·소스 복제나 제휴 표시는 하지 않았습니다.
 - 로컬 Pretendard Variable v1.3.9를 사용합니다. [공식 프로젝트](https://github.com/orioncactus/pretendard), SIL Open Font License: `static/fonts/OFL.txt`. 실행 시 외부 폰트 CDN에 의존하지 않습니다.

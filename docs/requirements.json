@@ -288,8 +288,8 @@
     },
     {
       "id": "9d",
-      "title": "기여 기록",
-      "required_evidence": "실제 수행한 형/동생/AI 활동과 미확인 활동 구분, 제출용 안내",
+      "title": "개발 도구·검토 범위",
+      "required_evidence": "문제 설정, 외부 기획·개발 지원, AI 및 라이브러리 역할과 미실시 검토 범위 구분",
       "status": "complete",
       "evidence": [
         "docs/contributions.md"

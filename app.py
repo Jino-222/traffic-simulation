@@ -309,7 +309,7 @@ if view=='연구 기록':
     st.subheader("연구·검증 기록")
     reports={"범어네거리 통합":"daegu_integration.txt","전체 연구":"research_report.md","회전·인접 교차로":"network_research.md",
              "공개 자료·보행 형상":"advanced_research.md","시간 수요·차종":"profile_mix_research.md",
-             "기여와 직접 확인":"contributions.md"}
+             "개발 도구·검토 범위":"contributions.md"}
     report_name=st.selectbox("연구 문서",list(reports),key="report_document")
     report=ROOT/"docs"/reports[report_name]
     if report.exists():
@@ -322,5 +322,5 @@ if view=='연구 기록':
             st.video(str(movie))
             st.caption("30초 영상 · 실제 180초를 6배속 재생 · 별도 검증 시드 701 · 선택 후보 49/31초. 누적 통과량은 준비기간 900초를 포함한 실험 시작부터 집계합니다.")
             st.download_button("시연 영상 MP4 저장",movie.read_bytes(),file_name=movie.name,mime="video/mp4")
-    st.caption("기본 교차로는 합성 실험이며 공개 궤적 비교는 별도 연구입니다. 실제 현장 성능이나 동생분이 직접 수행한 경험을 대신 증명하지 않습니다.")
+    st.caption("기본 교차로는 합성 실험이며 공개 궤적 비교는 별도 연구입니다. 현장 성능은 검증하지 않았습니다.")
 
